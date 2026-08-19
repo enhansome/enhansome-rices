@@ -221,7 +221,7 @@
             "archived": false,
             "id": 498829633,
             "language": "Lua",
-            "last_commit": "2026-08-19T01:32:31Z",
+            "last_commit": "2026-08-19T20:15:12Z",
             "owner": "PassiveLemon",
             "repo": "lemonix",
             "stars": 20
@@ -296,7 +296,7 @@
             "archived": false,
             "id": 498991831,
             "language": "QML",
-            "last_commit": "2026-08-19T00:26:53Z",
+            "last_commit": "2026-08-19T16:23:28Z",
             "owner": "Savecoders",
             "repo": "dotfiles",
             "stars": 52
@@ -410,7 +410,7 @@
             "last_commit": "2026-07-24T18:05:50Z",
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4708
+            "stars": 4709
           },
           "title": "gh0stzk"
         },
@@ -791,7 +791,7 @@
             "archived": false,
             "id": 614105096,
             "language": "Python",
-            "last_commit": "2024-11-08T19:21:14Z",
+            "last_commit": "2026-08-19T15:52:56Z",
             "owner": "Comiclyy",
             "repo": "dotfiles",
             "stars": 5
@@ -1046,7 +1046,7 @@
             "last_commit": "2026-08-15T03:34:42Z",
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 15653
+            "stars": 15657
           },
           "title": "end-4"
         },
@@ -1181,7 +1181,7 @@
             "last_commit": "2025-03-23T05:31:38Z",
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8515
+            "stars": 8514
           },
           "title": "prasanthrangan"
         },
@@ -1196,7 +1196,7 @@
             "last_commit": "2026-03-14T11:01:17Z",
             "owner": "qxb3",
             "repo": "conf",
-            "stars": 808
+            "stars": 809
           },
           "title": "qxb3"
         },
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:49:39.654Z",
+    "last_updated": "2026-08-19T21:45:54.880Z",
     "original_repository": "zemmsoares/awesome-rices",
     "original_repository_id": 664358597,
     "original_repository_sha": "8e3fd966a4a9a3efa7199daee28d43dfd24f8ef8",
