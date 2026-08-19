@@ -1,729 +1,1879 @@
 {
   "items": [
     {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 687200106,
+            "language": "Nix",
+            "last_commit": "2026-08-18T19:24:41Z",
+            "owner": "tuxdotrs",
+            "repo": "nix-config",
+            "stars": 101
+          },
+          "title": "0xTux"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 463340694,
+            "language": "CSS",
+            "last_commit": "2023-09-06T15:03:28Z",
+            "owner": "AllJavi",
+            "repo": "tartarus-dotfiles",
+            "stars": 116
+          },
+          "title": "alljavi"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 498824675,
+            "language": null,
+            "last_commit": "2023-10-06T16:58:31Z",
+            "owner": "AlphaTechnolog",
+            "repo": "dotfiles",
+            "stars": 820
+          },
+          "title": "AlphaTechnolog"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 659758576,
+            "language": null,
+            "last_commit": "2026-03-18T14:01:31Z",
+            "owner": "Amitabha37377",
+            "repo": "Dotfiles",
+            "stars": 555
+          },
+          "title": "Amitabha37377"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 519420513,
+            "language": "Nix",
+            "last_commit": "2026-01-13T13:09:31Z",
+            "owner": "namishh",
+            "repo": "crystal",
+            "stars": 877
+          },
+          "title": "chadcat7"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 635746849,
+            "language": "Lua",
+            "last_commit": "2024-03-01T12:02:58Z",
+            "owner": "CmrCrabs",
+            "repo": "dotfiles",
+            "stars": 9
+          },
+          "title": "CmrCrabs"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 100718855,
+            "language": "Lua",
+            "last_commit": "2025-09-17T18:43:19Z",
+            "owner": "elenapan",
+            "repo": "dotfiles",
+            "stars": 3897
+          },
+          "title": "elenapan"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 574772571,
+            "language": "C",
+            "last_commit": "2023-11-02T04:23:36Z",
+            "owner": "sushi-ae",
+            "repo": "dotfiles",
+            "stars": 27
+          },
+          "title": "frapdotbm"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 581181559,
+            "language": "Lua",
+            "last_commit": "2025-10-15T13:48:22Z",
+            "owner": "gabrielfrimodig",
+            "repo": "dotfiles",
+            "stars": 44
+          },
+          "title": "gabrielfrimodig"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 507396242,
+            "language": "Lua",
+            "last_commit": "2026-05-03T13:51:33Z",
+            "owner": "HoNamDuong",
+            "repo": ".dotfiles",
+            "stars": 16
+          },
+          "title": "HoNamDuong"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 582849508,
+            "language": "Lua",
+            "last_commit": "2026-08-16T04:46:43Z",
+            "owner": "madhur",
+            "repo": "dotfiles",
+            "stars": 119
+          },
+          "title": "madhur"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 372545889,
+            "language": "Lua",
+            "last_commit": "2024-01-12T03:18:33Z",
+            "owner": "Manas140",
+            "repo": "dotfiles",
+            "stars": 435
+          },
+          "title": "Manas140"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 497296071,
+            "language": "Lua",
+            "last_commit": "2026-05-15T08:10:22Z",
+            "owner": "mel-edo",
+            "repo": "awesome-setup",
+            "stars": 338
+          },
+          "title": "MeledoJames"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 628843136,
+            "language": "Lua",
+            "last_commit": "2026-03-01T01:54:55Z",
+            "owner": "pablonoya",
+            "repo": "awesomewm-configuration",
+            "stars": 130
+          },
+          "title": "pablonoya"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 498829633,
+            "language": "Lua",
+            "last_commit": "2026-08-19T01:32:31Z",
+            "owner": "PassiveLemon",
+            "repo": "lemonix",
+            "stars": 20
+          },
+          "title": "PassiveLemon"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 729163365,
+            "language": "Lua",
+            "last_commit": "2024-01-17T09:37:39Z",
+            "owner": "rifsxd",
+            "repo": "oh-my-awesomewm-dots",
+            "stars": 17
+          },
+          "title": "rifsxd"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 487192911,
+            "language": "Lua",
+            "last_commit": "2022-12-13T08:25:33Z",
+            "owner": "rklyz",
+            "repo": "MyRice",
+            "stars": 286
+          },
+          "title": "rklyz"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 461824274,
+            "language": "Lua",
+            "last_commit": "2024-08-02T02:19:16Z",
+            "owner": "raexera",
+            "repo": "yoru",
+            "stars": 3581
+          },
+          "title": "rxyhn"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 461927742,
+            "language": "Lua",
+            "last_commit": "2023-01-11T21:39:54Z",
+            "owner": "saimoomedits",
+            "repo": "dotfiles",
+            "stars": 1171
+          },
+          "title": "saimoomedits"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 498991831,
+            "language": "QML",
+            "last_commit": "2026-08-19T00:26:53Z",
+            "owner": "Savecoders",
+            "repo": "dotfiles",
+            "stars": 52
+          },
+          "title": "Savecoders"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 622402845,
+            "language": "Lua",
+            "last_commit": "2024-02-22T21:08:02Z",
+            "owner": "ohxxm",
+            "repo": "espresso",
+            "stars": 32
+          },
+          "title": "Spaxly"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 382678675,
+            "language": "Lua",
+            "last_commit": "2025-06-22T22:55:54Z",
+            "owner": "Stardust-kyun",
+            "repo": "calla",
+            "stars": 744
+          },
+          "title": "Stardust-kyun"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 337606263,
+            "language": "Lua",
+            "last_commit": "2026-07-04T18:15:36Z",
+            "owner": "sammy-ette",
+            "repo": "dotfiles",
+            "stars": 101
+          },
+          "title": "TorchedSammy"
+        }
+      ],
       "title": "AwesomeWM"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "0xTux"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "alljavi"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AlphaTechnolog"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Amitabha37377"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "chadcat7"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "CmrCrabs"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "d-solis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "elenapan"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "frapdotbm"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "gabrielfrimodig"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "HoNamDuong"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "madhur"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Manas140"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "MeledoJames"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "pablonoya"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "PassiveLemon"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "rifsxd"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "rklyz"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "rxyhn"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "saimoomedits"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Savecoders"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Spaxly"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Stardust-kyun"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "TorchedSammy"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "vulekhanh"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 662371804,
+            "language": "Shell",
+            "last_commit": "2026-08-15T15:33:57Z",
+            "owner": "adilhyz",
+            "repo": "dotfiles-v1",
+            "stars": 50
+          },
+          "title": "adilhyz"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 498824675,
+            "language": null,
+            "last_commit": "2023-10-06T16:58:31Z",
+            "owner": "AlphaTechnolog",
+            "repo": "dotfiles",
+            "stars": 820
+          },
+          "title": "AlphaTechnolog"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 518195192,
+            "language": "CSS",
+            "last_commit": "2022-07-27T09:59:48Z",
+            "owner": "Erennedirlo",
+            "repo": "gruvbox-dotfiles",
+            "stars": 33
+          },
+          "title": "Erennedirlo"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 274171959,
+            "language": "Shell",
+            "last_commit": "2026-07-24T18:05:50Z",
+            "owner": "gh0stzk",
+            "repo": "dotfiles",
+            "stars": 4708
+          },
+          "title": "gh0stzk"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 512192832,
+            "language": "Shell",
+            "last_commit": "2022-09-08T15:09:08Z",
+            "owner": "sewergweller",
+            "repo": "messydots",
+            "stars": 68
+          },
+          "title": "Gwynsav"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 8497338,
+            "language": "Shell",
+            "last_commit": "2026-07-22T05:29:53Z",
+            "owner": "hlissner",
+            "repo": "dotfiles",
+            "stars": 1939
+          },
+          "title": "hlissner"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 442407622,
+            "language": "Shell",
+            "last_commit": "2025-04-01T04:48:41Z",
+            "owner": "JakeGinesin",
+            "repo": "dotfiles",
+            "stars": 69
+          },
+          "title": "JakeGinesin"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 514662997,
+            "language": "Shell",
+            "last_commit": "2024-04-10T08:47:30Z",
+            "owner": "kabinspace",
+            "repo": "dotfiles",
+            "stars": 123
+          },
+          "title": "kabinspace"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 563112507,
+            "language": "Shell",
+            "last_commit": "2023-07-13T11:06:53Z",
+            "owner": "Narmis-E",
+            "repo": "bspwm-catppuccin",
+            "stars": 23
+          },
+          "title": "Narmis-E"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 488638812,
+            "language": "Vim Script",
+            "last_commit": "2024-08-12T17:53:26Z",
+            "owner": "justvipul",
+            "repo": "dopedots",
+            "stars": 6
+          },
+          "title": "onlyvip"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 365005097,
+            "language": "Shell",
+            "last_commit": "2023-11-15T08:02:13Z",
+            "owner": "probe2k",
+            "repo": "bspwm_rice",
+            "stars": 60
+          },
+          "title": "probe2k"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 456068750,
+            "language": "Shell",
+            "last_commit": "2022-04-29T12:41:12Z",
+            "owner": "rklyz",
+            "repo": ".files",
+            "stars": 28
+          },
+          "title": "rklyz"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 640601133,
+            "language": "Shell",
+            "last_commit": "2025-01-10T23:52:43Z",
+            "owner": "sophed",
+            "repo": "dotfiles",
+            "stars": 22
+          },
+          "title": "Sophed"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 652181253,
+            "language": null,
+            "last_commit": "2025-10-29T20:55:09Z",
+            "owner": "sudoharun",
+            "repo": "dotfiles",
+            "stars": 256
+          },
+          "title": "sudoharun"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 519450279,
+            "language": "Shell",
+            "last_commit": "2025-02-09T23:58:10Z",
+            "owner": "valb-mig",
+            "repo": ".dotfiles",
+            "stars": 24
+          },
+          "title": "valb-mig"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 663033044,
+            "language": "Python",
+            "last_commit": "2026-07-15T14:33:09Z",
+            "owner": "imxade",
+            "repo": "dotbin",
+            "stars": 8
+          },
+          "title": "XADE"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 639145299,
+            "language": "Shell",
+            "last_commit": "2023-05-10T21:32:21Z",
+            "owner": "alanbaseddev",
+            "repo": "void-dotfiles",
+            "stars": 6
+          },
+          "title": "Weirdchupacabra"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 275450981,
+            "language": "Shell",
+            "last_commit": "2023-02-05T21:42:09Z",
+            "owner": "zoddDev",
+            "repo": "dotfiles",
+            "stars": 793
+          },
+          "title": "zoddDev"
+        }
+      ],
       "title": "bspwm"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "adilhyz"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AlphaTechnolog"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Erennedirlo"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "gh0stzk"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Gwynsav"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "hlissner"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "JakeGinesin"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "justleoo"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "kabinspace"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Narmis-E"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "onlyvip"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "probe2k"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "rklyz"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sophed"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "sudoharun"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "valb-mig"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "XADE"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Weirdchupacabra"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "zoddDev"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 640806468,
+            "language": "JavaScript",
+            "last_commit": "2026-03-01T10:07:53Z",
+            "owner": "SpreadiesInSpace",
+            "repo": "cinnamon-dotfiles",
+            "stars": 61
+          },
+          "title": "SpreadiesInSpace"
+        }
+      ],
       "title": "Cinnamon"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "SpreadiesInSpace"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 498824675,
+            "language": null,
+            "last_commit": "2023-10-06T16:58:31Z",
+            "owner": "AlphaTechnolog",
+            "repo": "dotfiles",
+            "stars": 820
+          },
+          "title": "AlphaTechnolog"
+        }
+      ],
       "title": "DkWM"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "AlphaTechnolog"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 498824675,
+            "language": null,
+            "last_commit": "2023-10-06T16:58:31Z",
+            "owner": "AlphaTechnolog",
+            "repo": "dotfiles",
+            "stars": 820
+          },
+          "title": "AlphaTechnolog"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 188524225,
+            "language": "Shell",
+            "last_commit": "2023-04-21T17:39:24Z",
+            "owner": "juacq97",
+            "repo": "dotfilesOlds",
+            "stars": 113
+          },
+          "title": "juacq97"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 624007291,
+            "language": "C",
+            "last_commit": "2023-04-05T15:20:25Z",
+            "owner": "nxb1t",
+            "repo": "dwm-dots",
+            "stars": 3
+          },
+          "title": "nxb1t"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 376447425,
+            "language": "Shell",
+            "last_commit": "2026-07-14T12:13:43Z",
+            "owner": "raihanadf",
+            "repo": "dotfiles",
+            "stars": 21
+          },
+          "title": "raihanadf"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 618679719,
+            "language": "Shell",
+            "last_commit": "2023-10-16T19:40:08Z",
+            "owner": "seeingangelz",
+            "repo": "dotfiles",
+            "stars": 147
+          },
+          "title": "seeingangelz"
+        }
+      ],
       "title": "dwm"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "AlphaTechnolog"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "juacq97"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "nxb1t"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "raihanadf"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "seeingangelz"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 463841787,
+            "language": "CSS",
+            "last_commit": "2024-12-06T03:36:09Z",
+            "owner": "1amSimp1e",
+            "repo": "dots",
+            "stars": 1729
+          },
+          "title": "1amSimp1e"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 452885652,
+            "language": "Shell",
+            "last_commit": "2023-11-17T23:22:48Z",
+            "owner": "AviVarma",
+            "repo": "Dotfiles",
+            "stars": 9
+          },
+          "title": "AviVarma"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 614105096,
+            "language": "Python",
+            "last_commit": "2024-11-08T19:21:14Z",
+            "owner": "Comiclyy",
+            "repo": "dotfiles",
+            "stars": 5
+          },
+          "title": "Comiclyy"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 660371752,
+            "language": "CSS",
+            "last_commit": "2025-01-01T05:12:22Z",
+            "owner": "GabrielTenma",
+            "repo": "dotfiles-gnm",
+            "stars": 61
+          },
+          "title": "GabrielTenma"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 588521067,
+            "language": "CSS",
+            "last_commit": "2023-05-20T05:30:25Z",
+            "owner": "NeuronSooup",
+            "repo": "Gnome-topbar-le-dots",
+            "stars": 82
+          },
+          "title": "NeuronSooup"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 572463801,
+            "language": "CSS",
+            "last_commit": "2024-07-31T12:30:40Z",
+            "owner": "slashedzer0",
+            "repo": "nobara-dotfiles",
+            "stars": 104
+          },
+          "title": "slashedzer0"
+        }
+      ],
       "title": "Gnome"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "1amSimp1e"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AviVarma"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Comiclyy"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "GabrielTenma"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "NeuronSooup"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "slashedzer0"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 384355271,
+            "language": "QML",
+            "last_commit": "2026-08-03T08:58:13Z",
+            "owner": "nuxshed",
+            "repo": "dotfiles",
+            "stars": 394
+          },
+          "title": "nuxshed"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 333290050,
+            "language": "Vim Script",
+            "last_commit": "2023-03-17T04:55:19Z",
+            "owner": "scourii",
+            "repo": ".dotfiles",
+            "stars": 17
+          },
+          "title": "scourii"
+        }
+      ],
       "title": "Herbstluftwm"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "nuxshed"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "scourii"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 855788323,
+            "language": "Lua",
+            "last_commit": "2026-06-10T12:19:25Z",
+            "owner": "ad1822",
+            "repo": "hyprdots",
+            "stars": 425
+          },
+          "title": "ad1822"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 463841787,
+            "language": "CSS",
+            "last_commit": "2024-12-06T03:36:09Z",
+            "owner": "1amSimp1e",
+            "repo": "dots",
+            "stars": 1729
+          },
+          "title": "1amSimp1e"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 795824208,
+            "language": "Shell",
+            "last_commit": "2026-08-02T07:12:37Z",
+            "owner": "AdiKsOnDev",
+            "repo": "HyprValley",
+            "stars": 48
+          },
+          "title": "AdiKsOnDev"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 703729709,
+            "language": "TypeScript",
+            "last_commit": "2026-08-17T12:44:14Z",
+            "owner": "AymanLyesri",
+            "repo": "ArchEclipse",
+            "stars": 632
+          },
+          "title": "ArchEclipse"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 613062338,
+            "language": "Lua",
+            "last_commit": "2026-07-26T08:24:33Z",
+            "owner": "cafreo",
+            "repo": "hyprland-intergalactic",
+            "stars": 12
+          },
+          "title": "cafreo"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 612521189,
+            "language": "Python",
+            "last_commit": "2026-05-20T14:59:50Z",
+            "owner": "command-z-z",
+            "repo": "Arch-dotfiles",
+            "stars": 108
+          },
+          "title": "command-z-z"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 554597407,
+            "language": "CSS",
+            "last_commit": "2023-09-24T21:42:29Z",
+            "owner": "conrad-mo",
+            "repo": "hyprland-dot",
+            "stars": 35
+          },
+          "title": "conrad-mo"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 588809665,
+            "language": "Lua",
+            "last_commit": "2026-07-28T02:35:11Z",
+            "owner": "Blxckmage",
+            "repo": "dotfiles",
+            "stars": 3
+          },
+          "title": "Blxckmage"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 643132451,
+            "language": "Lua",
+            "last_commit": "2023-08-17T06:43:11Z",
+            "owner": "dankdezpair",
+            "repo": "hypr.files-V2",
+            "stars": 6
+          },
+          "title": "dankdezpair"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 606640461,
+            "language": "Shell",
+            "last_commit": "2023-04-22T06:39:05Z",
+            "owner": "debuggyo",
+            "repo": "dots",
+            "stars": 3
+          },
+          "title": "debuggyo"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 583820372,
+            "language": "QML",
+            "last_commit": "2026-08-15T03:34:42Z",
+            "owner": "end-4",
+            "repo": "dots-hyprland",
+            "stars": 15653
+          },
+          "title": "end-4"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 663145595,
+            "language": "Nix",
+            "last_commit": "2023-12-01T09:09:45Z",
+            "owner": "HeinzDev",
+            "repo": "Hyprland-dotfiles",
+            "stars": 351
+          },
+          "title": "HeinzDev"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 587123133,
+            "language": "Nix",
+            "last_commit": "2026-08-18T12:35:24Z",
+            "owner": "justinlime",
+            "repo": "dotfiles",
+            "stars": 277
+          },
+          "title": "justinlime"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 590276532,
+            "language": "Shell",
+            "last_commit": "2024-09-16T15:37:32Z",
+            "owner": "knightfallxz",
+            "repo": "Hyprland-Custom-Configuration",
+            "stars": 342
+          },
+          "title": "Knightfall01"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 639589952,
+            "language": "Shell",
+            "last_commit": "2025-05-09T18:17:58Z",
+            "owner": "MathisP75",
+            "repo": "summer-day-and-night",
+            "stars": 550
+          },
+          "title": "MathisP75"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 803029598,
+            "language": "Nix",
+            "last_commit": "2025-03-19T06:38:19Z",
+            "owner": "TheMaxMur",
+            "repo": "NixOS-Configuration",
+            "stars": 347
+          },
+          "title": "MaxMur"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 660170293,
+            "language": "Lua",
+            "last_commit": "2023-07-16T13:50:23Z",
+            "owner": "maxtaran2010",
+            "repo": "hyprland-rice",
+            "stars": 38
+          },
+          "title": "maxtaran2010"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 602999211,
+            "language": "CSS",
+            "last_commit": "2024-04-28T01:21:08Z",
+            "owner": "Narmis-E",
+            "repo": "hyprland-dots",
+            "stars": 103
+          },
+          "title": "Narmis-E"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 500664098,
+            "language": "QML",
+            "last_commit": "2026-08-10T14:15:21Z",
+            "owner": "ozwaldorf",
+            "repo": "flake",
+            "stars": 49
+          },
+          "title": "ozwaldorf"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 622835059,
+            "language": "Shell",
+            "last_commit": "2025-03-23T05:31:38Z",
+            "owner": "prasanthrangan",
+            "repo": "hyprdots",
+            "stars": 8515
+          },
+          "title": "prasanthrangan"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 470315507,
+            "language": null,
+            "last_commit": "2026-03-14T11:01:17Z",
+            "owner": "qxb3",
+            "repo": "conf",
+            "stars": 808
+          },
+          "title": "qxb3"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 745799966,
+            "language": "QML",
+            "last_commit": "2026-07-17T07:44:54Z",
+            "owner": "shub39",
+            "repo": "dotfiles",
+            "stars": 402
+          },
+          "title": "shub39"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 754447570,
+            "language": "Nix",
+            "last_commit": "2026-08-17T10:30:36Z",
+            "owner": "Sly-Harvey",
+            "repo": "NixOS",
+            "stars": 585
+          },
+          "title": "Sly-Harvey"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 644748197,
+            "language": "Shell",
+            "last_commit": "2024-05-17T01:30:30Z",
+            "owner": "Spagett1",
+            "repo": "dotfiles",
+            "stars": 15
+          },
+          "title": "Spagett1"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 604067573,
+            "language": "Lua",
+            "last_commit": "2023-06-08T09:17:04Z",
+            "owner": "rikod3",
+            "repo": "wayland-dotfiles",
+            "stars": 32
+          },
+          "title": "Yorubae"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 860552429,
+            "language": "Python",
+            "last_commit": "2024-09-20T17:08:19Z",
+            "owner": "LoneWolf4713",
+            "repo": "aeronix-dotfiles",
+            "stars": 59
+          },
+          "title": "Lonewolf4713"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 812986637,
+            "language": "QML",
+            "last_commit": "2024-06-11T09:03:22Z",
+            "owner": "LoneWolf4713",
+            "repo": "seraphic.dotfiles",
+            "stars": 311
+          },
+          "title": "Lonewolf4713"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 782236193,
+            "language": "Shell",
+            "last_commit": "2024-04-07T15:38:04Z",
+            "owner": "LoneWolf4713",
+            "repo": "blue-monday.dots",
+            "stars": 34
+          },
+          "title": "Lonewolf4713"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 766532168,
+            "language": "Shell",
+            "last_commit": "2024-03-04T13:58:37Z",
+            "owner": "LoneWolf4713",
+            "repo": "auspicious-dots",
+            "stars": 101
+          },
+          "title": "Lonewolf4713"
+        }
+      ],
       "title": "Hyprland"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "ad1822"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "1amSimp1e"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "AdiKsOnDev"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "ArchEclipse"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "cafreo"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "command-z-z"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "conrad-mo"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Blxckmage"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "dankdezpair"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "debuggyo"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "dragoshr1234"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "end-4"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "HeinzDev"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "justinlime"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Knightfall01"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "MathisP75"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "MaxMur"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "maxtaran2010"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Narmis-E"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "ozwaldorf"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "prasanthrangan"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "qxb3"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "shub39"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sly-Harvey"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Spagett1"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Stetsed"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Yorubae"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Lonewolf4713"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Lonewolf4713"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Lonewolf4713"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Lonewolf4713"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 494649193,
+            "language": "Vim Script",
+            "last_commit": "2025-03-21T22:46:33Z",
+            "owner": "b1337xyz",
+            "repo": "config",
+            "stars": 16
+          },
+          "title": "b1337xyz"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 647361175,
+            "language": "Lua",
+            "last_commit": "2026-02-01T10:49:54Z",
+            "owner": "bibjaw99",
+            "repo": "workstation",
+            "stars": 782
+          },
+          "title": "bibjaw99"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 542120603,
+            "language": "HTML",
+            "last_commit": "2023-04-26T11:12:09Z",
+            "owner": "bryant-the-coder",
+            "repo": "dotfiles",
+            "stars": 7
+          },
+          "title": "bryant-the-coder"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 656164550,
+            "language": "Lua",
+            "last_commit": "2023-11-22T04:33:58Z",
+            "owner": "fathulfahmy",
+            "repo": "dotfiles-linux",
+            "stars": 10
+          },
+          "title": "fathulfahmy"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 605228118,
+            "language": "Shell",
+            "last_commit": "2024-10-15T10:48:31Z",
+            "owner": "sommaa",
+            "repo": "Mantis",
+            "stars": 118
+          },
+          "title": "sommaa"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 540317060,
+            "language": "Shell",
+            "last_commit": "2023-12-09T01:42:26Z",
+            "owner": "SunoBB",
+            "repo": "dot",
+            "stars": 35
+          },
+          "title": "SunoBB"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 545758267,
+            "language": "JavaScript",
+            "last_commit": "2023-02-06T17:43:45Z",
+            "owner": "TKK13909",
+            "repo": "dotfiles",
+            "stars": 6
+          },
+          "title": "TKK13909"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 758345118,
+            "language": "Lua",
+            "last_commit": "2026-05-30T16:24:06Z",
+            "owner": "Vallen217",
+            "repo": "dotfiles",
+            "stars": 108
+          },
+          "title": "Vallen217"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 586110881,
+            "language": "Shell",
+            "last_commit": "2025-01-15T23:45:29Z",
+            "owner": "zemmsoares",
+            "repo": ".dotfiles",
+            "stars": 8
+          },
+          "title": "zemmsoares"
+        }
+      ],
       "title": "i3wm"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "b1337xyz"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "BIBJAW"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "bibjaw99"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "bryant-the-coder"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "fathulfahmy"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "sommaa"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "SunoBB"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "TKK13909"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Vallen217"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "zemmsoares"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 296974508,
+            "language": "GLSL",
+            "last_commit": "2020-12-04T04:07:18Z",
+            "owner": "ComplexPlatform",
+            "repo": "KDE-dotfiles",
+            "stars": 227
+          },
+          "title": "ComplexPlatform"
+        }
+      ],
       "title": "KDE"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "ComplexPlatform"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 271757834,
+            "language": "Lua",
+            "last_commit": "2026-07-28T20:56:35Z",
+            "owner": "almqv",
+            "repo": "dotfiles",
+            "stars": 10
+          },
+          "title": "almqv"
+        }
+      ],
       "title": "LeftWM"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "almqv"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 617121764,
+            "language": "JavaScript",
+            "last_commit": "2026-08-19T01:46:58Z",
+            "owner": "TheWisker",
+            "repo": "Shikai",
+            "stars": 137
+          },
+          "title": "TheWisker"
+        }
+      ],
       "title": "Lightdm"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "TheWisker"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 498824675,
+            "language": null,
+            "last_commit": "2023-10-06T16:58:31Z",
+            "owner": "AlphaTechnolog",
+            "repo": "dotfiles",
+            "stars": 820
+          },
+          "title": "AlphaTechnolog"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 656428188,
+            "language": "Shell",
+            "last_commit": "2023-07-13T11:06:12Z",
+            "owner": "Narmis-E",
+            "repo": "openbox-everforest",
+            "stars": 8
+          },
+          "title": "Narmis-E"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 253780475,
+            "language": "CSS",
+            "last_commit": "2022-09-29T22:43:46Z",
+            "owner": "owl4ce",
+            "repo": "dotfiles",
+            "stars": 2168
+          },
+          "title": "owl4ce"
+        }
+      ],
       "title": "Openbox"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "AlphaTechnolog"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Narmis-E"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "owl4ce"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": true,
+            "id": 330052553,
+            "language": "Shell",
+            "last_commit": "2022-06-07T20:56:28Z",
+            "owner": "Barbaross93",
+            "repo": "Nebula",
+            "stars": 555
+          },
+          "title": "Barbaross93"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 537232661,
+            "language": "Python",
+            "last_commit": "2026-07-25T07:51:42Z",
+            "owner": "Darkkal44",
+            "repo": "Cozytile",
+            "stars": 947
+          },
+          "title": "Darkkal44"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 482843877,
+            "language": "Python",
+            "last_commit": "2023-04-19T10:07:02Z",
+            "owner": "Fluffy-Bean",
+            "repo": "dots",
+            "stars": 21
+          },
+          "title": "Fluffy-Bean"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 318020217,
+            "language": "Python",
+            "last_commit": "2023-07-31T00:49:48Z",
+            "owner": "gibranlp",
+            "repo": "QARSlp",
+            "stars": 125
+          },
+          "title": "gibranlp"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 663033044,
+            "language": "Python",
+            "last_commit": "2026-07-15T14:33:09Z",
+            "owner": "imxade",
+            "repo": "dotbin",
+            "stars": 8
+          },
+          "title": "XADE_qtile"
+        }
+      ],
       "title": "Qtile"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Barbaross93"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Darkkal44"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Fluffy-Bean"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "gibranlp"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Hamza12700"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "shayanaqvi"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "XADE_qtile"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 460344302,
+            "language": "Shell",
+            "last_commit": "2022-04-07T17:09:48Z",
+            "owner": "adarsh-67r",
+            "repo": "riverwm",
+            "stars": 177
+          },
+          "title": "theCode-Breaker"
+        }
+      ],
       "title": "Riverwm"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "theCode-Breaker"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 54023820,
+            "language": "Shell",
+            "last_commit": "2026-08-02T08:55:11Z",
+            "owner": "eoli3n",
+            "repo": "dotfiles",
+            "stars": 573
+          },
+          "title": "eoli3n"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 613620159,
+            "language": "CSS",
+            "last_commit": "2023-04-13T15:01:13Z",
+            "owner": "hifinerd",
+            "repo": "lugia-sway-dots",
+            "stars": 1
+          },
+          "title": "hifinerd"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 544567432,
+            "language": "Nix",
+            "last_commit": "2025-10-27T19:45:07Z",
+            "owner": "RicArch97",
+            "repo": "nixos-config",
+            "stars": 47
+          },
+          "title": "RicArch97"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 351871084,
+            "language": "Nix",
+            "last_commit": "2026-08-14T11:23:18Z",
+            "owner": "viperML",
+            "repo": "dotfiles",
+            "stars": 213
+          },
+          "title": "viperML"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 746564162,
+            "language": "CSS",
+            "last_commit": "2024-04-06T05:03:45Z",
+            "owner": "LoneWolf4713",
+            "repo": "new-wave",
+            "stars": 158
+          },
+          "title": "Lonewolf4713"
+        }
+      ],
       "title": "Sway"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "eoli3n"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "hifinerd"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "RicArch97"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "viperML"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Lonewolf4713"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 656164550,
+            "language": "Lua",
+            "last_commit": "2023-11-22T04:33:58Z",
+            "owner": "fathulfahmy",
+            "repo": "dotfiles-linux",
+            "stars": 10
+          },
+          "title": "fathulfahmy"
+        }
+      ],
       "title": "Xfce"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "fathulfahmy"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 368472530,
+            "language": null,
+            "last_commit": "2025-01-24T19:05:20Z",
+            "owner": "Icy-Thought",
+            "repo": "snowflake",
+            "stars": 174
+          },
+          "title": "Icy-Thought"
+        }
+      ],
       "title": "Xmonad"
     },
     {
-      "description": "",
-      "items": [],
-      "title": "Icy-Thought"
-    },
-    {
-      "description": "",
-      "items": [],
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 556232836,
+            "language": "HTML",
+            "last_commit": "2023-10-28T07:03:20Z",
+            "owner": "command-z-z",
+            "repo": "dotfiles",
+            "stars": 51
+          },
+          "title": "command-z-z"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 458865323,
+            "language": "Lua",
+            "last_commit": "2025-10-04T13:49:22Z",
+            "owner": "FelixKratz",
+            "repo": "dotfiles",
+            "stars": 2027
+          },
+          "title": "FelixKratz"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 422576354,
+            "language": "Shell",
+            "last_commit": "2026-08-12T21:12:57Z",
+            "owner": "tcmmichaelb139",
+            "repo": ".dotfiles",
+            "stars": 143
+          },
+          "title": "tcmmichaelb139"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
+            "id": 370144351,
+            "language": "Shell",
+            "last_commit": "2025-03-05T10:53:23Z",
+            "owner": "ZhongXiLu",
+            "repo": "dotfiles",
+            "stars": 46
+          },
+          "title": "ZhongXiLu"
+        }
+      ],
       "title": "Yabai"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "command-z-z"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "FelixKratz"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "tcmmichaelb139"
-    },
-    {
-      "description": "We welcome contributions from the community. If you have a unique rice that you'd like to showcase, please refer to our Contribution Guidelines.\nTo the extent possible under law, Miguel Soares has waived all copyright and related or neighboring rights to this work under the CC0 1.0 Universal license.",
-      "items": [],
-      "title": "ZhongXiLu"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T21:42:40.432Z",
+    "last_updated": "2026-08-19T12:49:39.654Z",
     "original_repository": "zemmsoares/awesome-rices",
+    "original_repository_id": 664358597,
     "original_repository_sha": "8e3fd966a4a9a3efa7199daee28d43dfd24f8ef8",
     "enhanced_repository": "enhansome/enhansome-rices",
     "enhanced_repository_description": null,
