@@ -164,7 +164,7 @@
             "last_commit": "2026-08-16T04:46:43Z",
             "owner": "madhur",
             "repo": "dotfiles",
-            "stars": 119
+            "stars": 120
           },
           "title": "madhur"
         },
@@ -269,7 +269,7 @@
             "last_commit": "2024-08-02T02:19:16Z",
             "owner": "raexera",
             "repo": "yoru",
-            "stars": 3581
+            "stars": 3582
           },
           "title": "rxyhn"
         },
@@ -296,7 +296,7 @@
             "archived": false,
             "id": 498991831,
             "language": "QML",
-            "last_commit": "2026-08-19T16:23:28Z",
+            "last_commit": "2026-08-20T14:57:07Z",
             "owner": "Savecoders",
             "repo": "dotfiles",
             "stars": 52
@@ -410,7 +410,7 @@
             "last_commit": "2026-07-24T18:05:50Z",
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4709
+            "stars": 4710
           },
           "title": "gh0stzk"
         },
@@ -764,7 +764,7 @@
             "last_commit": "2024-12-06T03:36:09Z",
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1729
+            "stars": 1727
           },
           "title": "1amSimp1e"
         },
@@ -911,7 +911,7 @@
             "last_commit": "2024-12-06T03:36:09Z",
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1729
+            "stars": 1727
           },
           "title": "1amSimp1e"
         },
@@ -1046,7 +1046,7 @@
             "last_commit": "2026-08-15T03:34:42Z",
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 15657
+            "stars": 15673
           },
           "title": "end-4"
         },
@@ -1163,7 +1163,7 @@
             "archived": false,
             "id": 500664098,
             "language": "QML",
-            "last_commit": "2026-08-10T14:15:21Z",
+            "last_commit": "2026-08-20T18:02:54Z",
             "owner": "ozwaldorf",
             "repo": "flake",
             "stars": 49
@@ -1181,7 +1181,7 @@
             "last_commit": "2025-03-23T05:31:38Z",
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8514
+            "stars": 8515
           },
           "title": "prasanthrangan"
         },
@@ -1196,7 +1196,7 @@
             "last_commit": "2026-03-14T11:01:17Z",
             "owner": "qxb3",
             "repo": "conf",
-            "stars": 809
+            "stars": 810
           },
           "title": "qxb3"
         },
@@ -1496,7 +1496,7 @@
             "archived": false,
             "id": 271757834,
             "language": "Lua",
-            "last_commit": "2026-07-28T20:56:35Z",
+            "last_commit": "2026-08-19T23:23:57Z",
             "owner": "almqv",
             "repo": "dotfiles",
             "stars": 10
@@ -1517,7 +1517,7 @@
             "archived": false,
             "id": 617121764,
             "language": "JavaScript",
-            "last_commit": "2026-08-19T01:46:58Z",
+            "last_commit": "2026-08-20T01:46:01Z",
             "owner": "TheWisker",
             "repo": "Shikai",
             "stars": 137
@@ -1736,10 +1736,10 @@
             "archived": false,
             "id": 351871084,
             "language": "Nix",
-            "last_commit": "2026-08-14T11:23:18Z",
+            "last_commit": "2026-08-20T11:38:49Z",
             "owner": "viperML",
             "repo": "dotfiles",
-            "stars": 213
+            "stars": 214
           },
           "title": "viperML"
         },
@@ -1871,7 +1871,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T21:45:54.880Z",
+    "last_updated": "2026-08-20T21:48:57.812Z",
     "original_repository": "zemmsoares/awesome-rices",
     "original_repository_id": 664358597,
     "original_repository_sha": "8e3fd966a4a9a3efa7199daee28d43dfd24f8ef8",
