@@ -11,7 +11,7 @@
             "archived": false,
             "id": 687200106,
             "language": "Nix",
-            "last_commit": "2026-08-21T15:07:44Z",
+            "last_commit": "2026-08-22T11:28:29Z",
             "owner": "tuxdotrs",
             "repo": "nix-config",
             "stars": 101
@@ -59,7 +59,7 @@
             "last_commit": "2026-03-18T14:01:31Z",
             "owner": "Amitabha37377",
             "repo": "Dotfiles",
-            "stars": 554
+            "stars": 553
           },
           "title": "Amitabha37377"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2026-01-13T13:09:31Z",
             "owner": "namishh",
             "repo": "crystal",
-            "stars": 877
+            "stars": 876
           },
           "title": "chadcat7"
         },
@@ -104,7 +104,7 @@
             "last_commit": "2025-09-17T18:43:19Z",
             "owner": "elenapan",
             "repo": "dotfiles",
-            "stars": 3896
+            "stars": 3897
           },
           "title": "elenapan"
         },
@@ -221,7 +221,7 @@
             "archived": false,
             "id": 498829633,
             "language": "Lua",
-            "last_commit": "2026-08-20T22:18:54Z",
+            "last_commit": "2026-08-22T20:45:40Z",
             "owner": "PassiveLemon",
             "repo": "lemonix",
             "stars": 20
@@ -269,7 +269,7 @@
             "last_commit": "2024-08-02T02:19:16Z",
             "owner": "raexera",
             "repo": "yoru",
-            "stars": 3582
+            "stars": 3581
           },
           "title": "rxyhn"
         },
@@ -296,7 +296,7 @@
             "archived": false,
             "id": 498991831,
             "language": "QML",
-            "last_commit": "2026-08-21T04:36:57Z",
+            "last_commit": "2026-08-22T04:07:20Z",
             "owner": "Savecoders",
             "repo": "dotfiles",
             "stars": 52
@@ -329,7 +329,7 @@
             "last_commit": "2025-06-22T22:55:54Z",
             "owner": "Stardust-kyun",
             "repo": "calla",
-            "stars": 744
+            "stars": 745
           },
           "title": "Stardust-kyun"
         },
@@ -354,21 +354,6 @@
     {
       "description": null,
       "items": [
-        {
-          "children": [],
-          "description": null,
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
-            "id": 662371804,
-            "language": "Shell",
-            "last_commit": "2026-08-15T15:33:57Z",
-            "owner": "adilhyz",
-            "repo": "dotfiles-v1",
-            "stars": 50
-          },
-          "title": "adilhyz"
-        },
         {
           "children": [],
           "description": null,
@@ -410,7 +395,7 @@
             "last_commit": "2026-07-24T18:05:50Z",
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4709
+            "stars": 4712
           },
           "title": "gh0stzk"
         },
@@ -440,7 +425,7 @@
             "last_commit": "2026-07-22T05:29:53Z",
             "owner": "hlissner",
             "repo": "dotfiles",
-            "stars": 1939
+            "stars": 1938
           },
           "title": "hlissner"
         },
@@ -575,7 +560,7 @@
             "last_commit": "2025-02-09T23:58:10Z",
             "owner": "valb-mig",
             "repo": ".dotfiles",
-            "stars": 24
+            "stars": 23
           },
           "title": "valb-mig"
         },
@@ -586,8 +571,8 @@
           "repo_info": {
             "archived": false,
             "id": 663033044,
-            "language": "Python",
-            "last_commit": "2026-08-21T16:58:30Z",
+            "language": "QML",
+            "last_commit": "2026-08-22T12:21:59Z",
             "owner": "imxade",
             "repo": "dotbin",
             "stars": 8
@@ -941,7 +926,7 @@
             "last_commit": "2026-08-17T12:44:14Z",
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 632
+            "stars": 633
           },
           "title": "ArchEclipse"
         },
@@ -1046,7 +1031,7 @@
             "last_commit": "2026-08-15T03:34:42Z",
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 15706
+            "stars": 15731
           },
           "title": "end-4"
         },
@@ -1226,7 +1211,7 @@
             "last_commit": "2026-08-17T10:30:36Z",
             "owner": "Sly-Harvey",
             "repo": "NixOS",
-            "stars": 586
+            "stars": 587
           },
           "title": "Sly-Harvey"
         },
@@ -1352,7 +1337,7 @@
             "last_commit": "2026-02-01T10:49:54Z",
             "owner": "bibjaw99",
             "repo": "workstation",
-            "stars": 782
+            "stars": 780
           },
           "title": "bibjaw99"
         },
@@ -1517,7 +1502,7 @@
             "archived": false,
             "id": 617121764,
             "language": "JavaScript",
-            "last_commit": "2026-08-21T01:50:57Z",
+            "last_commit": "2026-08-22T01:44:48Z",
             "owner": "TheWisker",
             "repo": "Shikai",
             "stars": 137
@@ -1607,7 +1592,7 @@
             "last_commit": "2026-07-25T07:51:42Z",
             "owner": "Darkkal44",
             "repo": "Cozytile",
-            "stars": 947
+            "stars": 948
           },
           "title": "Darkkal44"
         },
@@ -1648,8 +1633,8 @@
           "repo_info": {
             "archived": false,
             "id": 663033044,
-            "language": "Python",
-            "last_commit": "2026-08-21T16:58:30Z",
+            "language": "QML",
+            "last_commit": "2026-08-22T12:21:59Z",
             "owner": "imxade",
             "repo": "dotbin",
             "stars": 8
@@ -1739,7 +1724,7 @@
             "last_commit": "2026-08-20T11:38:49Z",
             "owner": "viperML",
             "repo": "dotfiles",
-            "stars": 214
+            "stars": 215
           },
           "title": "viperML"
         },
@@ -1871,7 +1856,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:43:56.558Z",
+    "last_updated": "2026-08-22T21:41:16.972Z",
     "original_repository": "zemmsoares/awesome-rices",
     "original_repository_id": 664358597,
     "original_repository_sha": "8e3fd966a4a9a3efa7199daee28d43dfd24f8ef8",
