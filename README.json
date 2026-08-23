@@ -104,7 +104,7 @@
             "last_commit": "2025-09-17T18:43:19Z",
             "owner": "elenapan",
             "repo": "dotfiles",
-            "stars": 3897
+            "stars": 3898
           },
           "title": "elenapan"
         },
@@ -191,7 +191,7 @@
             "archived": false,
             "id": 497296071,
             "language": "Lua",
-            "last_commit": "2026-05-15T08:10:22Z",
+            "last_commit": "2026-08-23T12:07:48Z",
             "owner": "mel-edo",
             "repo": "awesome-setup",
             "stars": 339
@@ -269,7 +269,7 @@
             "last_commit": "2024-08-02T02:19:16Z",
             "owner": "raexera",
             "repo": "yoru",
-            "stars": 3581
+            "stars": 3580
           },
           "title": "rxyhn"
         },
@@ -296,7 +296,7 @@
             "archived": false,
             "id": 498991831,
             "language": "QML",
-            "last_commit": "2026-08-22T04:07:20Z",
+            "last_commit": "2026-08-23T03:41:53Z",
             "owner": "Savecoders",
             "repo": "dotfiles",
             "stars": 52
@@ -395,7 +395,7 @@
             "last_commit": "2026-07-24T18:05:50Z",
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4712
+            "stars": 4714
           },
           "title": "gh0stzk"
         },
@@ -605,7 +605,7 @@
             "last_commit": "2023-02-05T21:42:09Z",
             "owner": "zoddDev",
             "repo": "dotfiles",
-            "stars": 793
+            "stars": 792
           },
           "title": "zoddDev"
         }
@@ -881,7 +881,7 @@
             "last_commit": "2026-06-10T12:19:25Z",
             "owner": "ad1822",
             "repo": "hyprdots",
-            "stars": 425
+            "stars": 424
           },
           "title": "ad1822"
         },
@@ -926,7 +926,7 @@
             "last_commit": "2026-08-17T12:44:14Z",
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 633
+            "stars": 635
           },
           "title": "ArchEclipse"
         },
@@ -1031,7 +1031,7 @@
             "last_commit": "2026-08-15T03:34:42Z",
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 15731
+            "stars": 15759
           },
           "title": "end-4"
         },
@@ -1166,7 +1166,7 @@
             "last_commit": "2025-03-23T05:31:38Z",
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8514
+            "stars": 8515
           },
           "title": "prasanthrangan"
         },
@@ -1181,7 +1181,7 @@
             "last_commit": "2026-03-14T11:01:17Z",
             "owner": "qxb3",
             "repo": "conf",
-            "stars": 810
+            "stars": 809
           },
           "title": "qxb3"
         },
@@ -1196,7 +1196,7 @@
             "last_commit": "2026-07-17T07:44:54Z",
             "owner": "shub39",
             "repo": "dotfiles",
-            "stars": 402
+            "stars": 404
           },
           "title": "shub39"
         },
@@ -1208,10 +1208,10 @@
             "archived": false,
             "id": 754447570,
             "language": "Nix",
-            "last_commit": "2026-08-17T10:30:36Z",
+            "last_commit": "2026-08-23T00:03:06Z",
             "owner": "Sly-Harvey",
             "repo": "NixOS",
-            "stars": 587
+            "stars": 589
           },
           "title": "Sly-Harvey"
         },
@@ -1502,7 +1502,7 @@
             "archived": false,
             "id": 617121764,
             "language": "JavaScript",
-            "last_commit": "2026-08-22T01:44:48Z",
+            "last_commit": "2026-08-23T01:53:54Z",
             "owner": "TheWisker",
             "repo": "Shikai",
             "stars": 137
@@ -1556,7 +1556,7 @@
             "last_commit": "2022-09-29T22:43:46Z",
             "owner": "owl4ce",
             "repo": "dotfiles",
-            "stars": 2169
+            "stars": 2170
           },
           "title": "owl4ce"
         }
@@ -1721,7 +1721,7 @@
             "archived": false,
             "id": 351871084,
             "language": "Nix",
-            "last_commit": "2026-08-20T11:38:49Z",
+            "last_commit": "2026-08-23T17:16:42Z",
             "owner": "viperML",
             "repo": "dotfiles",
             "stars": 215
@@ -1856,7 +1856,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:41:16.972Z",
+    "last_updated": "2026-08-23T21:40:58.767Z",
     "original_repository": "zemmsoares/awesome-rices",
     "original_repository_id": 664358597,
     "original_repository_sha": "8e3fd966a4a9a3efa7199daee28d43dfd24f8ef8",
