@@ -11,7 +11,7 @@
             "archived": false,
             "id": 687200106,
             "language": "Nix",
-            "last_commit": "2026-08-22T11:28:29Z",
+            "last_commit": "2026-08-24T15:44:21Z",
             "owner": "tuxdotrs",
             "repo": "nix-config",
             "stars": 101
@@ -1031,7 +1031,7 @@
             "last_commit": "2026-08-15T03:34:42Z",
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 15778
+            "stars": 15785
           },
           "title": "end-4"
         },
@@ -1166,7 +1166,7 @@
             "last_commit": "2025-03-23T05:31:38Z",
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8515
+            "stars": 8516
           },
           "title": "prasanthrangan"
         },
@@ -1856,7 +1856,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:10:24.617Z",
+    "last_updated": "2026-08-24T21:49:00.090Z",
     "original_repository": "zemmsoares/awesome-rices",
     "original_repository_id": 664358597,
     "original_repository_sha": "8e3fd966a4a9a3efa7199daee28d43dfd24f8ef8",
