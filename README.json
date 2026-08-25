@@ -44,7 +44,7 @@
             "last_commit": "2023-10-06T16:58:31Z",
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 820
+            "stars": 821
           },
           "title": "AlphaTechnolog"
         },
@@ -74,7 +74,7 @@
             "last_commit": "2026-01-13T13:09:31Z",
             "owner": "namishh",
             "repo": "crystal",
-            "stars": 876
+            "stars": 878
           },
           "title": "chadcat7"
         },
@@ -365,7 +365,7 @@
             "last_commit": "2023-10-06T16:58:31Z",
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 820
+            "stars": 821
           },
           "title": "AlphaTechnolog"
         },
@@ -647,7 +647,7 @@
             "last_commit": "2023-10-06T16:58:31Z",
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 820
+            "stars": 821
           },
           "title": "AlphaTechnolog"
         }
@@ -668,7 +668,7 @@
             "last_commit": "2023-10-06T16:58:31Z",
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 820
+            "stars": 821
           },
           "title": "AlphaTechnolog"
         },
@@ -923,7 +923,7 @@
             "archived": false,
             "id": 703729709,
             "language": "TypeScript",
-            "last_commit": "2026-08-17T12:44:14Z",
+            "last_commit": "2026-08-25T19:27:25Z",
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
             "stars": 635
@@ -1031,7 +1031,7 @@
             "last_commit": "2026-08-15T03:34:42Z",
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 15792
+            "stars": 15806
           },
           "title": "end-4"
         },
@@ -1058,7 +1058,7 @@
             "archived": false,
             "id": 587123133,
             "language": "Nix",
-            "last_commit": "2026-08-24T10:43:25Z",
+            "last_commit": "2026-08-25T11:29:31Z",
             "owner": "justinlime",
             "repo": "dotfiles",
             "stars": 277
@@ -1166,7 +1166,7 @@
             "last_commit": "2025-03-23T05:31:38Z",
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8516
+            "stars": 8512
           },
           "title": "prasanthrangan"
         },
@@ -1196,7 +1196,7 @@
             "last_commit": "2026-07-17T07:44:54Z",
             "owner": "shub39",
             "repo": "dotfiles",
-            "stars": 404
+            "stars": 403
           },
           "title": "shub39"
         },
@@ -1211,7 +1211,7 @@
             "last_commit": "2026-08-23T00:03:06Z",
             "owner": "Sly-Harvey",
             "repo": "NixOS",
-            "stars": 589
+            "stars": 590
           },
           "title": "Sly-Harvey"
         },
@@ -1337,7 +1337,7 @@
             "last_commit": "2026-02-01T10:49:54Z",
             "owner": "bibjaw99",
             "repo": "workstation",
-            "stars": 780
+            "stars": 779
           },
           "title": "bibjaw99"
         },
@@ -1427,7 +1427,7 @@
             "last_commit": "2026-05-30T16:24:06Z",
             "owner": "Vallen217",
             "repo": "dotfiles",
-            "stars": 108
+            "stars": 107
           },
           "title": "Vallen217"
         },
@@ -1526,7 +1526,7 @@
             "last_commit": "2023-10-06T16:58:31Z",
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 820
+            "stars": 821
           },
           "title": "AlphaTechnolog"
         },
@@ -1719,21 +1719,6 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
-            "id": 351871084,
-            "language": "Nix",
-            "last_commit": "2026-08-24T05:54:45Z",
-            "owner": "viperML",
-            "repo": "dotfiles",
-            "stars": 215
-          },
-          "title": "viperML"
-        },
-        {
-          "children": [],
-          "description": null,
-          "node_type": "item",
-          "repo_info": {
-            "archived": false,
             "id": 746564162,
             "language": "CSS",
             "last_commit": "2024-04-06T05:03:45Z",
@@ -1856,7 +1841,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:21.652Z",
+    "last_updated": "2026-08-25T21:48:55.821Z",
     "original_repository": "zemmsoares/awesome-rices",
     "original_repository_id": 664358597,
     "original_repository_sha": "8e3fd966a4a9a3efa7199daee28d43dfd24f8ef8",
