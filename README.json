@@ -296,7 +296,7 @@
             "archived": false,
             "id": 498991831,
             "language": "QML",
-            "last_commit": "2026-08-24T03:46:45Z",
+            "last_commit": "2026-08-25T01:59:25Z",
             "owner": "Savecoders",
             "repo": "dotfiles",
             "stars": 52
@@ -395,7 +395,7 @@
             "last_commit": "2026-08-24T02:43:27Z",
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4714
+            "stars": 4715
           },
           "title": "gh0stzk"
         },
@@ -1031,7 +1031,7 @@
             "last_commit": "2026-08-15T03:34:42Z",
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 15785
+            "stars": 15792
           },
           "title": "end-4"
         },
@@ -1502,7 +1502,7 @@
             "archived": false,
             "id": 617121764,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T01:51:34Z",
+            "last_commit": "2026-08-25T01:46:09Z",
             "owner": "TheWisker",
             "repo": "Shikai",
             "stars": 137
@@ -1592,7 +1592,7 @@
             "last_commit": "2026-07-25T07:51:42Z",
             "owner": "Darkkal44",
             "repo": "Cozytile",
-            "stars": 948
+            "stars": 947
           },
           "title": "Darkkal44"
         },
@@ -1856,7 +1856,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:49:00.090Z",
+    "last_updated": "2026-08-25T06:03:21.652Z",
     "original_repository": "zemmsoares/awesome-rices",
     "original_repository_id": 664358597,
     "original_repository_sha": "8e3fd966a4a9a3efa7199daee28d43dfd24f8ef8",
