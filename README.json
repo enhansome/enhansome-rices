@@ -16,7 +16,8 @@
             "repo": "nix-config",
             "stars": 102
           },
-          "title": "0xTux"
+          "title": "0xTux",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -31,7 +32,8 @@
             "repo": "tartarus-dotfiles",
             "stars": 116
           },
-          "title": "alljavi"
+          "title": "alljavi",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -46,7 +48,8 @@
             "repo": "dotfiles",
             "stars": 821
           },
-          "title": "AlphaTechnolog"
+          "title": "AlphaTechnolog",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -61,7 +64,8 @@
             "repo": "Dotfiles",
             "stars": 553
           },
-          "title": "Amitabha37377"
+          "title": "Amitabha37377",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -76,7 +80,8 @@
             "repo": "crystal",
             "stars": 878
           },
-          "title": "chadcat7"
+          "title": "chadcat7",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -91,7 +96,8 @@
             "repo": "dotfiles",
             "stars": 9
           },
-          "title": "CmrCrabs"
+          "title": "CmrCrabs",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -106,7 +112,8 @@
             "repo": "dotfiles",
             "stars": 3900
           },
-          "title": "elenapan"
+          "title": "elenapan",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -121,7 +128,8 @@
             "repo": "dotfiles",
             "stars": 27
           },
-          "title": "frapdotbm"
+          "title": "frapdotbm",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -136,7 +144,8 @@
             "repo": "dotfiles",
             "stars": 44
           },
-          "title": "gabrielfrimodig"
+          "title": "gabrielfrimodig",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -151,7 +160,8 @@
             "repo": ".dotfiles",
             "stars": 16
           },
-          "title": "HoNamDuong"
+          "title": "HoNamDuong",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -166,7 +176,8 @@
             "repo": "dotfiles",
             "stars": 120
           },
-          "title": "madhur"
+          "title": "madhur",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -181,7 +192,8 @@
             "repo": "dotfiles",
             "stars": 435
           },
-          "title": "Manas140"
+          "title": "Manas140",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -194,9 +206,10 @@
             "last_commit": "2026-08-23T12:07:48Z",
             "owner": "mel-edo",
             "repo": "awesome-setup",
-            "stars": 339
+            "stars": 340
           },
-          "title": "MeledoJames"
+          "title": "MeledoJames",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -211,7 +224,8 @@
             "repo": "awesomewm-configuration",
             "stars": 130
           },
-          "title": "pablonoya"
+          "title": "pablonoya",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -221,12 +235,13 @@
             "archived": false,
             "id": 498829633,
             "language": "Lua",
-            "last_commit": "2026-08-22T20:45:40Z",
+            "last_commit": "2026-08-27T17:45:14Z",
             "owner": "PassiveLemon",
             "repo": "lemonix",
             "stars": 20
           },
-          "title": "PassiveLemon"
+          "title": "PassiveLemon",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -241,7 +256,8 @@
             "repo": "oh-my-awesomewm-dots",
             "stars": 17
           },
-          "title": "rifsxd"
+          "title": "rifsxd",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -256,7 +272,8 @@
             "repo": "MyRice",
             "stars": 286
           },
-          "title": "rklyz"
+          "title": "rklyz",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -271,7 +288,8 @@
             "repo": "yoru",
             "stars": 3579
           },
-          "title": "rxyhn"
+          "title": "rxyhn",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -286,7 +304,8 @@
             "repo": "dotfiles",
             "stars": 1169
           },
-          "title": "saimoomedits"
+          "title": "saimoomedits",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -301,7 +320,8 @@
             "repo": "dotfiles",
             "stars": 52
           },
-          "title": "Savecoders"
+          "title": "Savecoders",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -316,7 +336,8 @@
             "repo": "espresso",
             "stars": 32
           },
-          "title": "Spaxly"
+          "title": "Spaxly",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -331,7 +352,8 @@
             "repo": "calla",
             "stars": 744
           },
-          "title": "Stardust-kyun"
+          "title": "Stardust-kyun",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -346,7 +368,8 @@
             "repo": "dotfiles",
             "stars": 101
           },
-          "title": "TorchedSammy"
+          "title": "TorchedSammy",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "AwesomeWM"
@@ -367,7 +390,8 @@
             "repo": "dotfiles",
             "stars": 821
           },
-          "title": "AlphaTechnolog"
+          "title": "AlphaTechnolog",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -382,7 +406,8 @@
             "repo": "gruvbox-dotfiles",
             "stars": 33
           },
-          "title": "Erennedirlo"
+          "title": "Erennedirlo",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -395,9 +420,10 @@
             "last_commit": "2026-08-24T02:43:27Z",
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4715
+            "stars": 4718
           },
-          "title": "gh0stzk"
+          "title": "gh0stzk",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -412,7 +438,8 @@
             "repo": "messydots",
             "stars": 68
           },
-          "title": "Gwynsav"
+          "title": "Gwynsav",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -427,7 +454,8 @@
             "repo": "dotfiles",
             "stars": 1938
           },
-          "title": "hlissner"
+          "title": "hlissner",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -442,7 +470,8 @@
             "repo": "dotfiles",
             "stars": 69
           },
-          "title": "JakeGinesin"
+          "title": "JakeGinesin",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -457,7 +486,8 @@
             "repo": "dotfiles",
             "stars": 123
           },
-          "title": "kabinspace"
+          "title": "kabinspace",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -472,7 +502,8 @@
             "repo": "bspwm-catppuccin",
             "stars": 23
           },
-          "title": "Narmis-E"
+          "title": "Narmis-E",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -487,7 +518,8 @@
             "repo": "dopedots",
             "stars": 6
           },
-          "title": "onlyvip"
+          "title": "onlyvip",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -502,7 +534,8 @@
             "repo": "bspwm_rice",
             "stars": 60
           },
-          "title": "probe2k"
+          "title": "probe2k",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -517,7 +550,8 @@
             "repo": ".files",
             "stars": 28
           },
-          "title": "rklyz"
+          "title": "rklyz",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -532,7 +566,8 @@
             "repo": "dotfiles",
             "stars": 22
           },
-          "title": "Sophed"
+          "title": "Sophed",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -547,7 +582,8 @@
             "repo": "dotfiles",
             "stars": 256
           },
-          "title": "sudoharun"
+          "title": "sudoharun",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -562,7 +598,8 @@
             "repo": ".dotfiles",
             "stars": 23
           },
-          "title": "valb-mig"
+          "title": "valb-mig",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -577,7 +614,8 @@
             "repo": "dotbin",
             "stars": 8
           },
-          "title": "XADE"
+          "title": "XADE",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -592,7 +630,8 @@
             "repo": "void-dotfiles",
             "stars": 6
           },
-          "title": "Weirdchupacabra"
+          "title": "Weirdchupacabra",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -607,7 +646,8 @@
             "repo": "dotfiles",
             "stars": 793
           },
-          "title": "zoddDev"
+          "title": "zoddDev",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "bspwm"
@@ -628,7 +668,8 @@
             "repo": "cinnamon-dotfiles",
             "stars": 61
           },
-          "title": "SpreadiesInSpace"
+          "title": "SpreadiesInSpace",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "Cinnamon"
@@ -649,7 +690,8 @@
             "repo": "dotfiles",
             "stars": 821
           },
-          "title": "AlphaTechnolog"
+          "title": "AlphaTechnolog",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "DkWM"
@@ -670,7 +712,8 @@
             "repo": "dotfiles",
             "stars": 821
           },
-          "title": "AlphaTechnolog"
+          "title": "AlphaTechnolog",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -685,7 +728,8 @@
             "repo": "dotfilesOlds",
             "stars": 113
           },
-          "title": "juacq97"
+          "title": "juacq97",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -700,7 +744,8 @@
             "repo": "dwm-dots",
             "stars": 3
           },
-          "title": "nxb1t"
+          "title": "nxb1t",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -715,7 +760,8 @@
             "repo": "dotfiles",
             "stars": 21
           },
-          "title": "raihanadf"
+          "title": "raihanadf",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -730,7 +776,8 @@
             "repo": "dotfiles",
             "stars": 147
           },
-          "title": "seeingangelz"
+          "title": "seeingangelz",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "dwm"
@@ -749,9 +796,10 @@
             "last_commit": "2024-12-06T03:36:09Z",
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1729
+            "stars": 1730
           },
-          "title": "1amSimp1e"
+          "title": "1amSimp1e",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -766,7 +814,8 @@
             "repo": "Dotfiles",
             "stars": 9
           },
-          "title": "AviVarma"
+          "title": "AviVarma",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -781,7 +830,8 @@
             "repo": "dotfiles",
             "stars": 5
           },
-          "title": "Comiclyy"
+          "title": "Comiclyy",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -796,7 +846,8 @@
             "repo": "dotfiles-gnm",
             "stars": 61
           },
-          "title": "GabrielTenma"
+          "title": "GabrielTenma",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -811,7 +862,8 @@
             "repo": "Gnome-topbar-le-dots",
             "stars": 82
           },
-          "title": "NeuronSooup"
+          "title": "NeuronSooup",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -826,7 +878,8 @@
             "repo": "nobara-dotfiles",
             "stars": 104
           },
-          "title": "slashedzer0"
+          "title": "slashedzer0",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "Gnome"
@@ -847,7 +900,8 @@
             "repo": "dotfiles",
             "stars": 394
           },
-          "title": "nuxshed"
+          "title": "nuxshed",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -862,7 +916,8 @@
             "repo": ".dotfiles",
             "stars": 17
           },
-          "title": "scourii"
+          "title": "scourii",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "Herbstluftwm"
@@ -883,7 +938,8 @@
             "repo": "hyprdots",
             "stars": 424
           },
-          "title": "ad1822"
+          "title": "ad1822",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -896,9 +952,10 @@
             "last_commit": "2024-12-06T03:36:09Z",
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1729
+            "stars": 1730
           },
-          "title": "1amSimp1e"
+          "title": "1amSimp1e",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -913,7 +970,8 @@
             "repo": "HyprValley",
             "stars": 48
           },
-          "title": "AdiKsOnDev"
+          "title": "AdiKsOnDev",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -923,12 +981,13 @@
             "archived": false,
             "id": 703729709,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T22:20:10Z",
+            "last_commit": "2026-08-27T15:51:49Z",
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
             "stars": 637
           },
-          "title": "ArchEclipse"
+          "title": "ArchEclipse",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -943,7 +1002,8 @@
             "repo": "hyprland-intergalactic",
             "stars": 12
           },
-          "title": "cafreo"
+          "title": "cafreo",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -958,7 +1018,8 @@
             "repo": "Arch-dotfiles",
             "stars": 108
           },
-          "title": "command-z-z"
+          "title": "command-z-z",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -973,7 +1034,8 @@
             "repo": "hyprland-dot",
             "stars": 35
           },
-          "title": "conrad-mo"
+          "title": "conrad-mo",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -988,7 +1050,8 @@
             "repo": "dotfiles",
             "stars": 3
           },
-          "title": "Blxckmage"
+          "title": "Blxckmage",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1003,7 +1066,8 @@
             "repo": "hypr.files-V2",
             "stars": 6
           },
-          "title": "dankdezpair"
+          "title": "dankdezpair",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1018,7 +1082,8 @@
             "repo": "dots",
             "stars": 3
           },
-          "title": "debuggyo"
+          "title": "debuggyo",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1031,9 +1096,10 @@
             "last_commit": "2026-08-27T04:57:31Z",
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 15843
+            "stars": 15856
           },
-          "title": "end-4"
+          "title": "end-4",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1048,7 +1114,8 @@
             "repo": "Hyprland-dotfiles",
             "stars": 350
           },
-          "title": "HeinzDev"
+          "title": "HeinzDev",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1063,7 +1130,8 @@
             "repo": "dotfiles",
             "stars": 277
           },
-          "title": "justinlime"
+          "title": "justinlime",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1078,7 +1146,8 @@
             "repo": "Hyprland-Custom-Configuration",
             "stars": 342
           },
-          "title": "Knightfall01"
+          "title": "Knightfall01",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1093,7 +1162,8 @@
             "repo": "summer-day-and-night",
             "stars": 551
           },
-          "title": "MathisP75"
+          "title": "MathisP75",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1108,7 +1178,8 @@
             "repo": "NixOS-Configuration",
             "stars": 348
           },
-          "title": "MaxMur"
+          "title": "MaxMur",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1123,7 +1194,8 @@
             "repo": "hyprland-rice",
             "stars": 38
           },
-          "title": "maxtaran2010"
+          "title": "maxtaran2010",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1138,7 +1210,8 @@
             "repo": "hyprland-dots",
             "stars": 103
           },
-          "title": "Narmis-E"
+          "title": "Narmis-E",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1153,7 +1226,8 @@
             "repo": "flake",
             "stars": 49
           },
-          "title": "ozwaldorf"
+          "title": "ozwaldorf",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1166,9 +1240,10 @@
             "last_commit": "2025-03-23T05:31:38Z",
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8512
+            "stars": 8511
           },
-          "title": "prasanthrangan"
+          "title": "prasanthrangan",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1183,7 +1258,8 @@
             "repo": "conf",
             "stars": 811
           },
-          "title": "qxb3"
+          "title": "qxb3",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1198,7 +1274,8 @@
             "repo": "dotfiles",
             "stars": 403
           },
-          "title": "shub39"
+          "title": "shub39",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1208,12 +1285,13 @@
             "archived": false,
             "id": 754447570,
             "language": "Nix",
-            "last_commit": "2026-08-27T04:15:25Z",
+            "last_commit": "2026-08-27T22:29:37Z",
             "owner": "Sly-Harvey",
             "repo": "NixOS",
             "stars": 590
           },
-          "title": "Sly-Harvey"
+          "title": "Sly-Harvey",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1228,7 +1306,8 @@
             "repo": "dotfiles",
             "stars": 15
           },
-          "title": "Spagett1"
+          "title": "Spagett1",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1243,7 +1322,8 @@
             "repo": "wayland-dotfiles",
             "stars": 32
           },
-          "title": "Yorubae"
+          "title": "Yorubae",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1258,7 +1338,8 @@
             "repo": "aeronix-dotfiles",
             "stars": 59
           },
-          "title": "Lonewolf4713"
+          "title": "Lonewolf4713",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1273,7 +1354,8 @@
             "repo": "seraphic.dotfiles",
             "stars": 309
           },
-          "title": "Lonewolf4713"
+          "title": "Lonewolf4713",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1288,7 +1370,8 @@
             "repo": "blue-monday.dots",
             "stars": 34
           },
-          "title": "Lonewolf4713"
+          "title": "Lonewolf4713",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1303,7 +1386,8 @@
             "repo": "auspicious-dots",
             "stars": 101
           },
-          "title": "Lonewolf4713"
+          "title": "Lonewolf4713",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "Hyprland"
@@ -1324,7 +1408,8 @@
             "repo": "config",
             "stars": 16
           },
-          "title": "b1337xyz"
+          "title": "b1337xyz",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1339,7 +1424,8 @@
             "repo": "workstation",
             "stars": 779
           },
-          "title": "bibjaw99"
+          "title": "bibjaw99",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1354,7 +1440,8 @@
             "repo": "dotfiles",
             "stars": 7
           },
-          "title": "bryant-the-coder"
+          "title": "bryant-the-coder",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1369,7 +1456,8 @@
             "repo": "dotfiles-linux",
             "stars": 10
           },
-          "title": "fathulfahmy"
+          "title": "fathulfahmy",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1384,7 +1472,8 @@
             "repo": "Mantis",
             "stars": 118
           },
-          "title": "sommaa"
+          "title": "sommaa",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1399,7 +1488,8 @@
             "repo": "dot",
             "stars": 35
           },
-          "title": "SunoBB"
+          "title": "SunoBB",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1414,7 +1504,8 @@
             "repo": "dotfiles",
             "stars": 6
           },
-          "title": "TKK13909"
+          "title": "TKK13909",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1429,7 +1520,8 @@
             "repo": "dotfiles",
             "stars": 107
           },
-          "title": "Vallen217"
+          "title": "Vallen217",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1444,7 +1536,8 @@
             "repo": ".dotfiles",
             "stars": 8
           },
-          "title": "zemmsoares"
+          "title": "zemmsoares",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "i3wm"
@@ -1463,9 +1556,10 @@
             "last_commit": "2020-12-04T04:07:18Z",
             "owner": "ComplexPlatform",
             "repo": "KDE-dotfiles",
-            "stars": 227
+            "stars": 228
           },
-          "title": "ComplexPlatform"
+          "title": "ComplexPlatform",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "KDE"
@@ -1486,7 +1580,8 @@
             "repo": "dotfiles",
             "stars": 10
           },
-          "title": "almqv"
+          "title": "almqv",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "LeftWM"
@@ -1507,7 +1602,8 @@
             "repo": "Shikai",
             "stars": 137
           },
-          "title": "TheWisker"
+          "title": "TheWisker",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "Lightdm"
@@ -1528,7 +1624,8 @@
             "repo": "dotfiles",
             "stars": 821
           },
-          "title": "AlphaTechnolog"
+          "title": "AlphaTechnolog",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1543,7 +1640,8 @@
             "repo": "openbox-everforest",
             "stars": 8
           },
-          "title": "Narmis-E"
+          "title": "Narmis-E",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1558,7 +1656,8 @@
             "repo": "dotfiles",
             "stars": 2170
           },
-          "title": "owl4ce"
+          "title": "owl4ce",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "Openbox"
@@ -1579,7 +1678,8 @@
             "repo": "Nebula",
             "stars": 555
           },
-          "title": "Barbaross93"
+          "title": "Barbaross93",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1594,7 +1694,8 @@
             "repo": "Cozytile",
             "stars": 947
           },
-          "title": "Darkkal44"
+          "title": "Darkkal44",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1609,7 +1710,8 @@
             "repo": "dots",
             "stars": 21
           },
-          "title": "Fluffy-Bean"
+          "title": "Fluffy-Bean",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1624,7 +1726,8 @@
             "repo": "QARSlp",
             "stars": 125
           },
-          "title": "gibranlp"
+          "title": "gibranlp",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1639,7 +1742,8 @@
             "repo": "dotbin",
             "stars": 8
           },
-          "title": "XADE_qtile"
+          "title": "XADE_qtile",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "Qtile"
@@ -1660,7 +1764,8 @@
             "repo": "riverwm",
             "stars": 177
           },
-          "title": "theCode-Breaker"
+          "title": "theCode-Breaker",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "Riverwm"
@@ -1681,7 +1786,8 @@
             "repo": "dotfiles",
             "stars": 575
           },
-          "title": "eoli3n"
+          "title": "eoli3n",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1696,7 +1802,8 @@
             "repo": "lugia-sway-dots",
             "stars": 1
           },
-          "title": "hifinerd"
+          "title": "hifinerd",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1711,7 +1818,8 @@
             "repo": "nixos-config",
             "stars": 47
           },
-          "title": "RicArch97"
+          "title": "RicArch97",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1726,7 +1834,8 @@
             "repo": "new-wave",
             "stars": 158
           },
-          "title": "Lonewolf4713"
+          "title": "Lonewolf4713",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "Sway"
@@ -1747,7 +1856,8 @@
             "repo": "dotfiles-linux",
             "stars": 10
           },
-          "title": "fathulfahmy"
+          "title": "fathulfahmy",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "Xfce"
@@ -1768,7 +1878,8 @@
             "repo": "snowflake",
             "stars": 174
           },
-          "title": "Icy-Thought"
+          "title": "Icy-Thought",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "Xmonad"
@@ -1789,7 +1900,8 @@
             "repo": "dotfiles",
             "stars": 52
           },
-          "title": "command-z-z"
+          "title": "command-z-z",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1804,7 +1916,8 @@
             "repo": "dotfiles",
             "stars": 2027
           },
-          "title": "FelixKratz"
+          "title": "FelixKratz",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1819,7 +1932,8 @@
             "repo": ".dotfiles",
             "stars": 143
           },
-          "title": "tcmmichaelb139"
+          "title": "tcmmichaelb139",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         },
         {
           "children": [],
@@ -1834,14 +1948,15 @@
             "repo": "dotfiles",
             "stars": 46
           },
-          "title": "ZhongXiLu"
+          "title": "ZhongXiLu",
+          "first_seen": "2026-08-28T05:29:27.283Z"
         }
       ],
       "title": "Yabai"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:59:52.369Z",
+    "last_updated": "2026-08-28T05:29:27.283Z",
     "original_repository_info": {
       "archived": false,
       "id": 664358597,
@@ -1849,7 +1964,7 @@
       "last_commit": "2026-03-27T15:35:07Z",
       "owner": "zemmsoares",
       "repo": "awesome-rices",
-      "stars": 1345
+      "stars": 1346
     },
     "original_repository_sha": "8e3fd966a4a9a3efa7199daee28d43dfd24f8ef8",
     "enhanced_repository": "enhansome/enhansome-rices",
