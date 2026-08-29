@@ -341,7 +341,7 @@
             "id": 497296071,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-08-28T19:27:11Z",
+            "last_commit": "2026-08-29T05:54:51Z",
             "open_issues": 0,
             "owner": "mel-edo",
             "repo": "awesome-setup",
@@ -1154,7 +1154,7 @@
             "open_issues": 0,
             "owner": "SpreadiesInSpace",
             "repo": "cinnamon-dotfiles",
-            "stars": 61,
+            "stars": 62,
             "topics": []
           },
           "title": "SpreadiesInSpace",
@@ -1309,7 +1309,7 @@
             "id": 376447425,
             "language": "Shell",
             "license": null,
-            "last_commit": "2026-07-14T12:13:43Z",
+            "last_commit": "2026-08-29T17:25:34Z",
             "open_issues": 0,
             "owner": "raihanadf",
             "repo": "dotfiles",
@@ -1584,7 +1584,7 @@
             "open_issues": 2,
             "owner": "ad1822",
             "repo": "hyprdots",
-            "stars": 424,
+            "stars": 425,
             "topics": [
               "arch",
               "dotfiles",
@@ -1876,7 +1876,7 @@
             "open_issues": 651,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 15870,
+            "stars": 15886,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -1949,7 +1949,7 @@
             "open_issues": 2,
             "owner": "knightfallxz",
             "repo": "Hyprland-Custom-Configuration",
-            "stars": 342,
+            "stars": 343,
             "topics": [
               "dotfiles",
               "eww",
@@ -1979,7 +1979,7 @@
             "open_issues": 1,
             "owner": "MathisP75",
             "repo": "summer-day-and-night",
-            "stars": 551,
+            "stars": 552,
             "topics": []
           },
           "title": "MathisP75",
@@ -2058,7 +2058,7 @@
             "open_issues": 0,
             "owner": "Narmis-E",
             "repo": "hyprland-dots",
-            "stars": 103,
+            "stars": 102,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2201,7 +2201,7 @@
             "id": 754447570,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-27T22:29:37Z",
+            "last_commit": "2026-08-29T12:55:06Z",
             "open_issues": 0,
             "owner": "Sly-Harvey",
             "repo": "NixOS",
@@ -2723,7 +2723,7 @@
             "id": 617121764,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-28T11:08:30Z",
+            "last_commit": "2026-08-29T06:52:36Z",
             "open_issues": 2,
             "owner": "TheWisker",
             "repo": "Shikai",
@@ -3289,7 +3289,7 @@
             "open_issues": 23,
             "owner": "FelixKratz",
             "repo": "dotfiles",
-            "stars": 2027,
+            "stars": 2026,
             "topics": [
               "borders",
               "dotfiles",
@@ -3363,7 +3363,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:30:42.202Z",
+    "last_updated": "2026-08-29T23:25:49.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
@@ -3375,7 +3375,7 @@
       "open_issues": 0,
       "owner": "zemmsoares",
       "repo": "awesome-rices",
-      "stars": 1346,
+      "stars": 1347,
       "topics": [
         "awesome-list",
         "awesomewm",
