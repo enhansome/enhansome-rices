@@ -9,12 +9,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My entire infrastructure in a nix flake.",
+            "homepage": null,
             "id": 687200106,
             "language": "Nix",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T15:44:21Z",
+            "open_issues": 0,
             "owner": "tuxdotrs",
             "repo": "nix-config",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "dotfiles",
+              "flake",
+              "home-manager",
+              "nixos",
+              "nixos-config",
+              "nixpkgs"
+            ]
           },
           "title": "0xTux",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -25,12 +37,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Just another awesomewm gruvbox dotfiles",
+            "homepage": null,
             "id": 463340694,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2023-09-06T15:03:28Z",
+            "open_issues": 2,
             "owner": "AllJavi",
             "repo": "tartarus-dotfiles",
-            "stars": 116
+            "stars": 116,
+            "topics": [
+              "archlinux",
+              "awesome-wm",
+              "awesomewm",
+              "dotfiles",
+              "gruvbox",
+              "gruvbox-material",
+              "linux",
+              "ricing",
+              "rofi",
+              "theme",
+              "unixporn"
+            ]
           },
           "title": "alljavi",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -41,12 +70,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A repository that contains a collection of various rices that i made over the time",
+            "homepage": null,
             "id": 498824675,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-06T16:58:31Z",
+            "open_issues": 5,
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 821
+            "stars": 821,
+            "topics": [
+              "aesthetic",
+              "awesomewm",
+              "bash",
+              "beautiful",
+              "bspwm",
+              "dark-decay",
+              "decay",
+              "decayce",
+              "dkwm",
+              "dotfiles",
+              "eww",
+              "hacktoberfest",
+              "hilbish",
+              "kitty",
+              "openbox",
+              "ricing",
+              "starship",
+              "sxhkd",
+              "themes",
+              "widgets"
+            ]
           },
           "title": "AlphaTechnolog",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -57,12 +112,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": null,
+            "homepage": null,
             "id": 659758576,
             "language": null,
+            "license": "GPL-3.0",
             "last_commit": "2026-03-18T14:01:31Z",
+            "open_issues": 2,
             "owner": "Amitabha37377",
             "repo": "Dotfiles",
-            "stars": 553
+            "stars": 553,
+            "topics": []
           },
           "title": "Amitabha37377",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -73,12 +133,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "nix dotfiles for chilly people",
+            "homepage": null,
             "id": 519420513,
             "language": "Nix",
+            "license": "MIT",
             "last_commit": "2026-01-13T13:09:31Z",
+            "open_issues": 6,
             "owner": "namishh",
             "repo": "crystal",
-            "stars": 878
+            "stars": 879,
+            "topics": [
+              "awesome",
+              "awesomewm",
+              "dotfiles",
+              "linux",
+              "nix",
+              "nixos-configuration",
+              "rice"
+            ]
           },
           "title": "chadcat7",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -89,12 +162,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "el dotfiles",
+            "homepage": null,
             "id": 635746849,
             "language": "Lua",
+            "license": null,
             "last_commit": "2024-03-01T12:02:58Z",
+            "open_issues": 0,
             "owner": "CmrCrabs",
             "repo": "dotfiles",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "title": "CmrCrabs",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -105,12 +183,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "There is no place like ~/",
+            "homepage": null,
             "id": 100718855,
             "language": "Lua",
+            "license": "GPL-2.0",
             "last_commit": "2025-09-17T18:43:19Z",
+            "open_issues": 17,
             "owner": "elenapan",
             "repo": "dotfiles",
-            "stars": 3900
+            "stars": 3900,
+            "topics": []
           },
           "title": "elenapan",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -121,12 +204,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My personal dotfiles that are constantly being updated.",
+            "homepage": null,
             "id": 574772571,
             "language": "C",
+            "license": null,
             "last_commit": "2023-11-02T04:23:36Z",
+            "open_issues": 0,
             "owner": "sushi-ae",
             "repo": "dotfiles",
-            "stars": 27
+            "stars": 27,
+            "topics": []
           },
           "title": "frapdotbm",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -137,12 +225,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "There's no place like ~ !",
+            "homepage": null,
             "id": 581181559,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2025-10-15T13:48:22Z",
+            "open_issues": 8,
             "owner": "gabrielfrimodig",
             "repo": "dotfiles",
-            "stars": 44
+            "stars": 44,
+            "topics": [
+              "awesomewm",
+              "dotfiles",
+              "kitty",
+              "neovim",
+              "picom"
+            ]
           },
           "title": "gabrielfrimodig",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -153,12 +252,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My dotfiles for Linux",
+            "homepage": null,
             "id": 507396242,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-03T13:51:33Z",
+            "open_issues": 0,
             "owner": "HoNamDuong",
             "repo": ".dotfiles",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "alacritty",
+              "awesomewm",
+              "dircolors",
+              "dotfiles",
+              "i3wm",
+              "lsd",
+              "neovim",
+              "rofi",
+              "tig",
+              "tmux",
+              "zsh"
+            ]
           },
           "title": "HoNamDuong",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -169,12 +285,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Configuration files of my desktop computer running EndeavourOS Linux",
+            "homepage": null,
             "id": 582849508,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-08-28T18:35:01Z",
+            "open_issues": 2,
             "owner": "madhur",
             "repo": "dotfiles",
-            "stars": 120
+            "stars": 120,
+            "topics": [
+              "awesomewm",
+              "endeavouros",
+              "linux"
+            ]
           },
           "title": "madhur",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -185,12 +310,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Config files for my setup",
+            "homepage": null,
             "id": 372545889,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-01-12T03:18:33Z",
+            "open_issues": 0,
             "owner": "Manas140",
             "repo": "dotfiles",
-            "stars": 435
+            "stars": 435,
+            "topics": [
+              "awesomewm",
+              "bspwm",
+              "dotfiles",
+              "i3wm"
+            ]
           },
           "title": "Manas140",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -201,12 +336,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My awesome config files",
+            "homepage": null,
             "id": 497296071,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-08-28T19:27:11Z",
+            "open_issues": 0,
             "owner": "mel-edo",
             "repo": "awesome-setup",
-            "stars": 340
+            "stars": 340,
+            "topics": [
+              "awesomewm",
+              "dotfiles",
+              "linux",
+              "polybar",
+              "rice",
+              "rofi",
+              "zsh"
+            ]
           },
           "title": "MeledoJames",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -217,12 +365,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My personal AwesomeWM configuration",
+            "homepage": null,
             "id": 628843136,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2026-03-01T01:54:55Z",
+            "open_issues": 0,
             "owner": "pablonoya",
             "repo": "awesomewm-configuration",
-            "stars": 130
+            "stars": 130,
+            "topics": [
+              "awesomewm",
+              "dotfiles",
+              "ricing",
+              "theme",
+              "ui-designs"
+            ]
           },
           "title": "pablonoya",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -233,12 +392,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Dotfiles and NixOS configuration",
+            "homepage": null,
             "id": 498829633,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T17:45:14Z",
+            "open_issues": 0,
             "owner": "PassiveLemon",
             "repo": "lemonix",
-            "stars": 20
+            "stars": 20,
+            "topics": [
+              "awesomewm",
+              "lua",
+              "nix",
+              "nixos",
+              "nixos-dotfiles"
+            ]
           },
           "title": "PassiveLemon",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -249,12 +419,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "OMAWM - My personal awesome window manager - themes - widgets  -  configs",
+            "homepage": null,
             "id": 729163365,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-01-17T09:37:39Z",
+            "open_issues": 1,
             "owner": "rifsxd",
             "repo": "oh-my-awesomewm-dots",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "title": "rifsxd",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -265,12 +440,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": ":rice: Beras",
+            "homepage": null,
             "id": 487192911,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-13T08:25:33Z",
+            "open_issues": 3,
             "owner": "rklyz",
             "repo": "MyRice",
-            "stars": 286
+            "stars": 286,
+            "topics": [
+              "desktop",
+              "linux",
+              "ricing"
+            ]
           },
           "title": "rklyz",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -281,12 +465,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "A custom Linux environment built on AwesomeWM",
+            "homepage": null,
             "id": 461824274,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2024-08-02T02:19:16Z",
+            "open_issues": 44,
             "owner": "raexera",
             "repo": "yoru",
-            "stars": 3577
+            "stars": 3577,
+            "topics": [
+              "aesthetic",
+              "arch-linux",
+              "archlinux",
+              "awesome-wm",
+              "awesomewm",
+              "beautiful",
+              "desktop-environment",
+              "dotfiles",
+              "gtk",
+              "linux",
+              "picom",
+              "rice",
+              "ricing",
+              "rofi",
+              "setup",
+              "unix",
+              "unixporn",
+              "widgets",
+              "windowmanager",
+              "zsh"
+            ]
           },
           "title": "rxyhn",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -297,12 +507,31 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The ArchLinux and AwesomeWM configs. 📂",
+            "homepage": null,
             "id": 461927742,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2023-01-11T21:39:54Z",
+            "open_issues": 12,
             "owner": "saimoomedits",
             "repo": "dotfiles",
-            "stars": 1169
+            "stars": 1169,
+            "topics": [
+              "arch-linux",
+              "archlinux",
+              "awesomewm",
+              "configuration",
+              "desktop",
+              "dotfiles",
+              "linux",
+              "rice",
+              "ricing",
+              "setup",
+              "theme",
+              "ui",
+              "ui-design"
+            ]
           },
           "title": "saimoomedits",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -313,12 +542,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "AwesomeWM and Hyprland Dots",
+            "homepage": null,
             "id": 498991831,
             "language": "QML",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T14:04:38Z",
+            "open_issues": 0,
             "owner": "Savecoders",
             "repo": "dotfiles",
-            "stars": 51
+            "stars": 51,
+            "topics": [
+              "aur",
+              "awesomewm",
+              "hyprland",
+              "matugen",
+              "nixos",
+              "qs",
+              "quickshell",
+              "zed"
+            ]
           },
           "title": "Savecoders",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -329,12 +572,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Main Linux workspace used for programming w/ gaming support",
+            "homepage": null,
             "id": 622402845,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2024-02-22T21:08:02Z",
+            "open_issues": 0,
             "owner": "ohxxm",
             "repo": "espresso",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "aesthetic",
+              "awesomewm",
+              "dotfiles",
+              "immutable",
+              "linux",
+              "lua",
+              "nix",
+              "nixos",
+              "rice",
+              "unixporn"
+            ]
           },
           "title": "Spaxly",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -345,12 +604,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Calla Desktop Environment",
+            "homepage": null,
             "id": 382678675,
             "language": "Lua",
+            "license": null,
             "last_commit": "2025-06-22T22:55:54Z",
+            "open_issues": 4,
             "owner": "Stardust-kyun",
             "repo": "calla",
-            "stars": 744
+            "stars": 744,
+            "topics": [
+              "awesomewm",
+              "calla",
+              "dotfiles",
+              "linux"
+            ]
           },
           "title": "Stardust-kyun",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -361,12 +630,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🏵️",
+            "homepage": null,
             "id": 337606263,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-07-04T18:15:36Z",
+            "open_issues": 0,
             "owner": "sammy-ette",
             "repo": "dotfiles",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "awesomewm",
+              "dotfiles",
+              "lua",
+              "neovim"
+            ]
           },
           "title": "TorchedSammy",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -383,12 +662,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A repository that contains a collection of various rices that i made over the time",
+            "homepage": null,
             "id": 498824675,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-06T16:58:31Z",
+            "open_issues": 5,
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 821
+            "stars": 821,
+            "topics": [
+              "aesthetic",
+              "awesomewm",
+              "bash",
+              "beautiful",
+              "bspwm",
+              "dark-decay",
+              "decay",
+              "decayce",
+              "dkwm",
+              "dotfiles",
+              "eww",
+              "hacktoberfest",
+              "hilbish",
+              "kitty",
+              "openbox",
+              "ricing",
+              "starship",
+              "sxhkd",
+              "themes",
+              "widgets"
+            ]
           },
           "title": "AlphaTechnolog",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -399,12 +704,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Here are the configuration files to my Gruvbox themed rice.",
+            "homepage": null,
             "id": 518195192,
             "language": "CSS",
+            "license": null,
             "last_commit": "2022-07-27T09:59:48Z",
+            "open_issues": 0,
             "owner": "Erennedirlo",
             "repo": "gruvbox-dotfiles",
-            "stars": 33
+            "stars": 33,
+            "topics": []
           },
           "title": "Erennedirlo",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -415,12 +725,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "BSPWM environment with 18 themes. With a theme selector to change on the fly.",
+            "homepage": null,
             "id": 274171959,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-24T02:43:27Z",
+            "open_issues": 4,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4721
+            "stars": 4721,
+            "topics": [
+              "alacritty",
+              "archlinux",
+              "bspwm",
+              "bspwm-themes",
+              "dotfiles",
+              "eww",
+              "hyprland",
+              "jgmenu",
+              "linux",
+              "nvim-config",
+              "onedark",
+              "picom",
+              "polybar",
+              "polybar-scripts",
+              "polybar-themes",
+              "rice",
+              "rofi",
+              "rofi-theme",
+              "unixporn",
+              "window-manager"
+            ]
           },
           "title": "gh0stzk",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -431,12 +767,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Good Luck.",
+            "homepage": null,
             "id": 512192832,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-09-08T15:09:08Z",
+            "open_issues": 0,
             "owner": "sewergweller",
             "repo": "messydots",
-            "stars": 68
+            "stars": 68,
+            "topics": [
+              "dotfiles"
+            ]
           },
           "title": "Gwynsav",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -447,12 +790,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "And I say hey, what's going on?",
+            "homepage": "https://youtu.be/ZZ5LpwO-An4",
             "id": 8497338,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-26T21:04:54Z",
+            "open_issues": 3,
             "owner": "hlissner",
             "repo": "dotfiles",
-            "stars": 1938
+            "stars": 1938,
+            "topics": [
+              "dotfiles",
+              "nix-flake",
+              "nixos",
+              "nixos-configuration"
+            ]
           },
           "title": "hlissner",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -463,12 +816,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My current dotfiles",
+            "homepage": null,
             "id": 442407622,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-04-01T04:48:41Z",
+            "open_issues": 0,
             "owner": "JakeGinesin",
             "repo": "dotfiles",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "title": "JakeGinesin",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -479,12 +837,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My personal desktop configuration files.",
+            "homepage": null,
             "id": 514662997,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2024-04-10T08:47:30Z",
+            "open_issues": 1,
             "owner": "kabinspace",
             "repo": "dotfiles",
-            "stars": 123
+            "stars": 123,
+            "topics": []
           },
           "title": "kabinspace",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -495,12 +858,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My Linux config files for various, well, configs... (aka dotfiles)",
+            "homepage": null,
             "id": 563112507,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-07-13T11:06:53Z",
+            "open_issues": 1,
             "owner": "Narmis-E",
             "repo": "bspwm-catppuccin",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "archlinux",
+              "bspwm",
+              "dotfiles",
+              "linux",
+              "neovim",
+              "ricing"
+            ]
           },
           "title": "Narmis-E",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -511,12 +886,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 488638812,
             "language": "Vim Script",
+            "license": null,
             "last_commit": "2024-08-12T17:53:26Z",
+            "open_issues": 0,
             "owner": "justvipul",
             "repo": "dopedots",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "title": "onlyvip",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -527,12 +907,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "bspwm confs and rice",
+            "homepage": null,
             "id": 365005097,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-11-15T08:02:13Z",
+            "open_issues": 0,
             "owner": "probe2k",
             "repo": "bspwm_rice",
-            "stars": 60
+            "stars": 60,
+            "topics": [
+              "bspwm",
+              "config",
+              "dotfiles",
+              "dotfiles-linux",
+              "dots",
+              "linux",
+              "neovim",
+              "polybar",
+              "rice"
+            ]
           },
           "title": "probe2k",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -543,12 +938,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My Bspwm dotfiles",
+            "homepage": null,
             "id": 456068750,
             "language": "Shell",
+            "license": null,
             "last_commit": "2022-04-29T12:41:12Z",
+            "open_issues": 0,
             "owner": "rklyz",
             "repo": ".files",
-            "stars": 28
+            "stars": 28,
+            "topics": [
+              "dotfiles",
+              "linux"
+            ]
           },
           "title": "rklyz",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -559,12 +962,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🎨 My configs, scripts and wallpapers.",
+            "homepage": null,
             "id": 640601133,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-01-10T23:52:43Z",
+            "open_issues": 0,
             "owner": "sophed",
             "repo": "dotfiles",
-            "stars": 22
+            "stars": 22,
+            "topics": [
+              "dotfiles",
+              "hyprland",
+              "hyprland-config",
+              "rice",
+              "waybar"
+            ]
           },
           "title": "Sophed",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -575,12 +989,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Another Arch Linux + Hyprland Configuration",
+            "homepage": null,
             "id": 652181253,
             "language": null,
+            "license": null,
             "last_commit": "2025-10-29T20:55:09Z",
+            "open_issues": 0,
             "owner": "sudoharun",
             "repo": "dotfiles",
-            "stars": 256
+            "stars": 256,
+            "topics": []
           },
           "title": "sudoharun",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -591,12 +1010,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "💻 My linux",
+            "homepage": null,
             "id": 519450279,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-02-09T23:58:10Z",
+            "open_issues": 0,
             "owner": "valb-mig",
             "repo": ".dotfiles",
-            "stars": 23
+            "stars": 23,
+            "topics": [
+              "bspwm",
+              "dark-theme",
+              "dotfiles",
+              "dotfiles-linux",
+              "polybar",
+              "pop-os",
+              "rice",
+              "rofi",
+              "wallpaper"
+            ]
           },
           "title": "valb-mig",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -607,12 +1041,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "[Mirror] Dotfiles, check https://codeberg.org/XADE/dotbin/wiki for screenshots",
+            "homepage": null,
             "id": 663033044,
             "language": "QML",
+            "license": null,
             "last_commit": "2026-08-22T12:21:59Z",
+            "open_issues": 0,
             "owner": "imxade",
             "repo": "dotbin",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "alacritty",
+              "aria2c",
+              "brave",
+              "bspwm",
+              "chromium",
+              "config",
+              "conky",
+              "cosmic",
+              "dotfiles",
+              "flake",
+              "hardening",
+              "helix",
+              "nixos-configuration",
+              "nixos-dotfiles",
+              "qtile",
+              "vim",
+              "wayland",
+              "wezterm-config",
+              "zsh"
+            ]
           },
           "title": "XADE",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -623,12 +1082,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "These are dotfiles that I use on my laptop with Void Linux installed.",
+            "homepage": null,
             "id": 639145299,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-05-10T21:32:21Z",
+            "open_issues": 0,
             "owner": "alanbaseddev",
             "repo": "void-dotfiles",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "title": "Weirdchupacabra",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -639,12 +1103,32 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My bspwm dotfiles. Get whatever you need! :)",
+            "homepage": null,
             "id": 275450981,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-02-05T21:42:09Z",
+            "open_issues": 9,
             "owner": "zoddDev",
             "repo": "dotfiles",
-            "stars": 793
+            "stars": 793,
+            "topics": [
+              "arch",
+              "arch-linux",
+              "archlinux",
+              "bspwm",
+              "customization",
+              "dotfiles",
+              "dracula",
+              "gruvbox",
+              "linux",
+              "nord",
+              "openbox-dotfiles",
+              "rices",
+              "solarized",
+              "unix"
+            ]
           },
           "title": "zoddDev",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -661,12 +1145,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Dots for a person who is WAY too addicted to the Cinnamon DE and Gruvbox Theme",
+            "homepage": null,
             "id": 640806468,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2026-03-01T10:07:53Z",
+            "open_issues": 0,
             "owner": "SpreadiesInSpace",
             "repo": "cinnamon-dotfiles",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "title": "SpreadiesInSpace",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -683,12 +1172,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A repository that contains a collection of various rices that i made over the time",
+            "homepage": null,
             "id": 498824675,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-06T16:58:31Z",
+            "open_issues": 5,
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 821
+            "stars": 821,
+            "topics": [
+              "aesthetic",
+              "awesomewm",
+              "bash",
+              "beautiful",
+              "bspwm",
+              "dark-decay",
+              "decay",
+              "decayce",
+              "dkwm",
+              "dotfiles",
+              "eww",
+              "hacktoberfest",
+              "hilbish",
+              "kitty",
+              "openbox",
+              "ricing",
+              "starship",
+              "sxhkd",
+              "themes",
+              "widgets"
+            ]
           },
           "title": "AlphaTechnolog",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -705,12 +1220,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A repository that contains a collection of various rices that i made over the time",
+            "homepage": null,
             "id": 498824675,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-06T16:58:31Z",
+            "open_issues": 5,
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 821
+            "stars": 821,
+            "topics": [
+              "aesthetic",
+              "awesomewm",
+              "bash",
+              "beautiful",
+              "bspwm",
+              "dark-decay",
+              "decay",
+              "decayce",
+              "dkwm",
+              "dotfiles",
+              "eww",
+              "hacktoberfest",
+              "hilbish",
+              "kitty",
+              "openbox",
+              "ricing",
+              "starship",
+              "sxhkd",
+              "themes",
+              "widgets"
+            ]
           },
           "title": "AlphaTechnolog",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -721,12 +1262,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Un respaldo de mis dotfiles más importantes en mi laptop",
+            "homepage": null,
             "id": 188524225,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2023-04-21T17:39:24Z",
+            "open_issues": 2,
             "owner": "juacq97",
             "repo": "dotfilesOlds",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "title": "juacq97",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -737,12 +1283,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My dwm build dots",
+            "homepage": null,
             "id": 624007291,
             "language": "C",
+            "license": null,
             "last_commit": "2023-04-05T15:20:25Z",
+            "open_issues": 0,
             "owner": "nxb1t",
             "repo": "dwm-dots",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "title": "nxb1t",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -753,12 +1304,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🍚 no place like $HOME",
+            "homepage": null,
             "id": 376447425,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-07-14T12:13:43Z",
+            "open_issues": 0,
             "owner": "raihanadf",
             "repo": "dotfiles",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "dotfiles",
+              "linux",
+              "suckless"
+            ]
           },
           "title": "raihanadf",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -769,12 +1329,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "There's no place like ~/",
+            "homepage": null,
             "id": 618679719,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-10-16T19:40:08Z",
+            "open_issues": 4,
             "owner": "seeingangelz",
             "repo": "dotfiles",
-            "stars": 147
+            "stars": 147,
+            "topics": [
+              "dotfiles",
+              "dwm"
+            ]
           },
           "title": "seeingangelz",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -791,12 +1359,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Nothing here but Dotfiles & Customization 💫",
+            "homepage": null,
             "id": 463841787,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-06T03:36:09Z",
+            "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1732
+            "stars": 1732,
+            "topics": [
+              "arch",
+              "customization",
+              "dotfiles",
+              "eww",
+              "eww-config",
+              "gnome",
+              "hacktoberfest",
+              "hyprland",
+              "linux",
+              "neovim",
+              "neovim-configuration",
+              "rice",
+              "rofi",
+              "shell",
+              "starship-prompt",
+              "theme",
+              "unix",
+              "unixporn",
+              "waybar",
+              "wayland"
+            ]
           },
           "title": "1amSimp1e",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -807,12 +1401,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My init.vim",
+            "homepage": null,
             "id": 452885652,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2023-11-17T23:22:48Z",
+            "open_issues": 0,
             "owner": "AviVarma",
             "repo": "Dotfiles",
-            "stars": 9
+            "stars": 9,
+            "topics": []
           },
           "title": "AviVarma",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -823,12 +1422,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My personal dotfiles",
+            "homepage": null,
             "id": 614105096,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-08-19T15:52:56Z",
+            "open_issues": 0,
             "owner": "Comiclyy",
             "repo": "dotfiles",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "title": "Comiclyy",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -839,12 +1443,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Dotfiles for gnome only",
+            "homepage": null,
             "id": 660371752,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2025-01-01T05:12:22Z",
+            "open_issues": 0,
             "owner": "GabrielTenma",
             "repo": "dotfiles-gnm",
-            "stars": 61
+            "stars": 61,
+            "topics": [
+              "dotfiles-linux",
+              "gnome",
+              "gnome-extension"
+            ]
           },
           "title": "GabrielTenma",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -855,12 +1468,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "This is my gnome configuration for both usability, look and feel",
+            "homepage": null,
             "id": 588521067,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-05-20T05:30:25Z",
+            "open_issues": 0,
             "owner": "NeuronSooup",
             "repo": "Gnome-topbar-le-dots",
-            "stars": 82
+            "stars": 82,
+            "topics": []
           },
           "title": "NeuronSooup",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -871,12 +1489,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "I believe in Nobara supremacy",
+            "homepage": null,
             "id": 572463801,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2024-07-31T12:30:40Z",
+            "open_issues": 2,
             "owner": "slashedzer0",
             "repo": "nobara-dotfiles",
-            "stars": 104
+            "stars": 104,
+            "topics": [
+              "dotfiles",
+              "gnome",
+              "gnome-shell"
+            ]
           },
           "title": "slashedzer0",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -893,12 +1520,24 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "pls help",
+            "homepage": null,
             "id": 384355271,
             "language": "QML",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-03T08:58:13Z",
+            "open_issues": 0,
             "owner": "nuxshed",
             "repo": "dotfiles",
-            "stars": 394
+            "stars": 394,
+            "topics": [
+              "awesomewm",
+              "dotfiles",
+              "emacs",
+              "nix-flake",
+              "nixos",
+              "nixos-configuration"
+            ]
           },
           "title": "nuxshed",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -909,12 +1548,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "How I setup my Linux customization, I have included things like my Discord CSS, Firefox CSS, but things like my startpage are stored elsewhere on my profile.",
+            "homepage": null,
             "id": 333290050,
             "language": "Vim Script",
+            "license": null,
             "last_commit": "2023-03-17T04:55:19Z",
+            "open_issues": 0,
             "owner": "scourii",
             "repo": ".dotfiles",
-            "stars": 17
+            "stars": 17,
+            "topics": []
           },
           "title": "scourii",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -931,12 +1575,34 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🫟 Awesome Hyprland Dotfiles",
+            "homepage": null,
             "id": 855788323,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-06-10T12:19:25Z",
+            "open_issues": 2,
             "owner": "ad1822",
             "repo": "hyprdots",
-            "stars": 424
+            "stars": 424,
+            "topics": [
+              "arch",
+              "dotfiles",
+              "dunst",
+              "fastfetch",
+              "gtk3",
+              "gtk4",
+              "hyprland",
+              "k9s",
+              "kitty",
+              "linux",
+              "rofi",
+              "tmux",
+              "waybar",
+              "wayland",
+              "yazi",
+              "zsh"
+            ]
           },
           "title": "ad1822",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -947,12 +1613,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Nothing here but Dotfiles & Customization 💫",
+            "homepage": null,
             "id": 463841787,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2024-12-06T03:36:09Z",
+            "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1732
+            "stars": 1732,
+            "topics": [
+              "arch",
+              "customization",
+              "dotfiles",
+              "eww",
+              "eww-config",
+              "gnome",
+              "hacktoberfest",
+              "hyprland",
+              "linux",
+              "neovim",
+              "neovim-configuration",
+              "rice",
+              "rofi",
+              "shell",
+              "starship-prompt",
+              "theme",
+              "unix",
+              "unixporn",
+              "waybar",
+              "wayland"
+            ]
           },
           "title": "1amSimp1e",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -963,12 +1655,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Arch Linux Rice in Space, Nature, Ocean, Sakura, and Code-RED. Comes with Hyprland",
+            "homepage": null,
             "id": 795824208,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-02T07:12:37Z",
+            "open_issues": 0,
             "owner": "AdiKsOnDev",
             "repo": "HyprValley",
-            "stars": 48
+            "stars": 48,
+            "topics": [
+              "arch",
+              "dotfiles",
+              "hypr",
+              "hyprland",
+              "linux",
+              "rice",
+              "theme",
+              "waybar"
+            ]
           },
           "title": "AdiKsOnDev",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -979,12 +1685,30 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Highly polished, performance-focused Arch Linux + Hyprland dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.",
+            "homepage": null,
             "id": 703729709,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T15:51:49Z",
+            "open_issues": 3,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 637
+            "stars": 637,
+            "topics": [
+              "ags",
+              "archlinux",
+              "bash",
+              "dotfiles",
+              "gtk4",
+              "hyprland",
+              "hyprpaper",
+              "linux",
+              "python",
+              "scss",
+              "shell",
+              "typescript"
+            ]
           },
           "title": "ArchEclipse",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -995,12 +1719,33 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "config files of my intergalactic theme for hyprland",
+            "homepage": null,
             "id": 613062338,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-07-26T08:24:33Z",
+            "open_issues": 0,
             "owner": "cafreo",
             "repo": "hyprland-intergalactic",
-            "stars": 12
+            "stars": 12,
+            "topics": [
+              "archlinux",
+              "btop",
+              "dotfiles",
+              "dunst",
+              "hyprland",
+              "kitty",
+              "lf",
+              "linux",
+              "mpv",
+              "neovim",
+              "rice",
+              "rofi",
+              "starship",
+              "waybar",
+              "wlogout"
+            ]
           },
           "title": "cafreo",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1011,12 +1756,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "💥 My dotfiles on Arch Linux for Hyprland",
+            "homepage": null,
             "id": 612521189,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-20T14:59:50Z",
+            "open_issues": 0,
             "owner": "command-z-z",
             "repo": "Arch-dotfiles",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "title": "command-z-z",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1027,12 +1777,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Dotfiles for my hyprland setup (check different branches)",
+            "homepage": null,
             "id": 554597407,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-09-24T21:42:29Z",
+            "open_issues": 1,
             "owner": "conrad-mo",
             "repo": "hyprland-dot",
-            "stars": 35
+            "stars": 35,
+            "topics": [
+              "dotfiles",
+              "hyprland",
+              "linux",
+              "shell",
+              "zsh"
+            ]
           },
           "title": "conrad-mo",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1043,12 +1804,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "~/ sweet ~/",
+            "homepage": "https://dotfyle.com/Blxckmage/dotfiles-nvim",
             "id": 588809665,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-08-28T07:32:03Z",
+            "open_issues": 0,
             "owner": "Blxckmage",
             "repo": "dotfiles",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "title": "Blxckmage",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1059,12 +1825,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 643132451,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-08-17T06:43:11Z",
+            "open_issues": 0,
             "owner": "dankdezpair",
             "repo": "hypr.files-V2",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "title": "dankdezpair",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1075,12 +1846,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "more dots!",
+            "homepage": null,
             "id": 606640461,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-04-22T06:39:05Z",
+            "open_issues": 0,
             "owner": "debuggyo",
             "repo": "dots",
-            "stars": 3
+            "stars": 3,
+            "topics": []
           },
           "title": "debuggyo",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1091,12 +1867,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Usability-first dotfiles",
+            "homepage": "https://ii.clsty.link",
             "id": 583820372,
             "language": "QML",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T04:57:31Z",
+            "open_issues": 651,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 15870
+            "stars": 15870,
+            "topics": [
+              "dotfiles",
+              "hyprland",
+              "linux",
+              "material-design",
+              "quickshell",
+              "rice",
+              "ricing",
+              "unixporn",
+              "wayland"
+            ]
           },
           "title": "end-4",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1107,12 +1898,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Welcome to my NixOS hyprland config",
+            "homepage": null,
             "id": 663145595,
             "language": "Nix",
+            "license": null,
             "last_commit": "2023-12-01T09:09:45Z",
+            "open_issues": 3,
             "owner": "HeinzDev",
             "repo": "Hyprland-dotfiles",
-            "stars": 350
+            "stars": 350,
+            "topics": []
           },
           "title": "HeinzDev",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1123,12 +1919,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My general config and dotfiles for linux",
+            "homepage": null,
             "id": 587123133,
             "language": "Nix",
+            "license": null,
             "last_commit": "2026-08-25T11:29:31Z",
+            "open_issues": 2,
             "owner": "justinlime",
             "repo": "dotfiles",
-            "stars": 277
+            "stars": 277,
+            "topics": []
           },
           "title": "justinlime",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1139,12 +1940,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Dotfiles for Hyprland , waybar , fish , tmux",
+            "homepage": null,
             "id": 590276532,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-09-16T15:37:32Z",
+            "open_issues": 2,
             "owner": "knightfallxz",
             "repo": "Hyprland-Custom-Configuration",
-            "stars": 342
+            "stars": 342,
+            "topics": [
+              "dotfiles",
+              "eww",
+              "hyprland",
+              "polybar",
+              "swaylock",
+              "tmux",
+              "wayland",
+              "wofi"
+            ]
           },
           "title": "Knightfall01",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1155,12 +1970,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Hyprland rice for the summer themed competition",
+            "homepage": null,
             "id": 639589952,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-05-09T18:17:58Z",
+            "open_issues": 1,
             "owner": "MathisP75",
             "repo": "summer-day-and-night",
-            "stars": 551
+            "stars": 551,
+            "topics": []
           },
           "title": "MathisP75",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1171,12 +1991,33 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "MaxMur NixOS config & Home-Manager config",
+            "homepage": null,
             "id": 803029598,
             "language": "Nix",
+            "license": "Unlicense",
             "last_commit": "2025-03-19T06:38:19Z",
+            "open_issues": 0,
             "owner": "TheMaxMur",
             "repo": "NixOS-Configuration",
-            "stars": 348
+            "stars": 348,
+            "topics": [
+              "dotfiles",
+              "helix",
+              "home-manager",
+              "hyprland",
+              "impermanence",
+              "neovim",
+              "nix",
+              "nix-darwin",
+              "nix-flake",
+              "nix-topology",
+              "nixos",
+              "nixos-configuration",
+              "sway",
+              "swayfx",
+              "topology"
+            ]
           },
           "title": "MaxMur",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1187,12 +2028,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 660170293,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-07-16T13:50:23Z",
+            "open_issues": 0,
             "owner": "maxtaran2010",
             "repo": "hyprland-rice",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "title": "maxtaran2010",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1203,12 +2049,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Dotfiles for my hyprland installs",
+            "homepage": null,
             "id": 602999211,
             "language": "CSS",
+            "license": null,
             "last_commit": "2024-04-28T01:21:08Z",
+            "open_issues": 0,
             "owner": "Narmis-E",
             "repo": "hyprland-dots",
-            "stars": 103
+            "stars": 103,
+            "topics": [
+              "dotfiles",
+              "hyprland",
+              "hyprland-rice",
+              "linux",
+              "tokyonight"
+            ]
           },
           "title": "Narmis-E",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1219,12 +2076,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "ozwaldorf's nixos flake for everything",
+            "homepage": null,
             "id": 500664098,
             "language": "QML",
+            "license": "MIT",
             "last_commit": "2026-08-20T18:02:54Z",
+            "open_issues": 0,
             "owner": "ozwaldorf",
             "repo": "flake",
-            "stars": 49
+            "stars": 49,
+            "topics": [
+              "dotfiles",
+              "nix-flake",
+              "nixos"
+            ]
           },
           "title": "ozwaldorf",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1235,12 +2101,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "// Aesthetic, dynamic and minimal dots for Arch hyprland",
+            "homepage": null,
             "id": 622835059,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2025-03-23T05:31:38Z",
+            "open_issues": 89,
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8510
+            "stars": 8510,
+            "topics": [
+              "arch",
+              "archlinux",
+              "dolphin",
+              "dotfiles",
+              "dots",
+              "hypr",
+              "hyprdots",
+              "hyprland",
+              "installer",
+              "kitty",
+              "linux",
+              "modular",
+              "neofetch",
+              "rice",
+              "rofi",
+              "shell",
+              "swww",
+              "theme-switcher",
+              "waybar",
+              "zsh"
+            ]
           },
           "title": "prasanthrangan",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1251,12 +2143,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My hyprland configurations",
+            "homepage": null,
             "id": 470315507,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-03-14T11:01:17Z",
+            "open_issues": 10,
             "owner": "qxb3",
             "repo": "conf",
-            "stars": 810
+            "stars": 810,
+            "topics": [
+              "dotfiles",
+              "hyprland",
+              "neovim",
+              "rice",
+              "unixporn"
+            ]
           },
           "title": "qxb3",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1267,12 +2170,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "🤖 Dotfiles for my Niri config. Arch btw",
+            "homepage": null,
             "id": 745799966,
             "language": "QML",
+            "license": null,
             "last_commit": "2026-07-17T07:44:54Z",
+            "open_issues": 1,
             "owner": "shub39",
             "repo": "dotfiles",
-            "stars": 403
+            "stars": 403,
+            "topics": [
+              "archlinux",
+              "dotfiles",
+              "niri",
+              "quickshell"
+            ]
           },
           "title": "shub39",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1283,12 +2196,32 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "NixOS + Hyprland rice with flakes, home-manager and dev-shells",
+            "homepage": null,
             "id": 754447570,
             "language": "Nix",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:29:37Z",
+            "open_issues": 0,
             "owner": "Sly-Harvey",
             "repo": "NixOS",
-            "stars": 590
+            "stars": 590,
+            "topics": [
+              "dotfiles",
+              "flake",
+              "flakes",
+              "home-manager",
+              "linux",
+              "nix",
+              "nix-flake",
+              "nix-flakes",
+              "nixos",
+              "nixos-config",
+              "nixos-configuration",
+              "nixos-dotfiles",
+              "nixos-module",
+              "nixos-modules"
+            ]
           },
           "title": "Sly-Harvey",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1299,12 +2232,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 644748197,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-05-17T01:30:30Z",
+            "open_issues": 0,
             "owner": "Spagett1",
             "repo": "dotfiles",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "title": "Spagett1",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1315,12 +2253,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "This repository contains my personal configuration files for various applications and tools that I use on a daily basis. These dotfiles include personalized settings, keybindings, aliases, and other customizations that help me work efficiently and effectively.",
+            "homepage": null,
             "id": 604067573,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-06-08T09:17:04Z",
+            "open_issues": 1,
             "owner": "rikod3",
             "repo": "wayland-dotfiles",
-            "stars": 32
+            "stars": 32,
+            "topics": [
+              "configs",
+              "dotfiles",
+              "dumps"
+            ]
           },
           "title": "Yorubae",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1331,12 +2278,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 860552429,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-09-20T17:08:19Z",
+            "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "aeronix-dotfiles",
-            "stars": 59
+            "stars": 59,
+            "topics": [
+              "archlinux-dotfiles",
+              "dotfiles",
+              "hyprland",
+              "hyprland-rice",
+              "ironbar",
+              "linux",
+              "ricing",
+              "wired"
+            ]
           },
           "title": "Lonewolf4713",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1347,12 +2308,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Seraphic Dotfiles, includes rofi, sddm, spicetify, hyprlock themes",
+            "homepage": "https://www.reddit.com/r/unixporn/comments/1dbuqjb/hyprland_made_this_cute_rice_for_myself_my/",
             "id": 812986637,
             "language": "QML",
+            "license": null,
             "last_commit": "2024-06-11T09:03:22Z",
+            "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "seraphic.dotfiles",
-            "stars": 307
+            "stars": 307,
+            "topics": [
+              "arch-rice",
+              "everblush",
+              "hyprlock",
+              "linux",
+              "linux-rice",
+              "rice",
+              "rofi",
+              "rofi-theme",
+              "sddm",
+              "sddm-theme"
+            ]
           },
           "title": "Lonewolf4713",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1363,12 +2340,30 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Dots for r/unixporn post:",
+            "homepage": "https://www.reddit.com/r/unixporn/comments/1bvm5o3/hyprland_upgraded_rice_to_impress_my_girl_again/",
             "id": 782236193,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-04-07T15:38:04Z",
+            "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "blue-monday.dots",
-            "stars": 34
+            "stars": 34,
+            "topics": [
+              "alacritty",
+              "cava",
+              "dotfiles",
+              "dotfiles-linux",
+              "hyprland",
+              "hyprland-rice",
+              "linux",
+              "pywal",
+              "rice",
+              "rofi",
+              "swaync",
+              "waybar"
+            ]
           },
           "title": "Lonewolf4713",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1379,12 +2374,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "dotfiles for my hyprland setup!",
+            "homepage": null,
             "id": 766532168,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-03-04T13:58:37Z",
+            "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "auspicious-dots",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "color-scheme",
+              "hyprland",
+              "hyprland-arch",
+              "hyprland-config",
+              "hyprland-rice",
+              "linux-rice",
+              "rice",
+              "rofi",
+              "waybar"
+            ]
           },
           "title": "Lonewolf4713",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1401,12 +2411,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 494649193,
             "language": "Vim Script",
+            "license": null,
             "last_commit": "2025-03-21T22:46:33Z",
+            "open_issues": 0,
             "owner": "b1337xyz",
             "repo": "config",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "linux",
+              "terminal"
+            ]
           },
           "title": "b1337xyz",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1417,12 +2435,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 647361175,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-02-01T10:49:54Z",
+            "open_issues": 1,
             "owner": "bibjaw99",
             "repo": "workstation",
-            "stars": 779
+            "stars": 779,
+            "topics": []
           },
           "title": "bibjaw99",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1433,12 +2456,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 542120603,
             "language": "HTML",
+            "license": null,
             "last_commit": "2023-04-26T11:12:09Z",
+            "open_issues": 0,
             "owner": "bryant-the-coder",
             "repo": "dotfiles",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "title": "bryant-the-coder",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1449,12 +2477,35 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Collection of Linux dotfiles (XFCE, i3wm, Polybar, i3bar, Rofi, Dunst)",
+            "homepage": null,
             "id": 656164550,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-11-22T04:33:58Z",
+            "open_issues": 0,
             "owner": "fathulfahmy",
             "repo": "dotfiles-linux",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "dotfile",
+              "dotfiles-linux",
+              "dotfiles-setup",
+              "dunst",
+              "i3bar",
+              "i3wm",
+              "linux",
+              "neovim",
+              "neovim-dotfiles",
+              "nvim",
+              "nvim-configs",
+              "polybar",
+              "rofi",
+              "vim",
+              "vim-configs",
+              "xfce",
+              "zsh"
+            ]
           },
           "title": "fathulfahmy",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1465,12 +2516,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "my linux setup for studing. i3wm grey-lime theme.",
+            "homepage": null,
             "id": 605228118,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-10-15T10:48:31Z",
+            "open_issues": 0,
             "owner": "sommaa",
             "repo": "Mantis",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "dotfiles",
+              "i3wm",
+              "linux",
+              "rofi",
+              "vimrc"
+            ]
           },
           "title": "sommaa",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1481,12 +2543,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 540317060,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-12-09T01:42:26Z",
+            "open_issues": 1,
             "owner": "SunoBB",
             "repo": "dot",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "title": "SunoBB",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1497,12 +2564,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 545758267,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2023-02-06T17:43:45Z",
+            "open_issues": 0,
             "owner": "TKK13909",
             "repo": "dotfiles",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "title": "TKK13909",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1513,12 +2585,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Sleek. Modern. Elegent... Dotfiles.",
+            "homepage": null,
             "id": 758345118,
             "language": "Lua",
+            "license": "MIT",
             "last_commit": "2026-05-30T16:24:06Z",
+            "open_issues": 0,
             "owner": "Vallen217",
             "repo": "dotfiles",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "arch-linux",
+              "dotfiles",
+              "gnu-linux",
+              "linux",
+              "neovim",
+              "rice",
+              "shell-scripts",
+              "unix",
+              "unixporn"
+            ]
           },
           "title": "Vallen217",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1529,12 +2616,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Zsh and other configurations",
+            "homepage": null,
             "id": 586110881,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-01-15T23:45:29Z",
+            "open_issues": 0,
             "owner": "zemmsoares",
             "repo": ".dotfiles",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "title": "zemmsoares",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1551,12 +2643,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": ":art: My personal KDE customization",
+            "homepage": null,
             "id": 296974508,
             "language": "GLSL",
+            "license": "GPL-3.0",
             "last_commit": "2020-12-04T04:07:18Z",
+            "open_issues": 0,
             "owner": "ComplexPlatform",
             "repo": "KDE-dotfiles",
-            "stars": 228
+            "stars": 228,
+            "topics": [
+              "color-schemes",
+              "dotfiles",
+              "gtk",
+              "gtk-theme",
+              "gtk-themes",
+              "icons",
+              "kde",
+              "kde-desktop",
+              "kde-plasma",
+              "kde-plasma-5",
+              "latte-dock",
+              "manjaro",
+              "manjaro-linux",
+              "materia-gtk",
+              "ncmpcpp",
+              "papirus-icons",
+              "ricing",
+              "unixporn",
+              "wpgtk",
+              "xresources"
+            ]
           },
           "title": "ComplexPlatform",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1573,12 +2691,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Configuration files for my *NIX installtions.",
+            "homepage": null,
             "id": 271757834,
             "language": "Lua",
+            "license": null,
             "last_commit": "2026-08-19T23:23:57Z",
+            "open_issues": 0,
             "owner": "almqv",
             "repo": "dotfiles",
-            "stars": 10
+            "stars": 10,
+            "topics": []
           },
           "title": "almqv",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1595,12 +2718,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Modern lightdm webkit2 theme",
+            "homepage": "https://thewisker.github.io/Shikai/",
             "id": 617121764,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T11:08:30Z",
+            "open_issues": 2,
             "owner": "TheWisker",
             "repo": "Shikai",
-            "stars": 137
+            "stars": 137,
+            "topics": [
+              "archy",
+              "greeter-theme",
+              "lightdm",
+              "lightdm-webkit2-greeter-theme",
+              "linux",
+              "nody-greeter",
+              "sea-greeter",
+              "theme",
+              "web-greeter"
+            ]
           },
           "title": "TheWisker",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1617,12 +2755,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A repository that contains a collection of various rices that i made over the time",
+            "homepage": null,
             "id": 498824675,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-06T16:58:31Z",
+            "open_issues": 5,
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 821
+            "stars": 821,
+            "topics": [
+              "aesthetic",
+              "awesomewm",
+              "bash",
+              "beautiful",
+              "bspwm",
+              "dark-decay",
+              "decay",
+              "decayce",
+              "dkwm",
+              "dotfiles",
+              "eww",
+              "hacktoberfest",
+              "hilbish",
+              "kitty",
+              "openbox",
+              "ricing",
+              "starship",
+              "sxhkd",
+              "themes",
+              "widgets"
+            ]
           },
           "title": "AlphaTechnolog",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1633,12 +2797,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "an everforest rice for openbox (old)",
+            "homepage": null,
             "id": 656428188,
             "language": "Shell",
+            "license": null,
             "last_commit": "2023-07-13T11:06:12Z",
+            "open_issues": 0,
             "owner": "Narmis-E",
             "repo": "openbox-everforest",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "title": "Narmis-E",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1649,12 +2818,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": ":cherry_blossom: Aesthetic OpenboxWM Environment",
+            "homepage": "https://owl4ce.deviantart.com",
             "id": 253780475,
             "language": "CSS",
+            "license": "GPL-3.0",
             "last_commit": "2022-09-29T22:43:46Z",
+            "open_issues": 1,
             "owner": "owl4ce",
             "repo": "dotfiles",
-            "stars": 2170
+            "stars": 2170,
+            "topics": [
+              "dotfiles",
+              "dunst",
+              "fonts",
+              "gimp",
+              "gtk",
+              "icons",
+              "inkscape",
+              "linux",
+              "mpd",
+              "mpv",
+              "ncmpcpp",
+              "neofetch",
+              "openbox",
+              "performance",
+              "picom",
+              "rofi",
+              "shell",
+              "tint2",
+              "urxvt",
+              "zsh"
+            ]
           },
           "title": "owl4ce",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1671,12 +2866,19 @@
           "node_type": "item",
           "repo_info": {
             "archived": true,
+            "description": "Desktop setup",
+            "homepage": null,
             "id": 330052553,
             "language": "Shell",
+            "license": "CC0-1.0",
             "last_commit": "2022-06-07T20:56:28Z",
+            "open_issues": 0,
             "owner": "Barbaross93",
             "repo": "Nebula",
-            "stars": 555
+            "stars": 555,
+            "topics": [
+              "dotfiles"
+            ]
           },
           "title": "Barbaross93",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1687,12 +2889,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A Cozy rice ❃",
+            "homepage": null,
             "id": 537232661,
             "language": "Python",
+            "license": null,
             "last_commit": "2026-07-25T07:51:42Z",
+            "open_issues": 0,
             "owner": "Darkkal44",
             "repo": "Cozytile",
-            "stars": 947
+            "stars": 947,
+            "topics": [
+              "cozy",
+              "dotiles",
+              "everforest",
+              "linux",
+              "nature",
+              "qtile",
+              "sakura"
+            ]
           },
           "title": "Darkkal44",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1703,12 +2918,20 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My (not so amazing) config files!",
+            "homepage": null,
             "id": 482843877,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-19T10:07:02Z",
+            "open_issues": 0,
             "owner": "Fluffy-Bean",
             "repo": "dots",
-            "stars": 21
+            "stars": 21,
+            "topics": [
+              "dotfiles",
+              "linux"
+            ]
           },
           "title": "Fluffy-Bean",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1719,12 +2942,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Qtile Auto Ricing Theme",
+            "homepage": "https://gibranlp.dev/qarslp/",
             "id": 318020217,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-07-31T00:49:48Z",
+            "open_issues": 1,
             "owner": "gibranlp",
             "repo": "QARSlp",
-            "stars": 125
+            "stars": 125,
+            "topics": []
           },
           "title": "gibranlp",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1735,12 +2963,37 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "[Mirror] Dotfiles, check https://codeberg.org/XADE/dotbin/wiki for screenshots",
+            "homepage": null,
             "id": 663033044,
             "language": "QML",
+            "license": null,
             "last_commit": "2026-08-22T12:21:59Z",
+            "open_issues": 0,
             "owner": "imxade",
             "repo": "dotbin",
-            "stars": 8
+            "stars": 8,
+            "topics": [
+              "alacritty",
+              "aria2c",
+              "brave",
+              "bspwm",
+              "chromium",
+              "config",
+              "conky",
+              "cosmic",
+              "dotfiles",
+              "flake",
+              "hardening",
+              "helix",
+              "nixos-configuration",
+              "nixos-dotfiles",
+              "qtile",
+              "vim",
+              "wayland",
+              "wezterm-config",
+              "zsh"
+            ]
           },
           "title": "XADE_qtile",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1757,12 +3010,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "River dotfiles. Catppuccin",
+            "homepage": null,
             "id": 460344302,
             "language": "Shell",
+            "license": "GPL-3.0",
             "last_commit": "2022-04-07T17:09:48Z",
+            "open_issues": 0,
             "owner": "adarsh-67r",
             "repo": "riverwm",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "arch",
+              "arch-linux",
+              "archlinux",
+              "catppuccin",
+              "dotfiles",
+              "river",
+              "riverwm",
+              "waybar",
+              "wayland",
+              "wayland-compositor",
+              "window-manager"
+            ]
           },
           "title": "theCode-Breaker",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1779,12 +3049,38 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Sway acid dark",
+            "homepage": null,
             "id": 54023820,
             "language": "Shell",
+            "license": null,
             "last_commit": "2026-08-24T13:03:56Z",
+            "open_issues": 1,
             "owner": "eoli3n",
             "repo": "dotfiles",
-            "stars": 575
+            "stars": 575,
+            "topics": [
+              "ansible",
+              "archlinux",
+              "desktop-environment",
+              "fish",
+              "gtk",
+              "gtk3",
+              "irc-client",
+              "neovim",
+              "nixos",
+              "oh-my-fish",
+              "polybar",
+              "rice",
+              "sway",
+              "swaywm",
+              "theme",
+              "waybar",
+              "wayland",
+              "weechat",
+              "wofi",
+              "zsh-theme"
+            ]
           },
           "title": "eoli3n",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1795,12 +3091,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 613620159,
             "language": "CSS",
+            "license": null,
             "last_commit": "2023-04-13T15:01:13Z",
+            "open_issues": 0,
             "owner": "hifinerd",
             "repo": "lugia-sway-dots",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "title": "hifinerd",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1811,12 +3112,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Personal NixOS configuration using flakes and home-manager.",
+            "homepage": null,
             "id": 544567432,
             "language": "Nix",
+            "license": null,
             "last_commit": "2025-10-27T19:45:07Z",
+            "open_issues": 1,
             "owner": "RicArch97",
             "repo": "nixos-config",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "title": "RicArch97",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1827,12 +3133,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Dotfiles for my Fedora Sway New Wave Rice!",
+            "homepage": null,
             "id": 746564162,
             "language": "CSS",
+            "license": null,
             "last_commit": "2024-04-06T05:03:45Z",
+            "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "new-wave",
-            "stars": 158
+            "stars": 158,
+            "topics": [
+              "dotfiles",
+              "eww",
+              "fedora",
+              "linux-rice",
+              "rice",
+              "sway",
+              "sway-dotfiles",
+              "swaywm"
+            ]
           },
           "title": "Lonewolf4713",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1849,12 +3169,35 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Collection of Linux dotfiles (XFCE, i3wm, Polybar, i3bar, Rofi, Dunst)",
+            "homepage": null,
             "id": 656164550,
             "language": "Lua",
+            "license": null,
             "last_commit": "2023-11-22T04:33:58Z",
+            "open_issues": 0,
             "owner": "fathulfahmy",
             "repo": "dotfiles-linux",
-            "stars": 10
+            "stars": 10,
+            "topics": [
+              "dotfile",
+              "dotfiles-linux",
+              "dotfiles-setup",
+              "dunst",
+              "i3bar",
+              "i3wm",
+              "linux",
+              "neovim",
+              "neovim-dotfiles",
+              "nvim",
+              "nvim-configs",
+              "polybar",
+              "rofi",
+              "vim",
+              "vim-configs",
+              "xfce",
+              "zsh"
+            ]
           },
           "title": "fathulfahmy",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1871,12 +3214,29 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A repository which contains my current Nix (flake-based) setup!",
+            "homepage": "https://codeberg.org/Icy-Thought/snowflake",
             "id": 368472530,
             "language": null,
+            "license": null,
             "last_commit": "2025-01-24T19:05:20Z",
+            "open_issues": 3,
             "owner": "Icy-Thought",
             "repo": "snowflake",
-            "stars": 174
+            "stars": 174,
+            "topics": [
+              "catppuccin",
+              "neovim",
+              "nix-flakes",
+              "nixos",
+              "qtile",
+              "rofi",
+              "sioyek",
+              "taffybar",
+              "tokyonight",
+              "wezterm",
+              "xmonad"
+            ]
           },
           "title": "Icy-Thought",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1893,12 +3253,23 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "✨My dotfiles on macOS or Linux for Neovim, Zsh, Kitty, Ranger, etc",
+            "homepage": null,
             "id": 556232836,
             "language": "HTML",
+            "license": "GPL-3.0",
             "last_commit": "2023-10-28T07:03:20Z",
+            "open_issues": 0,
             "owner": "command-z-z",
             "repo": "dotfiles",
-            "stars": 52
+            "stars": 52,
+            "topics": [
+              "dotfiles",
+              "neovim",
+              "tmux",
+              "yabai",
+              "zsh"
+            ]
           },
           "title": "command-z-z",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1909,12 +3280,25 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My personal macOS configuration",
+            "homepage": null,
             "id": 458865323,
             "language": "Lua",
+            "license": "GPL-3.0",
             "last_commit": "2025-10-04T13:49:22Z",
+            "open_issues": 23,
             "owner": "FelixKratz",
             "repo": "dotfiles",
-            "stars": 2027
+            "stars": 2027,
+            "topics": [
+              "borders",
+              "dotfiles",
+              "dotfiles-macos",
+              "helix",
+              "sketchybar",
+              "skhd",
+              "yabai"
+            ]
           },
           "title": "FelixKratz",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1925,12 +3309,21 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "dotfiles",
+            "homepage": null,
             "id": 422576354,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-12T21:12:57Z",
+            "open_issues": 0,
             "owner": "tcmmichaelb139",
             "repo": ".dotfiles",
-            "stars": 143
+            "stars": 143,
+            "topics": [
+              "dotfiles",
+              "macos",
+              "neovim"
+            ]
           },
           "title": "tcmmichaelb139",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1941,12 +3334,26 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "My dotfiles for macOS",
+            "homepage": null,
             "id": 370144351,
             "language": "Shell",
+            "license": null,
             "last_commit": "2025-03-05T10:53:23Z",
+            "open_issues": 2,
             "owner": "ZhongXiLu",
             "repo": "dotfiles",
-            "stars": 46
+            "stars": 46,
+            "topics": [
+              "dotfiles",
+              "homebrew",
+              "iterm2",
+              "macos",
+              "oh-my-zsh",
+              "yabai",
+              "yadm",
+              "zsh"
+            ]
           },
           "title": "ZhongXiLu",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -1956,15 +3363,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T03:12:14.340Z",
+    "last_updated": "2026-08-29T04:30:42.202Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated list of awesome unix user rices!",
+      "homepage": null,
       "id": 664358597,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2026-03-27T15:35:07Z",
+      "open_issues": 0,
       "owner": "zemmsoares",
       "repo": "awesome-rices",
-      "stars": 1346
+      "stars": 1346,
+      "topics": [
+        "awesome-list",
+        "awesomewm",
+        "bash",
+        "bspwm",
+        "dotfiles",
+        "dotfiles-resources",
+        "i3wm",
+        "list",
+        "ricing",
+        "shell"
+      ]
     },
     "original_repository_sha": "8e3fd966a4a9a3efa7199daee28d43dfd24f8ef8",
     "enhanced_repository": "enhansome/enhansome-rices",
