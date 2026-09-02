@@ -142,7 +142,7 @@
             "open_issues": 6,
             "owner": "namishh",
             "repo": "crystal",
-            "stars": 880,
+            "stars": 879,
             "topics": [
               "awesome",
               "awesomewm",
@@ -294,7 +294,7 @@
             "open_issues": 2,
             "owner": "madhur",
             "repo": "dotfiles",
-            "stars": 120,
+            "stars": 121,
             "topics": [
               "awesomewm",
               "endeavouros",
@@ -339,9 +339,9 @@
             "description": "Hyprland dotfiles",
             "homepage": null,
             "id": 497296071,
-            "language": "Lua",
+            "language": "QML",
             "license": null,
-            "last_commit": "2026-08-31T19:47:04Z",
+            "last_commit": "2026-09-02T20:53:40Z",
             "open_issues": 0,
             "owner": "mel-edo",
             "repo": "awesome-setup",
@@ -396,7 +396,7 @@
             "id": 498829633,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T21:33:49Z",
+            "last_commit": "2026-09-02T19:46:33Z",
             "open_issues": 0,
             "owner": "PassiveLemon",
             "repo": "lemonix",
@@ -546,7 +546,7 @@
             "id": 498991831,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T16:30:56Z",
+            "last_commit": "2026-09-02T04:58:32Z",
             "open_issues": 0,
             "owner": "Savecoders",
             "repo": "dotfiles",
@@ -1367,7 +1367,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1733,
+            "stars": 1732,
             "topics": [
               "arch",
               "customization",
@@ -1451,7 +1451,7 @@
             "open_issues": 0,
             "owner": "GabrielTenma",
             "repo": "dotfiles-gnm",
-            "stars": 61,
+            "stars": 60,
             "topics": [
               "dotfiles-linux",
               "gnome",
@@ -1621,7 +1621,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1733,
+            "stars": 1732,
             "topics": [
               "arch",
               "customization",
@@ -1785,7 +1785,7 @@
             "open_issues": 1,
             "owner": "conrad-mo",
             "repo": "hyprland-dot",
-            "stars": 35,
+            "stars": 34,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -1872,10 +1872,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-08-27T04:57:31Z",
-            "open_issues": 657,
+            "open_issues": 658,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 15932,
+            "stars": 15946,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -1978,7 +1978,7 @@
             "open_issues": 1,
             "owner": "MathisP75",
             "repo": "summer-day-and-night",
-            "stars": 553,
+            "stars": 554,
             "topics": []
           },
           "title": "MathisP75",
@@ -1999,7 +1999,7 @@
             "open_issues": 0,
             "owner": "TheMaxMur",
             "repo": "NixOS-Configuration",
-            "stars": 347,
+            "stars": 348,
             "topics": [
               "dotfiles",
               "helix",
@@ -2080,7 +2080,7 @@
             "id": 500664098,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-08-20T18:02:54Z",
+            "last_commit": "2026-09-02T14:54:51Z",
             "open_issues": 0,
             "owner": "ozwaldorf",
             "repo": "flake",
@@ -2443,7 +2443,7 @@
             "open_issues": 1,
             "owner": "bibjaw99",
             "repo": "workstation",
-            "stars": 779,
+            "stars": 778,
             "topics": []
           },
           "title": "bibjaw99",
@@ -2722,7 +2722,7 @@
             "id": 617121764,
             "language": "JavaScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-01T04:50:04Z",
+            "last_commit": "2026-09-02T04:10:58Z",
             "open_issues": 2,
             "owner": "TheWisker",
             "repo": "Shikai",
@@ -3120,7 +3120,7 @@
             "open_issues": 1,
             "owner": "RicArch97",
             "repo": "nixos-config",
-            "stars": 47,
+            "stars": 46,
             "topics": []
           },
           "title": "RicArch97",
@@ -3288,7 +3288,7 @@
             "open_issues": 23,
             "owner": "FelixKratz",
             "repo": "dotfiles",
-            "stars": 2024,
+            "stars": 2025,
             "topics": [
               "borders",
               "dotfiles",
@@ -3362,7 +3362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T23:24:27.912Z",
+    "last_updated": "2026-09-02T23:22:54.619Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
