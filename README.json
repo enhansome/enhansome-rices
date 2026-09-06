@@ -142,7 +142,7 @@
             "open_issues": 6,
             "owner": "namishh",
             "repo": "crystal",
-            "stars": 880,
+            "stars": 879,
             "topics": [
               "awesome",
               "awesomewm",
@@ -341,7 +341,7 @@
             "id": 497296071,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-09-04T18:19:22Z",
+            "last_commit": "2026-09-06T06:01:45Z",
             "open_issues": 0,
             "owner": "mel-edo",
             "repo": "awesome-setup",
@@ -396,7 +396,7 @@
             "id": 498829633,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-05T04:13:29Z",
+            "last_commit": "2026-09-06T18:13:41Z",
             "open_issues": 0,
             "owner": "PassiveLemon",
             "repo": "lemonix",
@@ -733,7 +733,7 @@
             "open_issues": 4,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4731,
+            "stars": 4732,
             "topics": [
               "alacritty",
               "archlinux",
@@ -1367,7 +1367,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1733,
+            "stars": 1734,
             "topics": [
               "arch",
               "customization",
@@ -1621,7 +1621,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1733,
+            "stars": 1734,
             "topics": [
               "arch",
               "customization",
@@ -1689,11 +1689,11 @@
             "id": 703729709,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-05T21:34:25Z",
+            "last_commit": "2026-09-06T21:24:31Z",
             "open_issues": 2,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 639,
+            "stars": 640,
             "topics": [
               "ags",
               "archlinux",
@@ -1875,7 +1875,7 @@
             "open_issues": 659,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 15985,
+            "stars": 16003,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -1948,7 +1948,7 @@
             "open_issues": 3,
             "owner": "knightfallxz",
             "repo": "Hyprland-Custom-Configuration",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "dotfiles",
               "eww",
@@ -2109,7 +2109,7 @@
             "open_issues": 89,
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8505,
+            "stars": 8502,
             "topics": [
               "arch",
               "archlinux",
@@ -2204,7 +2204,7 @@
             "open_issues": 0,
             "owner": "Sly-Harvey",
             "repo": "NixOS",
-            "stars": 591,
+            "stars": 592,
             "topics": [
               "dotfiles",
               "flake",
@@ -2316,7 +2316,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "seraphic.dotfiles",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "arch-rice",
               "everblush",
@@ -2443,7 +2443,7 @@
             "open_issues": 1,
             "owner": "bibjaw99",
             "repo": "workstation",
-            "stars": 778,
+            "stars": 780,
             "topics": []
           },
           "title": "bibjaw99",
@@ -3288,7 +3288,7 @@
             "open_issues": 23,
             "owner": "FelixKratz",
             "repo": "dotfiles",
-            "stars": 2026,
+            "stars": 2027,
             "topics": [
               "borders",
               "dotfiles",
@@ -3362,7 +3362,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T23:00:19.955Z",
+    "last_updated": "2026-09-06T22:55:29.688Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
