@@ -14,7 +14,7 @@
             "id": 687200106,
             "language": "Nix",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T19:08:33Z",
+            "last_commit": "2026-09-10T22:53:51Z",
             "open_issues": 0,
             "owner": "tuxdotrs",
             "repo": "nix-config",
@@ -142,7 +142,7 @@
             "open_issues": 6,
             "owner": "namishh",
             "repo": "crystal",
-            "stars": 878,
+            "stars": 879,
             "topics": [
               "awesome",
               "awesomewm",
@@ -473,7 +473,7 @@
             "open_issues": 44,
             "owner": "raexera",
             "repo": "yoru",
-            "stars": 3576,
+            "stars": 3577,
             "topics": [
               "aesthetic",
               "arch-linux",
@@ -733,7 +733,7 @@
             "open_issues": 3,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4730,
+            "stars": 4729,
             "topics": [
               "alacritty",
               "archlinux",
@@ -792,9 +792,9 @@
             "description": "And I say hey, what's going on?",
             "homepage": "https://youtu.be/ZZ5LpwO-An4",
             "id": 8497338,
-            "language": "Shell",
+            "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-26T21:04:54Z",
+            "last_commit": "2026-09-10T21:03:23Z",
             "open_issues": 3,
             "owner": "hlissner",
             "repo": "dotfiles",
@@ -1689,11 +1689,11 @@
             "id": 703729709,
             "language": "TypeScript",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-09T22:28:56Z",
+            "last_commit": "2026-09-10T20:16:47Z",
             "open_issues": 2,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 641,
+            "stars": 640,
             "topics": [
               "ags",
               "archlinux",
@@ -1872,10 +1872,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-08-27T04:57:31Z",
-            "open_issues": 660,
+            "open_issues": 661,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16038,
+            "stars": 16054,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2109,7 +2109,7 @@
             "open_issues": 89,
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8501,
+            "stars": 8500,
             "topics": [
               "arch",
               "archlinux",
@@ -2151,7 +2151,7 @@
             "open_issues": 10,
             "owner": "qxb3",
             "repo": "conf",
-            "stars": 808,
+            "stars": 809,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2434,17 +2434,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
-            "description": null,
+            "description": "A collection of dotfiles based on arch linux and swaywm",
             "homepage": null,
             "id": 647361175,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-02-01T10:49:54Z",
-            "open_issues": 1,
-            "owner": "bibjaw99",
-            "repo": "workstation",
+            "last_commit": "2026-09-10T17:34:47Z",
+            "open_issues": 0,
+            "owner": "mister-grimm96",
+            "repo": "swaystation",
             "stars": 780,
-            "topics": []
+            "topics": [
+              "archlinux",
+              "swaywm",
+              "wayland",
+              "wayland-compositor"
+            ]
           },
           "title": "bibjaw99",
           "first_seen": "2026-08-28T05:29:27.283Z"
@@ -2897,7 +2902,7 @@
             "open_issues": 0,
             "owner": "Darkkal44",
             "repo": "Cozytile",
-            "stars": 947,
+            "stars": 948,
             "topics": [
               "cozy",
               "dotiles",
@@ -3141,7 +3146,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "new-wave",
-            "stars": 161,
+            "stars": 162,
             "topics": [
               "dotfiles",
               "eww",
@@ -3362,7 +3367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T23:21:54.781Z",
+    "last_updated": "2026-09-10T23:15:24.217Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
