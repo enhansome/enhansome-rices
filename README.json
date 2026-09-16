@@ -14,7 +14,7 @@
             "id": 687200106,
             "language": "Nix",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T09:07:40Z",
+            "last_commit": "2026-09-16T09:51:30Z",
             "open_issues": 0,
             "owner": "tuxdotrs",
             "repo": "nix-config",
@@ -142,7 +142,7 @@
             "open_issues": 6,
             "owner": "namishh",
             "repo": "crystal",
-            "stars": 881,
+            "stars": 882,
             "topics": [
               "awesome",
               "awesomewm",
@@ -396,7 +396,7 @@
             "id": 498829633,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T23:17:41Z",
+            "last_commit": "2026-09-16T04:22:34Z",
             "open_issues": 0,
             "owner": "PassiveLemon",
             "repo": "lemonix",
@@ -515,7 +515,7 @@
             "open_issues": 12,
             "owner": "saimoomedits",
             "repo": "dotfiles",
-            "stars": 1171,
+            "stars": 1172,
             "topics": [
               "arch-linux",
               "archlinux",
@@ -733,7 +733,7 @@
             "open_issues": 3,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4737,
+            "stars": 4739,
             "topics": [
               "alacritty",
               "archlinux",
@@ -798,7 +798,7 @@
             "open_issues": 3,
             "owner": "hlissner",
             "repo": "dotfiles",
-            "stars": 1946,
+            "stars": 1947,
             "topics": [
               "dotfiles",
               "nix-flake",
@@ -997,7 +997,7 @@
             "open_issues": 0,
             "owner": "sudoharun",
             "repo": "dotfiles",
-            "stars": 256,
+            "stars": 257,
             "topics": []
           },
           "title": "sudoharun",
@@ -1367,7 +1367,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1736,
+            "stars": 1737,
             "topics": [
               "arch",
               "customization",
@@ -1583,7 +1583,7 @@
             "open_issues": 2,
             "owner": "ad1822",
             "repo": "hyprdots",
-            "stars": 424,
+            "stars": 423,
             "topics": [
               "arch",
               "dotfiles",
@@ -1621,7 +1621,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1736,
+            "stars": 1737,
             "topics": [
               "arch",
               "customization",
@@ -1689,8 +1689,8 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-15T15:28:24Z",
-            "open_issues": 2,
+            "last_commit": "2026-09-16T12:45:09Z",
+            "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
             "stars": 638,
@@ -1875,7 +1875,7 @@
             "open_issues": 672,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16111,
+            "stars": 16120,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -1948,7 +1948,7 @@
             "open_issues": 3,
             "owner": "knightfallxz",
             "repo": "Hyprland-Custom-Configuration",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "dotfiles",
               "eww",
@@ -2316,7 +2316,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "seraphic.dotfiles",
-            "stars": 310,
+            "stars": 311,
             "topics": [
               "arch-rice",
               "everblush",
@@ -2439,7 +2439,7 @@
             "id": 647361175,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-09-15T18:01:43Z",
+            "last_commit": "2026-09-16T05:43:20Z",
             "open_issues": 0,
             "owner": "mister-grimm96",
             "repo": "swaystation",
@@ -2831,7 +2831,7 @@
             "open_issues": 1,
             "owner": "owl4ce",
             "repo": "dotfiles",
-            "stars": 2170,
+            "stars": 2169,
             "topics": [
               "dotfiles",
               "dunst",
@@ -2902,7 +2902,7 @@
             "open_issues": 0,
             "owner": "Darkkal44",
             "repo": "Cozytile",
-            "stars": 947,
+            "stars": 946,
             "topics": [
               "cozy",
               "dotiles",
@@ -3293,7 +3293,7 @@
             "open_issues": 23,
             "owner": "FelixKratz",
             "repo": "dotfiles",
-            "stars": 2029,
+            "stars": 2028,
             "topics": [
               "borders",
               "dotfiles",
@@ -3367,7 +3367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T23:33:05.030Z",
+    "last_updated": "2026-09-16T23:41:04.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
