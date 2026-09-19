@@ -14,7 +14,7 @@
             "id": 687200106,
             "language": "Nix",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T17:42:05Z",
+            "last_commit": "2026-09-19T22:30:38Z",
             "open_issues": 0,
             "owner": "tuxdotrs",
             "repo": "nix-config",
@@ -345,7 +345,7 @@
             "open_issues": 0,
             "owner": "mel-edo",
             "repo": "awesome-setup",
-            "stars": 347,
+            "stars": 348,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -473,7 +473,7 @@
             "open_issues": 44,
             "owner": "raexera",
             "repo": "yoru",
-            "stars": 3578,
+            "stars": 3579,
             "topics": [
               "aesthetic",
               "arch-linux",
@@ -550,7 +550,7 @@
             "open_issues": 0,
             "owner": "Savecoders",
             "repo": "dotfiles",
-            "stars": 51,
+            "stars": 52,
             "topics": [
               "aur",
               "awesomewm",
@@ -733,7 +733,7 @@
             "open_issues": 3,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4738,
+            "stars": 4740,
             "topics": [
               "alacritty",
               "archlinux",
@@ -1270,7 +1270,7 @@
             "open_issues": 2,
             "owner": "juacq97",
             "repo": "dotfilesOlds",
-            "stars": 112,
+            "stars": 111,
             "topics": []
           },
           "title": "juacq97",
@@ -1367,7 +1367,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1737,
+            "stars": 1736,
             "topics": [
               "arch",
               "customization",
@@ -1621,7 +1621,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1737,
+            "stars": 1736,
             "topics": [
               "arch",
               "customization",
@@ -1689,7 +1689,7 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-18T10:59:56Z",
+            "last_commit": "2026-09-19T21:33:35Z",
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
@@ -1875,7 +1875,7 @@
             "open_issues": 670,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16151,
+            "stars": 16163,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2831,7 +2831,7 @@
             "open_issues": 1,
             "owner": "owl4ce",
             "repo": "dotfiles",
-            "stars": 2169,
+            "stars": 2168,
             "topics": [
               "dotfiles",
               "dunst",
@@ -2902,7 +2902,7 @@
             "open_issues": 0,
             "owner": "Darkkal44",
             "repo": "Cozytile",
-            "stars": 947,
+            "stars": 948,
             "topics": [
               "cozy",
               "dotiles",
@@ -3367,7 +3367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T23:23:12.362Z",
+    "last_updated": "2026-09-19T23:15:10.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
@@ -3376,7 +3376,7 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2026-03-27T15:35:07Z",
-      "open_issues": 0,
+      "open_issues": 1,
       "owner": "zemmsoares",
       "repo": "awesome-rices",
       "stars": 1359,
