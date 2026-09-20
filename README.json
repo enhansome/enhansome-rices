@@ -14,7 +14,7 @@
             "id": 687200106,
             "language": "Nix",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-19T22:30:38Z",
+            "last_commit": "2026-09-20T21:44:22Z",
             "open_issues": 0,
             "owner": "tuxdotrs",
             "repo": "nix-config",
@@ -473,7 +473,7 @@
             "open_issues": 44,
             "owner": "raexera",
             "repo": "yoru",
-            "stars": 3579,
+            "stars": 3580,
             "topics": [
               "aesthetic",
               "arch-linux",
@@ -515,7 +515,7 @@
             "open_issues": 12,
             "owner": "saimoomedits",
             "repo": "dotfiles",
-            "stars": 1172,
+            "stars": 1171,
             "topics": [
               "arch-linux",
               "archlinux",
@@ -733,7 +733,7 @@
             "open_issues": 3,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4740,
+            "stars": 4741,
             "topics": [
               "alacritty",
               "archlinux",
@@ -824,7 +824,7 @@
             "open_issues": 0,
             "owner": "JakeGinesin",
             "repo": "dotfiles",
-            "stars": 69,
+            "stars": 70,
             "topics": []
           },
           "title": "JakeGinesin",
@@ -1045,7 +1045,7 @@
             "id": 663033044,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-09-16T23:56:57Z",
+            "last_commit": "2026-09-20T06:07:53Z",
             "open_issues": 0,
             "owner": "imxade",
             "repo": "dotbin",
@@ -1693,7 +1693,7 @@
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 640,
+            "stars": 641,
             "topics": [
               "ags",
               "archlinux",
@@ -1872,10 +1872,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-09-14T02:47:37Z",
-            "open_issues": 670,
+            "open_issues": 671,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16163,
+            "stars": 16169,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2109,7 +2109,7 @@
             "open_issues": 89,
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8497,
+            "stars": 8498,
             "topics": [
               "arch",
               "archlinux",
@@ -2656,7 +2656,7 @@
             "open_issues": 0,
             "owner": "ComplexPlatform",
             "repo": "KDE-dotfiles",
-            "stars": 229,
+            "stars": 230,
             "topics": [
               "color-schemes",
               "dotfiles",
@@ -2879,7 +2879,7 @@
             "open_issues": 0,
             "owner": "Barbaross93",
             "repo": "Nebula",
-            "stars": 556,
+            "stars": 555,
             "topics": [
               "dotfiles"
             ]
@@ -2972,7 +2972,7 @@
             "id": 663033044,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-09-16T23:56:57Z",
+            "last_commit": "2026-09-20T06:07:53Z",
             "open_issues": 0,
             "owner": "imxade",
             "repo": "dotbin",
@@ -3146,7 +3146,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "new-wave",
-            "stars": 163,
+            "stars": 164,
             "topics": [
               "dotfiles",
               "eww",
@@ -3293,7 +3293,7 @@
             "open_issues": 23,
             "owner": "FelixKratz",
             "repo": "dotfiles",
-            "stars": 2029,
+            "stars": 2028,
             "topics": [
               "borders",
               "dotfiles",
@@ -3367,7 +3367,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T23:15:10.426Z",
+    "last_updated": "2026-09-20T23:18:41.414Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
@@ -3379,7 +3379,7 @@
       "open_issues": 1,
       "owner": "zemmsoares",
       "repo": "awesome-rices",
-      "stars": 1359,
+      "stars": 1360,
       "topics": [
         "awesome-list",
         "awesomewm",
