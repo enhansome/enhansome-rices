@@ -9,6 +9,46 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Caelestia-inspired desktop shell for macOS 26 Tahoe: sidebar with its own dock, launcher, dashboard, quick actions and a settings app. Native Swift, English and German.",
+            "homepage": "https://silvertree2010.github.io/ApolloShell/",
+            "id": 1370049625,
+            "language": "Swift",
+            "license": "MIT",
+            "last_commit": "2026-09-22T22:59:03Z",
+            "open_issues": 0,
+            "owner": "Silvertree2010",
+            "repo": "ApolloShell",
+            "stars": 62,
+            "topics": [
+              "appkit",
+              "caelestia",
+              "desktop-shell",
+              "dock",
+              "dotfiles",
+              "launcher",
+              "liquid-glass",
+              "macos",
+              "macos-app",
+              "macos-tahoe",
+              "swift",
+              "swiftui"
+            ]
+          },
+          "title": "Silvertree2010",
+          "first_seen": "2026-09-22T23:38:30.152Z"
+        }
+      ],
+      "title": "ApolloShell"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
             "description": "My entire infrastructure in a nix flake",
             "homepage": null,
             "id": 687200106,
@@ -515,7 +555,7 @@
             "open_issues": 12,
             "owner": "saimoomedits",
             "repo": "dotfiles",
-            "stars": 1172,
+            "stars": 1173,
             "topics": [
               "arch-linux",
               "archlinux",
@@ -546,7 +586,7 @@
             "id": 498991831,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-17T03:45:57Z",
+            "last_commit": "2026-09-22T23:07:25Z",
             "open_issues": 0,
             "owner": "Savecoders",
             "repo": "dotfiles",
@@ -733,7 +773,7 @@
             "open_issues": 3,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4743,
+            "stars": 4744,
             "topics": [
               "alacritty",
               "archlinux",
@@ -1689,7 +1729,7 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T13:49:18Z",
+            "last_commit": "2026-09-22T22:56:54Z",
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
@@ -1872,10 +1912,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-09-14T02:47:37Z",
-            "open_issues": 672,
+            "open_issues": 673,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16178,
+            "stars": 16185,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -1978,7 +2018,7 @@
             "open_issues": 1,
             "owner": "MathisP75",
             "repo": "summer-day-and-night",
-            "stars": 556,
+            "stars": 557,
             "topics": []
           },
           "title": "MathisP75",
@@ -2109,7 +2149,7 @@
             "open_issues": 89,
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8497,
+            "stars": 8495,
             "topics": [
               "arch",
               "archlinux",
@@ -2204,7 +2244,7 @@
             "open_issues": 0,
             "owner": "Sly-Harvey",
             "repo": "NixOS",
-            "stars": 602,
+            "stars": 603,
             "topics": [
               "dotfiles",
               "flake",
@@ -2439,7 +2479,7 @@
             "id": 647361175,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-09-18T06:59:37Z",
+            "last_commit": "2026-09-22T19:13:16Z",
             "open_issues": 0,
             "owner": "mister-grimm96",
             "repo": "swaystation",
@@ -2831,7 +2871,7 @@
             "open_issues": 1,
             "owner": "owl4ce",
             "repo": "dotfiles",
-            "stars": 2167,
+            "stars": 2168,
             "topics": [
               "dotfiles",
               "dunst",
@@ -3293,7 +3333,7 @@
             "open_issues": 23,
             "owner": "FelixKratz",
             "repo": "dotfiles",
-            "stars": 2030,
+            "stars": 2029,
             "topics": [
               "borders",
               "dotfiles",
@@ -3367,7 +3407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T00:10:59.391Z",
+    "last_updated": "2026-09-22T23:38:30.152Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
@@ -3375,8 +3415,8 @@
       "id": 664358597,
       "language": null,
       "license": "CC0-1.0",
-      "last_commit": "2026-03-27T15:35:07Z",
-      "open_issues": 1,
+      "last_commit": "2026-09-22T13:46:24Z",
+      "open_issues": 0,
       "owner": "zemmsoares",
       "repo": "awesome-rices",
       "stars": 1361,
@@ -3393,7 +3433,7 @@
         "shell"
       ]
     },
-    "original_repository_sha": "8e3fd966a4a9a3efa7199daee28d43dfd24f8ef8",
+    "original_repository_sha": "04825ade79944a6022b6f84a309f4c506d56f4c9",
     "enhanced_repository": "enhansome/enhansome-rices",
     "enhanced_repository_description": null,
     "title": "Awesome Rices with stars"
