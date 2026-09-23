@@ -18,7 +18,7 @@
             "open_issues": 0,
             "owner": "Silvertree2010",
             "repo": "ApolloShell",
-            "stars": 62,
+            "stars": 67,
             "topics": [
               "appkit",
               "caelestia",
@@ -54,7 +54,7 @@
             "id": 687200106,
             "language": "Nix",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-21T21:40:52Z",
+            "last_commit": "2026-09-23T22:42:25Z",
             "open_issues": 0,
             "owner": "tuxdotrs",
             "repo": "nix-config",
@@ -385,7 +385,7 @@
             "open_issues": 0,
             "owner": "mel-edo",
             "repo": "awesome-setup",
-            "stars": 349,
+            "stars": 351,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -834,7 +834,7 @@
             "id": 8497338,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-09-12T07:58:02Z",
+            "last_commit": "2026-09-23T08:50:05Z",
             "open_issues": 3,
             "owner": "hlissner",
             "repo": "dotfiles",
@@ -1407,7 +1407,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1736,
+            "stars": 1737,
             "topics": [
               "arch",
               "customization",
@@ -1466,7 +1466,7 @@
             "id": 614105096,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-08-19T15:52:56Z",
+            "last_commit": "2026-09-23T18:52:44Z",
             "open_issues": 0,
             "owner": "Comiclyy",
             "repo": "dotfiles",
@@ -1661,7 +1661,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1736,
+            "stars": 1737,
             "topics": [
               "arch",
               "customization",
@@ -1915,7 +1915,7 @@
             "open_issues": 673,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16185,
+            "stars": 16190,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2240,7 +2240,7 @@
             "id": 754447570,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-09-21T16:25:09Z",
+            "last_commit": "2026-09-23T16:34:06Z",
             "open_issues": 0,
             "owner": "Sly-Harvey",
             "repo": "NixOS",
@@ -2326,7 +2326,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "aeronix-dotfiles",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "archlinux-dotfiles",
               "dotfiles",
@@ -2483,7 +2483,7 @@
             "open_issues": 0,
             "owner": "mister-grimm96",
             "repo": "swaystation",
-            "stars": 784,
+            "stars": 787,
             "topics": [
               "archlinux",
               "swaywm",
@@ -2569,7 +2569,7 @@
             "open_issues": 0,
             "owner": "sommaa",
             "repo": "Mantis",
-            "stars": 118,
+            "stars": 119,
             "topics": [
               "dotfiles",
               "i3wm",
@@ -3333,7 +3333,7 @@
             "open_issues": 23,
             "owner": "FelixKratz",
             "repo": "dotfiles",
-            "stars": 2029,
+            "stars": 2030,
             "topics": [
               "borders",
               "dotfiles",
@@ -3407,7 +3407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T23:38:30.152Z",
+    "last_updated": "2026-09-23T23:47:36.699Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
@@ -3419,7 +3419,7 @@
       "open_issues": 0,
       "owner": "zemmsoares",
       "repo": "awesome-rices",
-      "stars": 1361,
+      "stars": 1362,
       "topics": [
         "awesome-list",
         "awesomewm",
