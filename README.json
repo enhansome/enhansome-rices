@@ -18,7 +18,7 @@
             "open_issues": 0,
             "owner": "Silvertree2010",
             "repo": "ApolloShell",
-            "stars": 76,
+            "stars": 79,
             "topics": [
               "appkit",
               "caelestia",
@@ -834,7 +834,7 @@
             "id": 8497338,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-09-28T07:12:03Z",
+            "last_commit": "2026-09-29T01:31:35Z",
             "open_issues": 3,
             "owner": "hlissner",
             "repo": "dotfiles",
@@ -1151,7 +1151,7 @@
             "open_issues": 9,
             "owner": "zoddDev",
             "repo": "dotfiles",
-            "stars": 792,
+            "stars": 791,
             "topics": [
               "arch",
               "arch-linux",
@@ -1564,7 +1564,7 @@
             "id": 384355271,
             "language": "QML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-17T14:10:30Z",
+            "last_commit": "2026-09-29T20:45:21Z",
             "open_issues": 0,
             "owner": "nuxshed",
             "repo": "dotfiles",
@@ -1729,7 +1729,7 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-26T21:20:08Z",
+            "last_commit": "2026-09-29T17:23:15Z",
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
@@ -1915,7 +1915,7 @@
             "open_issues": 675,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16227,
+            "stars": 16238,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2018,7 +2018,7 @@
             "open_issues": 1,
             "owner": "MathisP75",
             "repo": "summer-day-and-night",
-            "stars": 559,
+            "stars": 560,
             "topics": []
           },
           "title": "MathisP75",
@@ -2149,7 +2149,7 @@
             "open_issues": 89,
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8490,
+            "stars": 8489,
             "topics": [
               "arch",
               "archlinux",
@@ -2244,7 +2244,7 @@
             "open_issues": 0,
             "owner": "Sly-Harvey",
             "repo": "NixOS",
-            "stars": 608,
+            "stars": 609,
             "topics": [
               "dotfiles",
               "flake",
@@ -2740,7 +2740,7 @@
             "id": 271757834,
             "language": "Emacs Lisp",
             "license": null,
-            "last_commit": "2026-09-28T20:06:18Z",
+            "last_commit": "2026-09-29T17:20:01Z",
             "open_issues": 0,
             "owner": "almqv",
             "repo": "dotfiles",
@@ -2871,7 +2871,7 @@
             "open_issues": 1,
             "owner": "owl4ce",
             "repo": "dotfiles",
-            "stars": 2170,
+            "stars": 2171,
             "topics": [
               "dotfiles",
               "dunst",
@@ -3102,7 +3102,7 @@
             "open_issues": 1,
             "owner": "eoli3n",
             "repo": "dotfiles",
-            "stars": 574,
+            "stars": 573,
             "topics": [
               "ansible",
               "archlinux",
@@ -3333,7 +3333,7 @@
             "open_issues": 23,
             "owner": "FelixKratz",
             "repo": "dotfiles",
-            "stars": 2034,
+            "stars": 2031,
             "topics": [
               "borders",
               "dotfiles",
@@ -3407,7 +3407,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T01:03:45.315Z",
+    "last_updated": "2026-09-30T00:35:01.287Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
