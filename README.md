@@ -320,9 +320,9 @@
 
 [![Gwynsav](https://github.com/Gwynsav/messydots/raw/main/basicshowcase.png)](https://github.com/Gwynsav/messydots) ⭐ 70 | 🐛 0 | 🌐 Shell | 📅 2022-09-08
 
-### [hlissner](https://github.com/hlissner/dotfiles) ⭐ 1,951 | 🐛 3 | 🌐 Nix | 📅 2026-10-02
+### [hlissner](https://github.com/hlissner/dotfiles) ⭐ 1,952 | 🐛 3 | 🌐 Nix | 📅 2026-10-02
 
-[![hlissner](https://github.com/hlissner/dotfiles/raw/screenshots/alucard/fakebusy.png)](https://github.com/hlissner/dotfiles) ⭐ 1,951 | 🐛 3 | 🌐 Nix | 📅 2026-10-02
+[![hlissner](https://github.com/hlissner/dotfiles/raw/screenshots/alucard/fakebusy.png)](https://github.com/hlissner/dotfiles) ⭐ 1,952 | 🐛 3 | 🌐 Nix | 📅 2026-10-02
 
 ### [JakeGinesin](https://github.com/JakeGinesin/dotfiles) ⭐ 70 | 🐛 0 | 🌐 Shell | 📅 2025-04-01
 
@@ -458,9 +458,9 @@
 
 ## Herbstluftwm
 
-### [nuxshed](https://github.com/nuxshed/dotfiles) ⭐ 396 | 🐛 0 | 🌐 QML | 📅 2026-09-29
+### [nuxshed](https://github.com/nuxshed/dotfiles) ⭐ 396 | 🐛 0 | 🌐 QML | 📅 2026-10-03
 
-[![nuxshed](https://github.com/nuxshed/dotfiles/raw/main/rice.png)](https://github.com/nuxshed/dotfiles) ⭐ 396 | 🐛 0 | 🌐 QML | 📅 2026-09-29
+[![nuxshed](https://github.com/nuxshed/dotfiles/raw/main/rice.png)](https://github.com/nuxshed/dotfiles) ⭐ 396 | 🐛 0 | 🌐 QML | 📅 2026-10-03
 
 ### [scourii](https://github.com/scourii/.dotfiles/tree/main) ⭐ 17 | 🐛 0 | 🌐 Vim Script | 📅 2023-03-17
 
@@ -523,11 +523,11 @@
 
 [![dragoshr1234](https://user-images.githubusercontent.com/23416091/238871442-fa00eec6-1874-43d3-b884-e900db80093b.png)](https://github.com/dragoshr1234/hyprland-rotaru)
 
-### [end-4](https://github.com/end-4/dots-hyprland/) ⭐ 16,264 | 🐛 677 | 🌐 QML | 📅 2026-09-28
+### [end-4](https://github.com/end-4/dots-hyprland/) ⭐ 16,267 | 🐛 676 | 🌐 QML | 📅 2026-09-28
 
-[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/n-k.1.png)](https://github.com/end-4/dots-hyprland/) ⭐ 16,264 | 🐛 677 | 🌐 QML | 📅 2026-09-28
-[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/hybrid.1.png)](https://github.com/end-4/dots-hyprland/) ⭐ 16,264 | 🐛 677 | 🌐 QML | 📅 2026-09-28
-[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/windoes.1.png)](https://github.com/end-4/dots-hyprland/) ⭐ 16,264 | 🐛 677 | 🌐 QML | 📅 2026-09-28
+[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/n-k.1.png)](https://github.com/end-4/dots-hyprland/) ⭐ 16,267 | 🐛 676 | 🌐 QML | 📅 2026-09-28
+[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/hybrid.1.png)](https://github.com/end-4/dots-hyprland/) ⭐ 16,267 | 🐛 676 | 🌐 QML | 📅 2026-09-28
+[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/windoes.1.png)](https://github.com/end-4/dots-hyprland/) ⭐ 16,267 | 🐛 676 | 🌐 QML | 📅 2026-09-28
 
 ### [HeinzDev](https://github.com/HeinzDev/Hyprland-dotfiles) ⭐ 350 | 🐛 2 | 🌐 Nix | 📅 2023-12-01
 
@@ -569,9 +569,9 @@
 [![Narmis-E](https://github.com/Narmis-E/hyprland-dots/raw/main/tokyonight/images/rice.png)](https://github.com/Narmis-E/hyprland-dots) ⭐ 102 | 🐛 0 | 🌐 CSS | 📅 2024-04-28
 [![Narmis-E](https://user-images.githubusercontent.com/109248529/221400035-32215c77-6bc4-4779-b318-4b7d46604a7e.png)](https://github.com/Narmis-E/hyprland-dots) ⭐ 102 | 🐛 0 | 🌐 CSS | 📅 2024-04-28
 
-### [ozwaldorf](https://github.com/ozwaldorf/dotfiles) ⭐ 49 | 🐛 0 | 🌐 QML | 📅 2026-10-02
+### [ozwaldorf](https://github.com/ozwaldorf/dotfiles) ⭐ 49 | 🐛 0 | 🌐 QML | 📅 2026-10-03
 
-[![ozwaldorf](https://user-images.githubusercontent.com/8976745/249312484-3d8f346c-781e-478b-b7cc-2aab2b7b856d.png)](https://github.com/ozwaldorf/dotfiles) ⭐ 49 | 🐛 0 | 🌐 QML | 📅 2026-10-02
+[![ozwaldorf](https://user-images.githubusercontent.com/8976745/249312484-3d8f346c-781e-478b-b7cc-2aab2b7b856d.png)](https://github.com/ozwaldorf/dotfiles) ⭐ 49 | 🐛 0 | 🌐 QML | 📅 2026-10-03
 
 ### [prasanthrangan](https://github.com/prasanthrangan/hyprdots) ⭐ 8,485 | 🐛 89 | 🌐 Shell | 📅 2025-03-23
 

@@ -874,7 +874,7 @@
             "open_issues": 3,
             "owner": "hlissner",
             "repo": "dotfiles",
-            "stars": 1951,
+            "stars": 1952,
             "topics": [
               "dotfiles",
               "nix-flake",
@@ -1600,7 +1600,7 @@
             "id": 384355271,
             "language": "QML",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T20:45:21Z",
+            "last_commit": "2026-10-03T05:05:36Z",
             "open_issues": 0,
             "owner": "nuxshed",
             "repo": "dotfiles",
@@ -1948,10 +1948,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-09-28T07:16:53Z",
-            "open_issues": 677,
+            "open_issues": 676,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16264,
+            "stars": 16267,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2156,7 +2156,7 @@
             "id": 500664098,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-10-02T19:32:55Z",
+            "last_commit": "2026-10-03T01:34:07Z",
             "open_issues": 0,
             "owner": "ozwaldorf",
             "repo": "flake",
@@ -3443,7 +3443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:33:44.262Z",
+    "last_updated": "2026-10-03T05:06:23.196Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
