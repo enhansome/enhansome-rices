@@ -54,7 +54,7 @@
             "id": 687200106,
             "language": "Nix",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T13:05:48Z",
+            "last_commit": "2026-10-03T23:23:24Z",
             "open_issues": 0,
             "owner": "tuxdotrs",
             "repo": "nix-config",
@@ -809,7 +809,7 @@
             "open_issues": 3,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4748,
+            "stars": 4749,
             "topics": [
               "alacritty",
               "archlinux",
@@ -1413,7 +1413,7 @@
             "open_issues": 4,
             "owner": "seeingangelz",
             "repo": "dotfiles",
-            "stars": 147,
+            "stars": 146,
             "topics": [
               "dotfiles",
               "dwm"
@@ -1765,7 +1765,7 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-30T14:19:24Z",
+            "last_commit": "2026-10-03T12:30:09Z",
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
@@ -1947,11 +1947,11 @@
             "id": 583820372,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T07:16:53Z",
-            "open_issues": 676,
+            "last_commit": "2026-10-03T09:53:35Z",
+            "open_issues": 669,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16267,
+            "stars": 16275,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2156,7 +2156,7 @@
             "id": 500664098,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-10-03T01:34:07Z",
+            "last_commit": "2026-10-03T23:18:34Z",
             "open_issues": 0,
             "owner": "ozwaldorf",
             "repo": "flake",
@@ -2519,7 +2519,7 @@
             "open_issues": 0,
             "owner": "mister-grimm96",
             "repo": "swaystation",
-            "stars": 790,
+            "stars": 791,
             "topics": [
               "archlinux",
               "swaywm",
@@ -3443,7 +3443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:06:23.196Z",
+    "last_updated": "2026-10-03T23:55:07.436Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
