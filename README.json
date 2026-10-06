@@ -18,7 +18,7 @@
             "open_issues": 0,
             "owner": "Silvertree2010",
             "repo": "ApolloShell",
-            "stars": 85,
+            "stars": 87,
             "topics": [
               "appkit",
               "caelestia",
@@ -330,7 +330,7 @@
             "id": 582849508,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-10-02T18:34:00Z",
+            "last_commit": "2026-10-06T09:56:44Z",
             "open_issues": 2,
             "owner": "madhur",
             "repo": "dotfiles",
@@ -436,7 +436,7 @@
             "id": 498829633,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-06T00:57:48Z",
+            "last_commit": "2026-10-06T02:37:25Z",
             "open_issues": 0,
             "owner": "PassiveLemon",
             "repo": "lemonix",
@@ -586,7 +586,7 @@
             "id": 498991831,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-09-28T00:08:03Z",
+            "last_commit": "2026-10-06T04:00:07Z",
             "open_issues": 0,
             "owner": "Savecoders",
             "repo": "dotfiles",
@@ -1951,7 +1951,7 @@
             "open_issues": 679,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16295,
+            "stars": 16298,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2075,7 +2075,7 @@
             "open_issues": 0,
             "owner": "TheMaxMur",
             "repo": "NixOS-Configuration",
-            "stars": 353,
+            "stars": 352,
             "topics": [
               "dotfiles",
               "helix",
@@ -2160,7 +2160,7 @@
             "open_issues": 0,
             "owner": "ozwaldorf",
             "repo": "flake",
-            "stars": 49,
+            "stars": 50,
             "topics": [
               "dotfiles",
               "nix-flake",
@@ -3443,7 +3443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T01:47:26.699Z",
+    "last_updated": "2026-10-06T10:35:16.771Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
