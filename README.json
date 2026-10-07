@@ -14,11 +14,11 @@
             "id": 1370049625,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-10-05T01:58:55Z",
+            "last_commit": "2026-10-06T22:17:01Z",
             "open_issues": 0,
             "owner": "Silvertree2010",
             "repo": "ApolloShell",
-            "stars": 87,
+            "stars": 88,
             "topics": [
               "appkit",
               "caelestia",
@@ -381,7 +381,7 @@
             "id": 497296071,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-10-05T12:02:19Z",
+            "last_commit": "2026-10-06T14:24:11Z",
             "open_issues": 0,
             "owner": "mel-edo",
             "repo": "awesome-setup",
@@ -1229,7 +1229,7 @@
             "open_issues": 0,
             "owner": "SpreadiesInSpace",
             "repo": "cinnamon-dotfiles",
-            "stars": 63,
+            "stars": 64,
             "topics": []
           },
           "title": "SpreadiesInSpace",
@@ -1769,7 +1769,7 @@
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 651,
+            "stars": 652,
             "topics": [
               "ags",
               "archlinux",
@@ -1951,7 +1951,7 @@
             "open_issues": 679,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16298,
+            "stars": 16300,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -1982,7 +1982,7 @@
             "open_issues": 2,
             "owner": "HeinzDev",
             "repo": "Hyprland-dotfiles",
-            "stars": 350,
+            "stars": 351,
             "topics": []
           },
           "title": "HeinzDev",
@@ -2185,7 +2185,7 @@
             "open_issues": 89,
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8485,
+            "stars": 8484,
             "topics": [
               "arch",
               "archlinux",
@@ -2519,7 +2519,7 @@
             "open_issues": 0,
             "owner": "mister-grimm96",
             "repo": "swaystation",
-            "stars": 791,
+            "stars": 792,
             "topics": [
               "archlinux",
               "swaywm",
@@ -2732,7 +2732,7 @@
             "open_issues": 0,
             "owner": "ComplexPlatform",
             "repo": "KDE-dotfiles",
-            "stars": 230,
+            "stars": 227,
             "topics": [
               "color-schemes",
               "dotfiles",
@@ -2955,7 +2955,7 @@
             "open_issues": 0,
             "owner": "Barbaross93",
             "repo": "Nebula",
-            "stars": 552,
+            "stars": 551,
             "topics": [
               "dotfiles"
             ]
@@ -3369,7 +3369,7 @@
             "open_issues": 23,
             "owner": "FelixKratz",
             "repo": "dotfiles",
-            "stars": 2030,
+            "stars": 2029,
             "topics": [
               "borders",
               "dotfiles",
@@ -3443,7 +3443,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:35:16.771Z",
+    "last_updated": "2026-10-07T00:50:06.948Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
