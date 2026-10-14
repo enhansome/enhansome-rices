@@ -54,7 +54,7 @@
             "id": 687200106,
             "language": "Nix",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-11T15:25:36Z",
+            "last_commit": "2026-10-13T11:50:14Z",
             "open_issues": 0,
             "owner": "tuxdotrs",
             "repo": "nix-config",
@@ -182,7 +182,7 @@
             "open_issues": 6,
             "owner": "namishh",
             "repo": "crystal",
-            "stars": 884,
+            "stars": 885,
             "topics": [
               "awesome",
               "awesomewm",
@@ -232,7 +232,7 @@
             "open_issues": 17,
             "owner": "elenapan",
             "repo": "dotfiles",
-            "stars": 3901,
+            "stars": 3902,
             "topics": []
           },
           "title": "elenapan",
@@ -805,11 +805,11 @@
             "id": 274171959,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-24T02:43:27Z",
+            "last_commit": "2026-10-13T17:49:06Z",
             "open_issues": 3,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4754,
+            "stars": 4756,
             "topics": [
               "alacritty",
               "archlinux",
@@ -1765,11 +1765,11 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T18:09:44Z",
+            "last_commit": "2026-10-13T21:03:24Z",
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 666,
+            "stars": 667,
             "topics": [
               "archlinux",
               "dotfiles",
@@ -1947,10 +1947,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-10-11T02:48:36Z",
-            "open_issues": 674,
+            "open_issues": 677,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16335,
+            "stars": 16345,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2275,7 +2275,7 @@
             "id": 754447570,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-10-10T01:17:37Z",
+            "last_commit": "2026-10-13T18:34:13Z",
             "open_issues": 0,
             "owner": "Sly-Harvey",
             "repo": "NixOS",
@@ -2391,7 +2391,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "seraphic.dotfiles",
-            "stars": 313,
+            "stars": 314,
             "topics": [
               "arch-rice",
               "everblush",
@@ -2906,7 +2906,7 @@
             "open_issues": 1,
             "owner": "owl4ce",
             "repo": "dotfiles",
-            "stars": 2170,
+            "stars": 2168,
             "topics": [
               "dotfiles",
               "dunst",
@@ -3030,7 +3030,7 @@
             "open_issues": 1,
             "owner": "gibranlp",
             "repo": "QARSlp",
-            "stars": 122,
+            "stars": 123,
             "topics": []
           },
           "title": "gibranlp",
@@ -3221,7 +3221,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "new-wave",
-            "stars": 166,
+            "stars": 167,
             "topics": [
               "dotfiles",
               "eww",
@@ -3442,7 +3442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T02:37:20.420Z",
+    "last_updated": "2026-10-14T00:23:06.833Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
@@ -3454,7 +3454,7 @@
       "open_issues": 0,
       "owner": "zemmsoares",
       "repo": "awesome-rices",
-      "stars": 1370,
+      "stars": 1371,
       "topics": [
         "awesome-list",
         "awesomewm",
