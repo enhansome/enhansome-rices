@@ -18,7 +18,7 @@
             "open_issues": 0,
             "owner": "Silvertree2010",
             "repo": "ApolloShell",
-            "stars": 94,
+            "stars": 96,
             "topics": [
               "appkit",
               "caelestia",
@@ -232,7 +232,7 @@
             "open_issues": 17,
             "owner": "elenapan",
             "repo": "dotfiles",
-            "stars": 3902,
+            "stars": 3903,
             "topics": []
           },
           "title": "elenapan",
@@ -555,7 +555,7 @@
             "open_issues": 12,
             "owner": "saimoomedits",
             "repo": "dotfiles",
-            "stars": 1174,
+            "stars": 1175,
             "topics": [
               "arch-linux",
               "archlinux",
@@ -809,7 +809,7 @@
             "open_issues": 3,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4756,
+            "stars": 4759,
             "topics": [
               "alacritty",
               "archlinux",
@@ -1443,7 +1443,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1744,
+            "stars": 1745,
             "topics": [
               "arch",
               "customization",
@@ -1600,7 +1600,7 @@
             "id": 384355271,
             "language": "QML",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T05:05:36Z",
+            "last_commit": "2026-10-14T20:34:22Z",
             "open_issues": 0,
             "owner": "nuxshed",
             "repo": "dotfiles",
@@ -1697,7 +1697,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1744,
+            "stars": 1745,
             "topics": [
               "arch",
               "customization",
@@ -1765,7 +1765,7 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T21:03:24Z",
+            "last_commit": "2026-10-14T21:33:16Z",
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
@@ -1947,10 +1947,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-10-11T02:48:36Z",
-            "open_issues": 677,
+            "open_issues": 680,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16345,
+            "stars": 16359,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2184,7 +2184,7 @@
             "open_issues": 89,
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8489,
+            "stars": 8487,
             "topics": [
               "arch",
               "archlinux",
@@ -2253,7 +2253,7 @@
             "open_issues": 1,
             "owner": "shub39",
             "repo": "dotfiles",
-            "stars": 407,
+            "stars": 406,
             "topics": [
               "archlinux",
               "dotfiles",
@@ -2457,7 +2457,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "auspicious-dots",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "color-scheme",
               "hyprland",
@@ -2518,7 +2518,7 @@
             "open_issues": 0,
             "owner": "mister-grimm96",
             "repo": "swaystation",
-            "stars": 793,
+            "stars": 792,
             "topics": [
               "archlinux",
               "swaywm",
@@ -3042,6 +3042,27 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
+            "id": 1419265984,
+            "language": "Shell",
+            "license": null,
+            "last_commit": "2026-10-14T15:29:15Z",
+            "open_issues": 0,
+            "owner": "Hamza12700",
+            "repo": "dotfiles",
+            "stars": 0,
+            "topics": []
+          },
+          "title": "Hamza12700",
+          "first_seen": "2026-10-14T23:58:22.764Z"
+        },
+        {
+          "children": [],
+          "description": null,
+          "node_type": "item",
+          "repo_info": {
+            "archived": false,
             "description": "[Mirror] Dotfiles, check https://codeberg.org/XADE/dotbin/wiki for screenshots",
             "homepage": null,
             "id": 663033044,
@@ -3221,7 +3242,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "new-wave",
-            "stars": 167,
+            "stars": 166,
             "topics": [
               "dotfiles",
               "eww",
@@ -3442,7 +3463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T00:23:06.833Z",
+    "last_updated": "2026-10-14T23:58:22.764Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
