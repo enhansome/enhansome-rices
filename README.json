@@ -232,7 +232,7 @@
             "open_issues": 17,
             "owner": "elenapan",
             "repo": "dotfiles",
-            "stars": 3903,
+            "stars": 3902,
             "topics": []
           },
           "title": "elenapan",
@@ -809,7 +809,7 @@
             "open_issues": 4,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4765,
+            "stars": 4763,
             "topics": [
               "alacritty",
               "archlinux",
@@ -870,7 +870,7 @@
             "id": 8497338,
             "language": "Janet",
             "license": "MIT",
-            "last_commit": "2026-10-15T21:42:13Z",
+            "last_commit": "2026-10-17T23:12:09Z",
             "open_issues": 3,
             "owner": "hlissner",
             "repo": "dotfiles",
@@ -1443,7 +1443,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1745,
+            "stars": 1743,
             "topics": [
               "arch",
               "customization",
@@ -1697,7 +1697,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1745,
+            "stars": 1743,
             "topics": [
               "arch",
               "customization",
@@ -1765,11 +1765,11 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-16T15:18:50Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-17T17:42:55Z",
+            "open_issues": 2,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 671,
+            "stars": 672,
             "topics": [
               "archlinux",
               "dotfiles",
@@ -1947,10 +1947,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-10-11T02:48:36Z",
-            "open_issues": 681,
+            "open_issues": 683,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16380,
+            "stars": 16388,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2023,7 +2023,7 @@
             "open_issues": 3,
             "owner": "knightfallxz",
             "repo": "Hyprland-Custom-Configuration",
-            "stars": 344,
+            "stars": 342,
             "topics": [
               "dotfiles",
               "eww",
@@ -2074,7 +2074,7 @@
             "open_issues": 0,
             "owner": "TheMaxMur",
             "repo": "NixOS-Configuration",
-            "stars": 352,
+            "stars": 354,
             "topics": [
               "dotfiles",
               "helix",
@@ -2226,7 +2226,7 @@
             "open_issues": 10,
             "owner": "qxb3",
             "repo": "conf",
-            "stars": 807,
+            "stars": 806,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2279,7 +2279,7 @@
             "open_issues": 0,
             "owner": "Sly-Harvey",
             "repo": "NixOS",
-            "stars": 613,
+            "stars": 612,
             "topics": [
               "dotfiles",
               "flake",
@@ -2906,7 +2906,7 @@
             "open_issues": 1,
             "owner": "owl4ce",
             "repo": "dotfiles",
-            "stars": 2167,
+            "stars": 2168,
             "topics": [
               "dotfiles",
               "dunst",
@@ -3463,7 +3463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T23:42:11.185Z",
+    "last_updated": "2026-10-17T23:13:04.165Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
