@@ -18,7 +18,7 @@
             "open_issues": 0,
             "owner": "Silvertree2010",
             "repo": "ApolloShell",
-            "stars": 97,
+            "stars": 98,
             "topics": [
               "appkit",
               "caelestia",
@@ -385,7 +385,7 @@
             "open_issues": 0,
             "owner": "mel-edo",
             "repo": "awesome-setup",
-            "stars": 350,
+            "stars": 351,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -805,11 +805,11 @@
             "id": 274171959,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-13T17:49:06Z",
+            "last_commit": "2026-10-18T20:42:36Z",
             "open_issues": 4,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4763,
+            "stars": 4764,
             "topics": [
               "alacritty",
               "archlinux",
@@ -874,7 +874,7 @@
             "open_issues": 3,
             "owner": "hlissner",
             "repo": "dotfiles",
-            "stars": 1953,
+            "stars": 1954,
             "topics": [
               "dotfiles",
               "nix-flake",
@@ -1765,11 +1765,11 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-17T17:42:55Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-18T22:19:11Z",
+            "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 672,
+            "stars": 673,
             "topics": [
               "archlinux",
               "dotfiles",
@@ -1947,10 +1947,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-10-11T02:48:36Z",
-            "open_issues": 683,
+            "open_issues": 685,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16388,
+            "stars": 16400,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -3463,7 +3463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T23:13:04.165Z",
+    "last_updated": "2026-10-18T23:22:51.257Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
