@@ -161,7 +161,7 @@
             "open_issues": 2,
             "owner": "Amitabha37377",
             "repo": "Dotfiles",
-            "stars": 553,
+            "stars": 552,
             "topics": []
           },
           "title": "Amitabha37377",
@@ -436,7 +436,7 @@
             "id": 498829633,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-07T03:37:09Z",
+            "last_commit": "2026-10-20T21:28:26Z",
             "open_issues": 0,
             "owner": "PassiveLemon",
             "repo": "lemonix",
@@ -809,7 +809,7 @@
             "open_issues": 4,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4767,
+            "stars": 4768,
             "topics": [
               "alacritty",
               "archlinux",
@@ -874,7 +874,7 @@
             "open_issues": 3,
             "owner": "hlissner",
             "repo": "dotfiles",
-            "stars": 1955,
+            "stars": 1956,
             "topics": [
               "dotfiles",
               "nix-flake",
@@ -1187,7 +1187,7 @@
             "open_issues": 9,
             "owner": "zoddDev",
             "repo": "dotfiles",
-            "stars": 792,
+            "stars": 791,
             "topics": [
               "arch",
               "arch-linux",
@@ -1604,7 +1604,7 @@
             "open_issues": 0,
             "owner": "nuxshed",
             "repo": "dotfiles",
-            "stars": 397,
+            "stars": 398,
             "topics": [
               "awesomewm",
               "dotfiles",
@@ -1765,11 +1765,11 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-19T23:57:22Z",
+            "last_commit": "2026-10-20T23:23:22Z",
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 674,
+            "stars": 676,
             "topics": [
               "archlinux",
               "dotfiles",
@@ -1950,7 +1950,7 @@
             "open_issues": 690,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16407,
+            "stars": 16415,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2184,7 +2184,7 @@
             "open_issues": 89,
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8484,
+            "stars": 8483,
             "topics": [
               "arch",
               "archlinux",
@@ -3463,7 +3463,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T00:27:05.997Z",
+    "last_updated": "2026-10-20T23:58:13.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
