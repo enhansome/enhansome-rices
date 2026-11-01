@@ -14,11 +14,11 @@
             "id": 1370049625,
             "language": "Swift",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-30T11:53:32Z",
-            "open_issues": 4,
+            "last_commit": "2026-10-31T16:49:25Z",
+            "open_issues": 0,
             "owner": "Silvertree2010",
             "repo": "ApolloShell",
-            "stars": 117,
+            "stars": 118,
             "topics": [
               "appkit",
               "caelestia",
@@ -232,7 +232,7 @@
             "open_issues": 17,
             "owner": "elenapan",
             "repo": "dotfiles",
-            "stars": 3904,
+            "stars": 3905,
             "topics": []
           },
           "title": "elenapan",
@@ -330,7 +330,7 @@
             "id": 582849508,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-10-23T18:33:08Z",
+            "last_commit": "2026-10-31T01:30:04Z",
             "open_issues": 2,
             "owner": "madhur",
             "repo": "dotfiles",
@@ -586,7 +586,7 @@
             "id": 498991831,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-12T00:39:59Z",
+            "last_commit": "2026-10-31T21:12:28Z",
             "open_issues": 0,
             "owner": "Savecoders",
             "repo": "dotfiles",
@@ -874,7 +874,7 @@
             "open_issues": 3,
             "owner": "hlissner",
             "repo": "dotfiles",
-            "stars": 1956,
+            "stars": 1957,
             "topics": [
               "dotfiles",
               "nix-flake",
@@ -1761,15 +1761,15 @@
           "repo_info": {
             "archived": false,
             "description": "Highly polished, performance-focused Arch Linux / Hyprland / Quickshell dotfiles with dynamic theming, custom widgets, and a fast, modern workflow.",
-            "homepage": null,
+            "homepage": "https://aymanlyesri.github.io/ArchEclipse/",
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-30T19:50:35Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-31T14:45:17Z",
+            "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 682,
+            "stars": 685,
             "topics": [
               "archlinux",
               "dotfiles",
@@ -1947,10 +1947,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-10-11T02:48:36Z",
-            "open_issues": 714,
+            "open_issues": 715,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16508,
+            "stars": 16518,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2002,7 +2002,7 @@
             "open_issues": 3,
             "owner": "knightfallxz",
             "repo": "Hyprland-Custom-Configuration",
-            "stars": 343,
+            "stars": 344,
             "topics": [
               "dotfiles",
               "eww",
@@ -2032,7 +2032,7 @@
             "open_issues": 1,
             "owner": "MathisP75",
             "repo": "summer-day-and-night",
-            "stars": 562,
+            "stars": 563,
             "topics": []
           },
           "title": "MathisP75",
@@ -2163,7 +2163,7 @@
             "open_issues": 89,
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8472,
+            "stars": 8473,
             "topics": [
               "arch",
               "archlinux",
@@ -2258,7 +2258,7 @@
             "open_issues": 0,
             "owner": "Sly-Harvey",
             "repo": "NixOS",
-            "stars": 612,
+            "stars": 611,
             "topics": [
               "dotfiles",
               "flake",
@@ -2402,7 +2402,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "blue-monday.dots",
-            "stars": 35,
+            "stars": 36,
             "topics": [
               "alacritty",
               "cava",
@@ -2497,7 +2497,7 @@
             "open_issues": 0,
             "owner": "mister-grimm96",
             "repo": "swaystation",
-            "stars": 789,
+            "stars": 790,
             "topics": [
               "archlinux",
               "swaywm",
@@ -3442,7 +3442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T00:53:13.826Z",
+    "last_updated": "2026-11-01T00:13:09.124Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
