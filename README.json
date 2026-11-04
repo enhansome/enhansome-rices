@@ -18,7 +18,7 @@
             "open_issues": 0,
             "owner": "Silvertree2010",
             "repo": "ApolloShell",
-            "stars": 118,
+            "stars": 119,
             "topics": [
               "appkit",
               "caelestia",
@@ -586,7 +586,7 @@
             "id": 498991831,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-31T21:12:28Z",
+            "last_commit": "2026-11-03T16:24:06Z",
             "open_issues": 0,
             "owner": "Savecoders",
             "repo": "dotfiles",
@@ -809,7 +809,7 @@
             "open_issues": 8,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4776,
+            "stars": 4781,
             "topics": [
               "alacritty",
               "archlinux",
@@ -870,7 +870,7 @@
             "id": 8497338,
             "language": "Janet",
             "license": "MIT",
-            "last_commit": "2026-11-02T00:20:25Z",
+            "last_commit": "2026-11-03T03:49:16Z",
             "open_issues": 0,
             "owner": "hlissner",
             "repo": "dotfiles",
@@ -1950,7 +1950,7 @@
             "open_issues": 719,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16537,
+            "stars": 16545,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -3221,7 +3221,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "new-wave",
-            "stars": 165,
+            "stars": 167,
             "topics": [
               "dotfiles",
               "eww",
@@ -3368,7 +3368,7 @@
             "open_issues": 21,
             "owner": "FelixKratz",
             "repo": "dotfiles",
-            "stars": 2027,
+            "stars": 2028,
             "topics": [
               "borders",
               "dotfiles",
@@ -3397,7 +3397,7 @@
             "open_issues": 0,
             "owner": "tcmmichaelb139",
             "repo": ".dotfiles",
-            "stars": 139,
+            "stars": 140,
             "topics": [
               "dotfiles",
               "macos",
@@ -3442,7 +3442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T02:57:35.905Z",
+    "last_updated": "2026-11-04T01:29:49.041Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
@@ -3454,7 +3454,7 @@
       "open_issues": 0,
       "owner": "zemmsoares",
       "repo": "awesome-rices",
-      "stars": 1380,
+      "stars": 1381,
       "topics": [
         "awesome-list",
         "awesomewm",
