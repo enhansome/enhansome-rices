@@ -14,11 +14,11 @@
             "id": 1370049625,
             "language": "Swift",
             "license": "AGPL-3.0",
-            "last_commit": "2026-10-31T16:49:25Z",
+            "last_commit": "2026-11-04T19:10:22Z",
             "open_issues": 0,
             "owner": "Silvertree2010",
             "repo": "ApolloShell",
-            "stars": 119,
+            "stars": 122,
             "topics": [
               "appkit",
               "caelestia",
@@ -232,7 +232,7 @@
             "open_issues": 17,
             "owner": "elenapan",
             "repo": "dotfiles",
-            "stars": 3906,
+            "stars": 3905,
             "topics": []
           },
           "title": "elenapan",
@@ -513,7 +513,7 @@
             "open_issues": 44,
             "owner": "raexera",
             "repo": "yoru",
-            "stars": 3579,
+            "stars": 3578,
             "topics": [
               "aesthetic",
               "arch-linux",
@@ -809,7 +809,7 @@
             "open_issues": 8,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4781,
+            "stars": 4784,
             "topics": [
               "alacritty",
               "archlinux",
@@ -1443,7 +1443,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1745,
+            "stars": 1744,
             "topics": [
               "arch",
               "customization",
@@ -1697,7 +1697,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1745,
+            "stars": 1744,
             "topics": [
               "arch",
               "customization",
@@ -1769,7 +1769,7 @@
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 690,
+            "stars": 691,
             "topics": [
               "archlinux",
               "dotfiles",
@@ -1950,7 +1950,7 @@
             "open_issues": 719,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16545,
+            "stars": 16544,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2002,7 +2002,7 @@
             "open_issues": 3,
             "owner": "knightfallxz",
             "repo": "Hyprland-Custom-Configuration",
-            "stars": 344,
+            "stars": 345,
             "topics": [
               "dotfiles",
               "eww",
@@ -2032,7 +2032,7 @@
             "open_issues": 1,
             "owner": "MathisP75",
             "repo": "summer-day-and-night",
-            "stars": 563,
+            "stars": 564,
             "topics": []
           },
           "title": "MathisP75",
@@ -2134,7 +2134,7 @@
             "id": 500664098,
             "language": "QML",
             "license": "MIT",
-            "last_commit": "2026-10-27T05:34:32Z",
+            "last_commit": "2026-11-05T01:18:57Z",
             "open_issues": 0,
             "owner": "ozwaldorf",
             "repo": "flake",
@@ -2232,7 +2232,7 @@
             "open_issues": 1,
             "owner": "shub39",
             "repo": "dotfiles",
-            "stars": 406,
+            "stars": 405,
             "topics": [
               "archlinux",
               "dotfiles",
@@ -2497,7 +2497,7 @@
             "open_issues": 0,
             "owner": "mister-grimm96",
             "repo": "swaystation",
-            "stars": 790,
+            "stars": 789,
             "topics": [
               "archlinux",
               "swaywm",
@@ -3442,7 +3442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T01:29:49.041Z",
+    "last_updated": "2026-11-05T01:31:27.403Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
