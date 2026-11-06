@@ -18,7 +18,7 @@
             "open_issues": 0,
             "owner": "Silvertree2010",
             "repo": "ApolloShell",
-            "stars": 122,
+            "stars": 127,
             "topics": [
               "appkit",
               "caelestia",
@@ -54,7 +54,7 @@
             "id": 687200106,
             "language": "Nix",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-01T12:41:27Z",
+            "last_commit": "2026-11-05T18:30:49Z",
             "open_issues": 0,
             "owner": "tuxdotrs",
             "repo": "nix-config",
@@ -182,7 +182,7 @@
             "open_issues": 6,
             "owner": "namishh",
             "repo": "crystal",
-            "stars": 887,
+            "stars": 888,
             "topics": [
               "awesome",
               "awesomewm",
@@ -359,7 +359,7 @@
             "open_issues": 0,
             "owner": "Manas140",
             "repo": "dotfiles",
-            "stars": 434,
+            "stars": 435,
             "topics": [
               "awesomewm",
               "bspwm",
@@ -590,7 +590,7 @@
             "open_issues": 0,
             "owner": "Savecoders",
             "repo": "dotfiles",
-            "stars": 53,
+            "stars": 52,
             "topics": [
               "aur",
               "awesomewm",
@@ -652,7 +652,7 @@
             "open_issues": 4,
             "owner": "Stardust-kyun",
             "repo": "calla",
-            "stars": 750,
+            "stars": 751,
             "topics": [
               "awesomewm",
               "calla",
@@ -809,7 +809,7 @@
             "open_issues": 8,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4784,
+            "stars": 4782,
             "topics": [
               "alacritty",
               "archlinux",
@@ -870,7 +870,7 @@
             "id": 8497338,
             "language": "Janet",
             "license": "MIT",
-            "last_commit": "2026-11-03T03:49:16Z",
+            "last_commit": "2026-11-06T01:38:57Z",
             "open_issues": 0,
             "owner": "hlissner",
             "repo": "dotfiles",
@@ -1765,7 +1765,7 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-02T17:55:32Z",
+            "last_commit": "2026-11-05T17:16:39Z",
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
@@ -1950,7 +1950,7 @@
             "open_issues": 719,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16544,
+            "stars": 16545,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2002,7 +2002,7 @@
             "open_issues": 3,
             "owner": "knightfallxz",
             "repo": "Hyprland-Custom-Configuration",
-            "stars": 345,
+            "stars": 346,
             "topics": [
               "dotfiles",
               "eww",
@@ -2053,7 +2053,7 @@
             "open_issues": 0,
             "owner": "TheMaxMur",
             "repo": "NixOS-Configuration",
-            "stars": 355,
+            "stars": 356,
             "topics": [
               "dotfiles",
               "helix",
@@ -2163,7 +2163,7 @@
             "open_issues": 89,
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8471,
+            "stars": 8469,
             "topics": [
               "arch",
               "archlinux",
@@ -2254,7 +2254,7 @@
             "id": 754447570,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-10-23T08:40:17Z",
+            "last_commit": "2026-11-05T13:31:19Z",
             "open_issues": 0,
             "owner": "Sly-Harvey",
             "repo": "NixOS",
@@ -2497,7 +2497,7 @@
             "open_issues": 0,
             "owner": "mister-grimm96",
             "repo": "swaystation",
-            "stars": 789,
+            "stars": 790,
             "topics": [
               "archlinux",
               "swaywm",
@@ -2754,7 +2754,7 @@
             "id": 271757834,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-10-12T23:54:21Z",
+            "last_commit": "2026-11-05T23:50:18Z",
             "open_issues": 0,
             "owner": "almqv",
             "repo": "dotfiles",
@@ -3442,7 +3442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-05T01:31:27.403Z",
+    "last_updated": "2026-11-06T01:39:10.580Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
