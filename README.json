@@ -119,7 +119,7 @@
             "open_issues": 5,
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 823,
+            "stars": 824,
             "topics": [
               "aesthetic",
               "awesomewm",
@@ -330,7 +330,7 @@
             "id": 582849508,
             "language": "Lua",
             "license": null,
-            "last_commit": "2026-10-31T01:30:04Z",
+            "last_commit": "2026-11-06T18:32:51Z",
             "open_issues": 2,
             "owner": "madhur",
             "repo": "dotfiles",
@@ -746,7 +746,7 @@
             "open_issues": 5,
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 823,
+            "stars": 824,
             "topics": [
               "aesthetic",
               "awesomewm",
@@ -809,7 +809,7 @@
             "open_issues": 8,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4782,
+            "stars": 4779,
             "topics": [
               "alacritty",
               "archlinux",
@@ -1256,7 +1256,7 @@
             "open_issues": 5,
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 823,
+            "stars": 824,
             "topics": [
               "aesthetic",
               "awesomewm",
@@ -1304,7 +1304,7 @@
             "open_issues": 5,
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 823,
+            "stars": 824,
             "topics": [
               "aesthetic",
               "awesomewm",
@@ -1443,7 +1443,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1744,
+            "stars": 1745,
             "topics": [
               "arch",
               "customization",
@@ -1697,7 +1697,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1744,
+            "stars": 1745,
             "topics": [
               "arch",
               "customization",
@@ -1950,7 +1950,7 @@
             "open_issues": 719,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16545,
+            "stars": 16553,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2002,7 +2002,7 @@
             "open_issues": 3,
             "owner": "knightfallxz",
             "repo": "Hyprland-Custom-Configuration",
-            "stars": 346,
+            "stars": 344,
             "topics": [
               "dotfiles",
               "eww",
@@ -2370,7 +2370,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "seraphic.dotfiles",
-            "stars": 317,
+            "stars": 318,
             "topics": [
               "arch-rice",
               "everblush",
@@ -2822,7 +2822,7 @@
             "open_issues": 5,
             "owner": "AlphaTechnolog",
             "repo": "dotfiles",
-            "stars": 823,
+            "stars": 824,
             "topics": [
               "aesthetic",
               "awesomewm",
@@ -3442,7 +3442,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T01:39:10.580Z",
+    "last_updated": "2026-11-07T00:59:03.930Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
