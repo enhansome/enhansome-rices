@@ -164,9 +164,9 @@
 
 ## ApolloShell
 
-### [Silvertree2010](https://github.com/Silvertree2010/ApolloShell) ⭐ 130 | 🐛 0 | 🌐 Swift | 📅 2026-11-04
+### [Silvertree2010](https://github.com/Silvertree2010/ApolloShell) ⭐ 131 | 🐛 0 | 🌐 Swift | 📅 2026-11-04
 
-[![Silvertree2010](https://github.com/Silvertree2010/ApolloShell/raw/main/docs/images/hero.png)](https://github.com/Silvertree2010/ApolloShell) ⭐ 130 | 🐛 0 | 🌐 Swift | 📅 2026-11-04
+[![Silvertree2010](https://github.com/Silvertree2010/ApolloShell/raw/main/docs/images/hero.png)](https://github.com/Silvertree2010/ApolloShell) ⭐ 131 | 🐛 0 | 🌐 Swift | 📅 2026-11-04
 
 ## AwesomeWM
 
@@ -225,19 +225,19 @@
 
 [![HoNamDuong](https://github.com/HoNamDuong/.dotfiles/blob/master/screenshots/awesomewm.png?raw=true)](https://github.com/HoNamDuong/.dotfiles) ⭐ 16 | 🐛 0 | 🌐 Lua | 📅 2026-05-03
 
-### [madhur](https://github.com/madhur/dotfiles) ⭐ 125 | 🐛 2 | 🌐 Lua | 📅 2026-11-06
+### [madhur](https://github.com/madhur/dotfiles) ⭐ 124 | 🐛 2 | 🌐 Lua | 📅 2026-11-06
 
-[![madhur](https://raw.githubusercontent.com/madhur/dotfiles/main/rofi.png)](https://github.com/madhur/dotfiles) ⭐ 125 | 🐛 2 | 🌐 Lua | 📅 2026-11-06
-[![madhur](https://raw.githubusercontent.com/madhur/dotfiles/main/powermenu.png)](https://github.com/madhur/dotfiles) ⭐ 125 | 🐛 2 | 🌐 Lua | 📅 2026-11-06
-[![madhur](https://raw.githubusercontent.com/madhur/dotfiles/main/nvim.png)](https://github.com/madhur/dotfiles) ⭐ 125 | 🐛 2 | 🌐 Lua | 📅 2026-11-06
+[![madhur](https://raw.githubusercontent.com/madhur/dotfiles/main/rofi.png)](https://github.com/madhur/dotfiles) ⭐ 124 | 🐛 2 | 🌐 Lua | 📅 2026-11-06
+[![madhur](https://raw.githubusercontent.com/madhur/dotfiles/main/powermenu.png)](https://github.com/madhur/dotfiles) ⭐ 124 | 🐛 2 | 🌐 Lua | 📅 2026-11-06
+[![madhur](https://raw.githubusercontent.com/madhur/dotfiles/main/nvim.png)](https://github.com/madhur/dotfiles) ⭐ 124 | 🐛 2 | 🌐 Lua | 📅 2026-11-06
 
 ### [Manas140](https://github.com/Manas140/dotfiles) ⭐ 435 | 🐛 0 | 🌐 Lua | 📅 2024-01-12
 
 [![Manas140](https://github.com/Manas140/dotfiles/raw/awedots/preview.png)](https://github.com/Manas140/dotfiles) ⭐ 435 | 🐛 0 | 🌐 Lua | 📅 2024-01-12
 
-### [MeledoJames](https://github.com/MeledoJames/awesome-setup) ⭐ 349 | 🐛 0 | 🌐 QML | 📅 2026-10-06
+### [MeledoJames](https://github.com/MeledoJames/awesome-setup) ⭐ 350 | 🐛 0 | 🌐 QML | 📅 2026-10-06
 
-[![MeledoJames](https://github.com/MeledoJames/awesome-setup/raw/Lavender/images/1.png?raw=true)](https://github.com/MeledoJames/awesome-setup) ⭐ 349 | 🐛 0 | 🌐 QML | 📅 2026-10-06
+[![MeledoJames](https://github.com/MeledoJames/awesome-setup/raw/Lavender/images/1.png?raw=true)](https://github.com/MeledoJames/awesome-setup) ⭐ 350 | 🐛 0 | 🌐 QML | 📅 2026-10-06
 
 ### [pablonoya](https://github.com/pablonoya/awesomewm-configuration) ⭐ 130 | 🐛 0 | 🌐 Lua | 📅 2026-03-01
 
@@ -370,9 +370,9 @@
 
 [![valb-mig](https://github.com/valb-mig/.dotfiles/raw/main/.assets/dots.png)](https://github.com/valb-mig/.dotfiles) ⭐ 24 | 🐛 0 | 🌐 Shell | 📅 2025-02-09
 
-### [XADE](https://github.com/imxade/dotbin) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-11-08
+### [XADE](https://github.com/imxade/dotbin) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-11-09
 
-[![XADE](https://codeberg.org/XADE/dotbin/wiki/raw/assets/wall1.png)](https://github.com/imxade/dotbin) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-11-08
+[![XADE](https://codeberg.org/XADE/dotbin/wiki/raw/assets/wall1.png)](https://github.com/imxade/dotbin) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-11-09
 
 ### [Weirdchupacabra](https://github.com/Weirdchupacabra/void-dotfiles) ⭐ 6 | 🐛 0 | 🌐 Shell | 📅 2023-05-10
 
@@ -427,11 +427,11 @@
 
 ## Gnome
 
-### [1amSimp1e](https://github.com/1amSimp1e/dots) ⭐ 1,744 | 🐛 5 | 🌐 CSS | 📅 2024-12-06
+### [1amSimp1e](https://github.com/1amSimp1e/dots) ⭐ 1,743 | 🐛 5 | 🌐 CSS | 📅 2024-12-06
 
-[![1amSimp1e](https://raw.githubusercontent.com/iamverysimp1e/dots/main/ScreenShots/Gnome_Rice/Rice1.png)](https://github.com/1amSimp1e/dots) ⭐ 1,744 | 🐛 5 | 🌐 CSS | 📅 2024-12-06
-[![1amSimp1e](https://raw.githubusercontent.com/iamverysimp1e/dots/main/ScreenShots/Gnome_Rice/Rice2.png)](https://github.com/1amSimp1e/dots) ⭐ 1,744 | 🐛 5 | 🌐 CSS | 📅 2024-12-06
-[![1amSimp1e](https://raw.githubusercontent.com/iamverysimp1e/dots/main/ScreenShots/Gnome_Rice/Rice3.png)](https://github.com/1amSimp1e/dots) ⭐ 1,744 | 🐛 5 | 🌐 CSS | 📅 2024-12-06
+[![1amSimp1e](https://raw.githubusercontent.com/iamverysimp1e/dots/main/ScreenShots/Gnome_Rice/Rice1.png)](https://github.com/1amSimp1e/dots) ⭐ 1,743 | 🐛 5 | 🌐 CSS | 📅 2024-12-06
+[![1amSimp1e](https://raw.githubusercontent.com/iamverysimp1e/dots/main/ScreenShots/Gnome_Rice/Rice2.png)](https://github.com/1amSimp1e/dots) ⭐ 1,743 | 🐛 5 | 🌐 CSS | 📅 2024-12-06
+[![1amSimp1e](https://raw.githubusercontent.com/iamverysimp1e/dots/main/ScreenShots/Gnome_Rice/Rice3.png)](https://github.com/1amSimp1e/dots) ⭐ 1,743 | 🐛 5 | 🌐 CSS | 📅 2024-12-06
 
 ### [AviVarma](https://github.com/AviVarma/Dotfiles) ⭐ 9 | 🐛 0 | 🌐 Shell | 📅 2023-11-17
 
@@ -470,17 +470,17 @@
 
 ## Hyprland
 
-### [ad1822](https://github.com/ad1822/hyprdots) ⭐ 429 | 🐛 2 | 🌐 Lua | 📅 2026-09-30
+### [ad1822](https://github.com/ad1822/hyprdots) ⭐ 430 | 🐛 2 | 🌐 Lua | 📅 2026-09-30
 
-[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/main.png)](https://github.com/ad1822/hyprdots) ⭐ 429 | 🐛 2 | 🌐 Lua | 📅 2026-09-30
-[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/launcher.png)](https://github.com/ad1822/hyprdots) ⭐ 429 | 🐛 2 | 🌐 Lua | 📅 2026-09-30[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/powermenu.png)](https://github.com/ad1822/hyprdots) ⭐ 429 | 🐛 2 | 🌐 Lua | 📅 2026-09-30
-[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/btop.png)](https://github.com/ad1822/hyprdots) ⭐ 429 | 🐛 2 | 🌐 Lua | 📅 2026-09-30
-[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/yazi.png)](https://github.com/ad1822/hyprdots) ⭐ 429 | 🐛 2 | 🌐 Lua | 📅 2026-09-30
+[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/main.png)](https://github.com/ad1822/hyprdots) ⭐ 430 | 🐛 2 | 🌐 Lua | 📅 2026-09-30
+[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/launcher.png)](https://github.com/ad1822/hyprdots) ⭐ 430 | 🐛 2 | 🌐 Lua | 📅 2026-09-30[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/powermenu.png)](https://github.com/ad1822/hyprdots) ⭐ 430 | 🐛 2 | 🌐 Lua | 📅 2026-09-30
+[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/btop.png)](https://github.com/ad1822/hyprdots) ⭐ 430 | 🐛 2 | 🌐 Lua | 📅 2026-09-30
+[![ad1822](https://raw.githubusercontent.com/ad1822/hyprdots/refs/heads/main/Assets/yazi.png)](https://github.com/ad1822/hyprdots) ⭐ 430 | 🐛 2 | 🌐 Lua | 📅 2026-09-30
 
-### [1amSimp1e](https://github.com/1amSimp1e/dots) ⭐ 1,744 | 🐛 5 | 🌐 CSS | 📅 2024-12-06
+### [1amSimp1e](https://github.com/1amSimp1e/dots) ⭐ 1,743 | 🐛 5 | 🌐 CSS | 📅 2024-12-06
 
-[![1amSimp1e](https://raw.githubusercontent.com/iamverysimp1e/dots/late-night-%F0%9F%8C%83/ScreenShots/HyprLand/preview.png)](https://github.com/1amSimp1e/dots) ⭐ 1,744 | 🐛 5 | 🌐 CSS | 📅 2024-12-06
-[![1amSimp1e](https://raw.githubusercontent.com/1amSimp1e/dots/balcony%F0%9F%9A%8A/ScreenShots/HyprLand/Rice.png)](https://github.com/1amSimp1e/dots) ⭐ 1,744 | 🐛 5 | 🌐 CSS | 📅 2024-12-06
+[![1amSimp1e](https://raw.githubusercontent.com/iamverysimp1e/dots/late-night-%F0%9F%8C%83/ScreenShots/HyprLand/preview.png)](https://github.com/1amSimp1e/dots) ⭐ 1,743 | 🐛 5 | 🌐 CSS | 📅 2024-12-06
+[![1amSimp1e](https://raw.githubusercontent.com/1amSimp1e/dots/balcony%F0%9F%9A%8A/ScreenShots/HyprLand/Rice.png)](https://github.com/1amSimp1e/dots) ⭐ 1,743 | 🐛 5 | 🌐 CSS | 📅 2024-12-06
 
 ### [AdiKsOnDev](https://github.com/AdiKsOnDev/HyprValley) ⭐ 49 | 🐛 0 | 🌐 Shell | 📅 2026-08-02
 
@@ -489,10 +489,10 @@
 [![AdiKsOnDev](https://github.com/AdiKsOnDev/HyprValley/assets/80326762/6c45a90d-fd4d-419e-98da-52aa73ac4f01)](https://github.com/AdiKsOnDev/HyprValley) ⭐ 49 | 🐛 0 | 🌐 Shell | 📅 2026-08-02
 [![AdiKsOnDev](https://github.com/AdiKsOnDev/HyprValley/assets/80326762/84a2f0b1-a922-413f-b7c8-c03e56d83458)](https://github.com/AdiKsOnDev/HyprValley) ⭐ 49 | 🐛 0 | 🌐 Shell | 📅 2026-08-02
 
-### [ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) ⭐ 693 | 🐛 1 | 🌐 QML | 📅 2026-11-08
+### [ArchEclipse](https://github.com/AymanLyesri/ArchEclipse) ⭐ 693 | 🐛 1 | 🌐 QML | 📅 2026-11-09
 
-[![ArchEclipse](https://raw.githubusercontent.com/AymanLyesri/ArchEclipse/master/.github/assets/overview.png)](https://github.com/AymanLyesri/ArchEclipse) ⭐ 693 | 🐛 1 | 🌐 QML | 📅 2026-11-08
-[![ArchEclipse](https://raw.githubusercontent.com/AymanLyesri/ArchEclipse/master/.github/assets/wallpaper-switcher.png)](https://github.com/AymanLyesri/ArchEclipse) ⭐ 693 | 🐛 1 | 🌐 QML | 📅 2026-11-08
+[![ArchEclipse](https://raw.githubusercontent.com/AymanLyesri/ArchEclipse/master/.github/assets/overview.png)](https://github.com/AymanLyesri/ArchEclipse) ⭐ 693 | 🐛 1 | 🌐 QML | 📅 2026-11-09
+[![ArchEclipse](https://raw.githubusercontent.com/AymanLyesri/ArchEclipse/master/.github/assets/wallpaper-switcher.png)](https://github.com/AymanLyesri/ArchEclipse) ⭐ 693 | 🐛 1 | 🌐 QML | 📅 2026-11-09
 
 ### [cafreo](https://github.com/cafreo/hyprland-intergalactic) ⭐ 11 | 🐛 0 | 🌐 Lua | 📅 2026-10-29
 
@@ -523,11 +523,11 @@
 
 [![dragoshr1234](https://user-images.githubusercontent.com/23416091/238871442-fa00eec6-1874-43d3-b884-e900db80093b.png)](https://github.com/dragoshr1234/hyprland-rotaru)
 
-### [end-4](https://github.com/end-4/dots-hyprland/) ⭐ 16,566 | 🐛 713 | 🌐 QML | 📅 2026-11-08
+### [end-4](https://github.com/end-4/dots-hyprland/) ⭐ 16,580 | 🐛 718 | 🌐 QML | 📅 2026-11-08
 
-[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/n-k.1.png)](https://github.com/end-4/dots-hyprland/) ⭐ 16,566 | 🐛 713 | 🌐 QML | 📅 2026-11-08
-[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/hybrid.1.png)](https://github.com/end-4/dots-hyprland/) ⭐ 16,566 | 🐛 713 | 🌐 QML | 📅 2026-11-08
-[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/windoes.1.png)](https://github.com/end-4/dots-hyprland/) ⭐ 16,566 | 🐛 713 | 🌐 QML | 📅 2026-11-08
+[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/n-k.1.png)](https://github.com/end-4/dots-hyprland/) ⭐ 16,580 | 🐛 718 | 🌐 QML | 📅 2026-11-08
+[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/hybrid.1.png)](https://github.com/end-4/dots-hyprland/) ⭐ 16,580 | 🐛 718 | 🌐 QML | 📅 2026-11-08
+[![end-4](https://end-4.github.io/dots-hyprland-wiki/screenshots/windoes.1.png)](https://github.com/end-4/dots-hyprland/) ⭐ 16,580 | 🐛 718 | 🌐 QML | 📅 2026-11-08
 
 ### [HeinzDev](https://github.com/HeinzDev/Hyprland-dotfiles) ⭐ 352 | 🐛 2 | 🌐 Nix | 📅 2023-12-01
 
@@ -584,36 +584,36 @@
 [![prasanthrangan](https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/theme_graph_1.png)](https://github.com/prasanthrangan/hyprdots) ⭐ 8,469 | 🐛 89 | 🌐 Shell | 📅 2025-03-23
 [![prasanthrangan](https://raw.githubusercontent.com/prasanthrangan/hyprdots/main/Source/assets/theme_cedge_1.png)](https://github.com/prasanthrangan/hyprdots) ⭐ 8,469 | 🐛 89 | 🌐 Shell | 📅 2025-03-23
 
-### [qxb3](https://github.com/qxb3/gruvbox.hypr) ⭐ 802 | 🐛 10 | 📅 2026-03-14
+### [qxb3](https://github.com/qxb3/gruvbox.hypr) ⭐ 803 | 🐛 10 | 📅 2026-03-14
 
-[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/yume/repo/1.png)](https://github.com/qxb3/gruvbox.hypr/tree/yume) ⭐ 802 | 🐛 10 | 📅 2026-03-14
-[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/yume/repo/2.png)](https://github.com/qxb3/gruvbox.hypr/tree/yume) ⭐ 802 | 🐛 10 | 📅 2026-03-14
-[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/yume/repo/3.png)](https://github.com/qxb3/gruvbox.hypr/tree/yume) ⭐ 802 | 🐛 10 | 📅 2026-03-14
-[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/yume/repo/4.png)](https://github.com/qxb3/gruvbox.hypr/tree/yume) ⭐ 802 | 🐛 10 | 📅 2026-03-14
-[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/groove/repo/1.png)](https://github.com/qxb3/gruvbox.hypr/tree/groove) ⭐ 802 | 🐛 10 | 📅 2026-03-14
-[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/groove/repo/4.png)](https://github.com/qxb3/gruvbox.hypr/tree/groove) ⭐ 802 | 🐛 10 | 📅 2026-03-14
-[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/groove/repo/8.png)](https://github.com/qxb3/gruvbox.hypr/tree/groove) ⭐ 802 | 🐛 10 | 📅 2026-03-14
-[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/groove/repo/9.png)](https://github.com/qxb3/gruvbox.hypr/tree/groove) ⭐ 802 | 🐛 10 | 📅 2026-03-14
-[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/vim_styled/repo/1.png)](https://github.com/qxb3/gruvbox.hypr/tree/vim_styled) ⭐ 802 | 🐛 10 | 📅 2026-03-14
-[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/vim_styled/repo/2.png)](https://github.com/qxb3/gruvbox.hypr/tree/vim_styled) ⭐ 802 | 🐛 10 | 📅 2026-03-14
-[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/vim_styled/repo/3.png)](https://github.com/qxb3/gruvbox.hypr/tree/vim_styled) ⭐ 802 | 🐛 10 | 📅 2026-03-14
-[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/vim_styled/repo/4.png)](https://github.com/qxb3/gruvbox.hypr/tree/vim_styled) ⭐ 802 | 🐛 10 | 📅 2026-03-14
-[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/vim_styled/repo/5.png)](https://github.com/qxb3/gruvbox.hypr/tree/vim_styled) ⭐ 802 | 🐛 10 | 📅 2026-03-14
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/yume/repo/1.png)](https://github.com/qxb3/gruvbox.hypr/tree/yume) ⭐ 803 | 🐛 10 | 📅 2026-03-14
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/yume/repo/2.png)](https://github.com/qxb3/gruvbox.hypr/tree/yume) ⭐ 803 | 🐛 10 | 📅 2026-03-14
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/yume/repo/3.png)](https://github.com/qxb3/gruvbox.hypr/tree/yume) ⭐ 803 | 🐛 10 | 📅 2026-03-14
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/yume/repo/4.png)](https://github.com/qxb3/gruvbox.hypr/tree/yume) ⭐ 803 | 🐛 10 | 📅 2026-03-14
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/groove/repo/1.png)](https://github.com/qxb3/gruvbox.hypr/tree/groove) ⭐ 803 | 🐛 10 | 📅 2026-03-14
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/groove/repo/4.png)](https://github.com/qxb3/gruvbox.hypr/tree/groove) ⭐ 803 | 🐛 10 | 📅 2026-03-14
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/groove/repo/8.png)](https://github.com/qxb3/gruvbox.hypr/tree/groove) ⭐ 803 | 🐛 10 | 📅 2026-03-14
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/groove/repo/9.png)](https://github.com/qxb3/gruvbox.hypr/tree/groove) ⭐ 803 | 🐛 10 | 📅 2026-03-14
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/vim_styled/repo/1.png)](https://github.com/qxb3/gruvbox.hypr/tree/vim_styled) ⭐ 803 | 🐛 10 | 📅 2026-03-14
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/vim_styled/repo/2.png)](https://github.com/qxb3/gruvbox.hypr/tree/vim_styled) ⭐ 803 | 🐛 10 | 📅 2026-03-14
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/vim_styled/repo/3.png)](https://github.com/qxb3/gruvbox.hypr/tree/vim_styled) ⭐ 803 | 🐛 10 | 📅 2026-03-14
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/vim_styled/repo/4.png)](https://github.com/qxb3/gruvbox.hypr/tree/vim_styled) ⭐ 803 | 🐛 10 | 📅 2026-03-14
+[![qxb3](https://raw.githubusercontent.com/qxb3/gruvbox.hypr/vim_styled/repo/5.png)](https://github.com/qxb3/gruvbox.hypr/tree/vim_styled) ⭐ 803 | 🐛 10 | 📅 2026-03-14
 
-### [shub39](https://github.com/shub39/dotfiles) ⭐ 406 | 🐛 1 | 🌐 QML | 📅 2026-11-08
+### [shub39](https://github.com/shub39/dotfiles) ⭐ 406 | 🐛 1 | 🌐 QML | 📅 2026-11-09
 
-[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/1.png)](https://github.com/shub39/dotfiles) ⭐ 406 | 🐛 1 | 🌐 QML | 📅 2026-11-08
-[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/2.png)](https://github.com/shub39/dotfiles) ⭐ 406 | 🐛 1 | 🌐 QML | 📅 2026-11-08
-[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/3.png)](https://github.com/shub39/dotfiles) ⭐ 406 | 🐛 1 | 🌐 QML | 📅 2026-11-08
-[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/4.png)](https://github.com/shub39/dotfiles) ⭐ 406 | 🐛 1 | 🌐 QML | 📅 2026-11-08
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/1.png)](https://github.com/shub39/dotfiles) ⭐ 406 | 🐛 1 | 🌐 QML | 📅 2026-11-09
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/2.png)](https://github.com/shub39/dotfiles) ⭐ 406 | 🐛 1 | 🌐 QML | 📅 2026-11-09
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/3.png)](https://github.com/shub39/dotfiles) ⭐ 406 | 🐛 1 | 🌐 QML | 📅 2026-11-09
+[![shub39](https://github.com/shub39/dotfiles/raw/main/screenshots/4.png)](https://github.com/shub39/dotfiles) ⭐ 406 | 🐛 1 | 🌐 QML | 📅 2026-11-09
 
-### [Sly-Harvey](https://github.com/Sly-Harvey/NixOS) ⭐ 612 | 🐛 0 | 🌐 Nix | 📅 2026-11-05
+### [Sly-Harvey](https://github.com/Sly-Harvey/NixOS) ⭐ 613 | 🐛 0 | 🌐 Nix | 📅 2026-11-05
 
-[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview1.png)](https://github.com/Sly-Harvey/NixOS) ⭐ 612 | 🐛 0 | 🌐 Nix | 📅 2026-11-05
-[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview2.png)](https://github.com/Sly-Harvey/NixOS) ⭐ 612 | 🐛 0 | 🌐 Nix | 📅 2026-11-05
-[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview3.png)](https://github.com/Sly-Harvey/NixOS) ⭐ 612 | 🐛 0 | 🌐 Nix | 📅 2026-11-05
-[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview4.png)](https://github.com/Sly-Harvey/NixOS) ⭐ 612 | 🐛 0 | 🌐 Nix | 📅 2026-11-05
-[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview5.png)](https://github.com/Sly-Harvey/NixOS) ⭐ 612 | 🐛 0 | 🌐 Nix | 📅 2026-11-05
+[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview1.png)](https://github.com/Sly-Harvey/NixOS) ⭐ 613 | 🐛 0 | 🌐 Nix | 📅 2026-11-05
+[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview2.png)](https://github.com/Sly-Harvey/NixOS) ⭐ 613 | 🐛 0 | 🌐 Nix | 📅 2026-11-05
+[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview3.png)](https://github.com/Sly-Harvey/NixOS) ⭐ 613 | 🐛 0 | 🌐 Nix | 📅 2026-11-05
+[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview4.png)](https://github.com/Sly-Harvey/NixOS) ⭐ 613 | 🐛 0 | 🌐 Nix | 📅 2026-11-05
+[![Sly-Harvey](https://github.com/Sly-Harvey/NixOS/raw/master/.github/assets/preview5.png)](https://github.com/Sly-Harvey/NixOS) ⭐ 613 | 🐛 0 | 🌐 Nix | 📅 2026-11-05
 
 ### [Spagett1](https://github.com/Spagett1/dotfiles) ⭐ 15 | 🐛 0 | 🌐 Shell | 📅 2024-05-17
 
@@ -720,9 +720,9 @@
 
 ## Lightdm
 
-### [TheWisker](https://github.com/TheWisker/Shikai) ⭐ 137 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-04
+### [TheWisker](https://github.com/TheWisker/Shikai) ⭐ 137 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-04
 
-[![TheWisker](https://github.com/TheWisker/Shikai/raw/master/assets/screenshots/Screenshot_One.png)](https://github.com/TheWisker/Shikai) ⭐ 137 | 🐛 3 | 🌐 JavaScript | 📅 2026-09-04
+[![TheWisker](https://github.com/TheWisker/Shikai/raw/master/assets/screenshots/Screenshot_One.png)](https://github.com/TheWisker/Shikai) ⭐ 137 | 🐛 2 | 🌐 JavaScript | 📅 2026-09-04
 
 ## Openbox
 
@@ -745,9 +745,9 @@
 [![Barbaross93](https://github.com/Barbaross93/Nebula/raw/main/Scrots/1650648471.png)](https://github.com/Barbaross93/Nebula) ⚠️ Archived
 [![Barbaross93](https://github.com/Barbaross93/Nebula/raw/main/Scrots/1650648454.png)](https://github.com/Barbaross93/Nebula) ⚠️ Archived
 
-### [Darkkal44](https://github.com/Darkkal44/Cozytile) ⭐ 959 | 🐛 0 | 🌐 Python | 📅 2026-07-25
+### [Darkkal44](https://github.com/Darkkal44/Cozytile) ⭐ 960 | 🐛 0 | 🌐 Python | 📅 2026-07-25
 
-[![Darkkal44](https://github.com/Darkkal44/Cozytile/raw/main/Assets/preview.png)](https://github.com/Darkkal44/Cozytile) ⭐ 959 | 🐛 0 | 🌐 Python | 📅 2026-07-25
+[![Darkkal44](https://github.com/Darkkal44/Cozytile/raw/main/Assets/preview.png)](https://github.com/Darkkal44/Cozytile) ⭐ 960 | 🐛 0 | 🌐 Python | 📅 2026-07-25
 
 ### [Fluffy-Bean](https://github.com/Fluffy-Bean/dots) ⭐ 22 | 🐛 0 | 🌐 Python | 📅 2023-04-19
 
@@ -767,9 +767,9 @@
 
 [![shayanaqvi](https://github.com/shayanaqvi/dotfilets/raw/main/screenshots/desktop.png)](https://github.com/shayanaqvi/dotfilets)
 
-### [XADE\_qtile](https://github.com/imxade/dotbin) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-11-08
+### [XADE\_qtile](https://github.com/imxade/dotbin) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-11-09
 
-[![XADE](https://codeberg.org/XADE/dotbin/wiki/raw/assets/terminal.png)](https://github.com/imxade/dotbin) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-11-08
+[![XADE](https://codeberg.org/XADE/dotbin/wiki/raw/assets/terminal.png)](https://github.com/imxade/dotbin) ⭐ 8 | 🐛 0 | 🌐 QML | 📅 2026-11-09
 
 ## Riverwm
 
@@ -822,9 +822,9 @@
 [![command-z-z](https://github.com/command-z-z/dotfiles/raw/main/img/img1.png)](https://github.com/command-z-z/dotfiles) ⭐ 51 | 🐛 0 | 🌐 HTML | 📅 2023-10-28
 [![command-z-z](https://github.com/command-z-z/dotfiles/raw/main/img/img2.png)](https://github.com/command-z-z/dotfiles) ⭐ 51 | 🐛 0 | 🌐 HTML | 📅 2023-10-28
 
-### [FelixKratz](https://github.com/FelixKratz/dotfiles) ⭐ 2,028 | 🐛 21 | 🌐 Lua | 📅 2025-10-04
+### [FelixKratz](https://github.com/FelixKratz/dotfiles) ⭐ 2,029 | 🐛 21 | 🌐 Lua | 📅 2025-10-04
 
-[![FelixKratz](https://user-images.githubusercontent.com/22680421/221013836-9c06a95a-d33b-48d0-bf1e-ae72e78eb6a1.png)](https://github.com/FelixKratz/dotfiles) ⭐ 2,028 | 🐛 21 | 🌐 Lua | 📅 2025-10-04
+[![FelixKratz](https://user-images.githubusercontent.com/22680421/221013836-9c06a95a-d33b-48d0-bf1e-ae72e78eb6a1.png)](https://github.com/FelixKratz/dotfiles) ⭐ 2,029 | 🐛 21 | 🌐 Lua | 📅 2025-10-04
 
 ### [tcmmichaelb139](https://github.com/tcmmichaelb139/.dotfiles) ⭐ 140 | 🐛 0 | 🌐 Shell | 📅 2026-08-12
 
@@ -846,4 +846,4 @@ To the extent possible under law, Miguel Soares has waived all copyright and rel
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-10._
