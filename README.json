@@ -809,7 +809,7 @@
             "open_issues": 8,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4781,
+            "stars": 4782,
             "topics": [
               "alacritty",
               "archlinux",
@@ -874,7 +874,7 @@
             "open_issues": 0,
             "owner": "hlissner",
             "repo": "dotfiles",
-            "stars": 1957,
+            "stars": 1958,
             "topics": [
               "dotfiles",
               "nix-flake",
@@ -1388,7 +1388,7 @@
             "open_issues": 0,
             "owner": "raihanadf",
             "repo": "dotfiles",
-            "stars": 21,
+            "stars": 22,
             "topics": [
               "dotfiles",
               "linux",
@@ -1413,7 +1413,7 @@
             "open_issues": 4,
             "owner": "seeingangelz",
             "repo": "dotfiles",
-            "stars": 147,
+            "stars": 148,
             "topics": [
               "dotfiles",
               "dwm"
@@ -1659,7 +1659,7 @@
             "open_issues": 2,
             "owner": "ad1822",
             "repo": "hyprdots",
-            "stars": 430,
+            "stars": 431,
             "topics": [
               "arch",
               "dotfiles",
@@ -1765,11 +1765,11 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-09T23:03:32Z",
+            "last_commit": "2026-11-10T20:27:00Z",
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 693,
+            "stars": 696,
             "topics": [
               "archlinux",
               "dotfiles",
@@ -1950,7 +1950,7 @@
             "open_issues": 718,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16580,
+            "stars": 16594,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2002,7 +2002,7 @@
             "open_issues": 3,
             "owner": "knightfallxz",
             "repo": "Hyprland-Custom-Configuration",
-            "stars": 343,
+            "stars": 342,
             "topics": [
               "dotfiles",
               "eww",
@@ -2163,7 +2163,7 @@
             "open_issues": 89,
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8469,
+            "stars": 8468,
             "topics": [
               "arch",
               "archlinux",
@@ -2228,7 +2228,7 @@
             "id": 745799966,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-11-09T05:43:52Z",
+            "last_commit": "2026-11-10T09:44:39Z",
             "open_issues": 1,
             "owner": "shub39",
             "repo": "dotfiles",
@@ -3441,7 +3441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T03:38:59.125Z",
+    "last_updated": "2026-11-11T01:18:35.820Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
