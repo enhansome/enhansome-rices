@@ -18,7 +18,7 @@
             "open_issues": 0,
             "owner": "Silvertree2010",
             "repo": "ApolloShell",
-            "stars": 133,
+            "stars": 134,
             "topics": [
               "appkit",
               "caelestia",
@@ -334,7 +334,7 @@
             "open_issues": 2,
             "owner": "madhur",
             "repo": "dotfiles",
-            "stars": 124,
+            "stars": 125,
             "topics": [
               "awesomewm",
               "endeavouros",
@@ -513,7 +513,7 @@
             "open_issues": 44,
             "owner": "raexera",
             "repo": "yoru",
-            "stars": 3578,
+            "stars": 3575,
             "topics": [
               "aesthetic",
               "arch-linux",
@@ -809,7 +809,7 @@
             "open_issues": 4,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4784,
+            "stars": 4785,
             "topics": [
               "alacritty",
               "archlinux",
@@ -870,7 +870,7 @@
             "id": 8497338,
             "language": "Janet",
             "license": "MIT",
-            "last_commit": "2026-11-06T01:38:57Z",
+            "last_commit": "2026-11-15T12:00:18Z",
             "open_issues": 0,
             "owner": "hlissner",
             "repo": "dotfiles",
@@ -1765,11 +1765,11 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-14T17:25:13Z",
+            "last_commit": "2026-11-15T09:39:36Z",
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 700,
+            "stars": 701,
             "topics": [
               "archlinux",
               "dotfiles",
@@ -1946,11 +1946,11 @@
             "id": 583820372,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-08T11:01:00Z",
-            "open_issues": 721,
+            "last_commit": "2026-11-15T03:44:29Z",
+            "open_issues": 720,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16635,
+            "stars": 16650,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2053,7 +2053,7 @@
             "open_issues": 0,
             "owner": "TheMaxMur",
             "repo": "NixOS-Configuration",
-            "stars": 356,
+            "stars": 357,
             "topics": [
               "dotfiles",
               "helix",
@@ -2205,7 +2205,7 @@
             "open_issues": 10,
             "owner": "qxb3",
             "repo": "conf",
-            "stars": 803,
+            "stars": 802,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2228,7 +2228,7 @@
             "id": 745799966,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-11-14T15:30:46Z",
+            "last_commit": "2026-11-15T02:25:07Z",
             "open_issues": 1,
             "owner": "shub39",
             "repo": "dotfiles",
@@ -2257,7 +2257,7 @@
             "open_issues": 0,
             "owner": "Sly-Harvey",
             "repo": "NixOS",
-            "stars": 617,
+            "stars": 618,
             "topics": [
               "dotfiles",
               "flake",
@@ -2369,7 +2369,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "seraphic.dotfiles",
-            "stars": 320,
+            "stars": 321,
             "topics": [
               "arch-rice",
               "everblush",
@@ -3441,7 +3441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T01:07:11.421Z",
+    "last_updated": "2026-11-16T01:09:26.353Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
@@ -3453,7 +3453,7 @@
       "open_issues": 0,
       "owner": "zemmsoares",
       "repo": "awesome-rices",
-      "stars": 1390,
+      "stars": 1391,
       "topics": [
         "awesome-list",
         "awesomewm",
