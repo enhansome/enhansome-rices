@@ -14,7 +14,7 @@
             "id": 1370049625,
             "language": "Swift",
             "license": "AGPL-3.0",
-            "last_commit": "2026-11-13T15:14:04Z",
+            "last_commit": "2026-11-16T10:32:52Z",
             "open_issues": 0,
             "owner": "Silvertree2010",
             "repo": "ApolloShell",
@@ -232,7 +232,7 @@
             "open_issues": 17,
             "owner": "elenapan",
             "repo": "dotfiles",
-            "stars": 3906,
+            "stars": 3903,
             "topics": []
           },
           "title": "elenapan",
@@ -809,7 +809,7 @@
             "open_issues": 4,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4785,
+            "stars": 4786,
             "topics": [
               "alacritty",
               "archlinux",
@@ -1443,7 +1443,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1745,
+            "stars": 1746,
             "topics": [
               "arch",
               "customization",
@@ -1697,7 +1697,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1745,
+            "stars": 1746,
             "topics": [
               "arch",
               "customization",
@@ -1950,7 +1950,7 @@
             "open_issues": 720,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16650,
+            "stars": 16657,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2163,7 +2163,7 @@
             "open_issues": 89,
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8464,
+            "stars": 8462,
             "topics": [
               "arch",
               "archlinux",
@@ -2223,12 +2223,12 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
-            "description": "🤖 Dotfiles for my Niri config. ",
+            "description": "🤖 Dotfiles for my Machines",
             "homepage": null,
             "id": 745799966,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-11-15T02:25:07Z",
+            "last_commit": "2026-11-17T03:47:48Z",
             "open_issues": 1,
             "owner": "shub39",
             "repo": "dotfiles",
@@ -2369,7 +2369,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "seraphic.dotfiles",
-            "stars": 321,
+            "stars": 322,
             "topics": [
               "arch-rice",
               "everblush",
@@ -3097,7 +3097,7 @@
             "open_issues": 0,
             "owner": "adarsh-67r",
             "repo": "riverwm",
-            "stars": 175,
+            "stars": 174,
             "topics": [
               "arch",
               "arch-linux",
@@ -3136,7 +3136,7 @@
             "open_issues": 1,
             "owner": "eoli3n",
             "repo": "dotfiles",
-            "stars": 575,
+            "stars": 576,
             "topics": [
               "ansible",
               "archlinux",
@@ -3367,7 +3367,7 @@
             "open_issues": 21,
             "owner": "FelixKratz",
             "repo": "dotfiles",
-            "stars": 2029,
+            "stars": 2028,
             "topics": [
               "borders",
               "dotfiles",
@@ -3441,7 +3441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-16T01:09:26.353Z",
+    "last_updated": "2026-11-17T03:59:59.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
