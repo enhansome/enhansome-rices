@@ -809,7 +809,7 @@
             "open_issues": 4,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4786,
+            "stars": 4785,
             "topics": [
               "alacritty",
               "archlinux",
@@ -1527,7 +1527,7 @@
             "open_issues": 0,
             "owner": "GabrielTenma",
             "repo": "dotfiles-gnm",
-            "stars": 60,
+            "stars": 61,
             "topics": [
               "dotfiles-linux",
               "gnome",
@@ -1765,11 +1765,11 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-15T09:39:36Z",
+            "last_commit": "2026-11-17T23:29:56Z",
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 701,
+            "stars": 702,
             "topics": [
               "archlinux",
               "dotfiles",
@@ -1947,10 +1947,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-11-15T03:44:29Z",
-            "open_issues": 720,
+            "open_issues": 722,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16657,
+            "stars": 16663,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2111,7 +2111,7 @@
             "open_issues": 0,
             "owner": "Narmis-E",
             "repo": "hyprland-dots",
-            "stars": 104,
+            "stars": 103,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2228,7 +2228,7 @@
             "id": 745799966,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-11-17T03:47:48Z",
+            "last_commit": "2026-11-17T04:26:11Z",
             "open_issues": 1,
             "owner": "shub39",
             "repo": "dotfiles",
@@ -2253,7 +2253,7 @@
             "id": 754447570,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-11-05T13:31:19Z",
+            "last_commit": "2026-11-17T22:12:17Z",
             "open_issues": 0,
             "owner": "Sly-Harvey",
             "repo": "NixOS",
@@ -2709,7 +2709,7 @@
             "open_issues": 0,
             "owner": "ComplexPlatform",
             "repo": "KDE-dotfiles",
-            "stars": 228,
+            "stars": 229,
             "topics": [
               "color-schemes",
               "dotfiles",
@@ -2884,7 +2884,7 @@
             "open_issues": 1,
             "owner": "owl4ce",
             "repo": "dotfiles",
-            "stars": 2170,
+            "stars": 2169,
             "topics": [
               "dotfiles",
               "dunst",
@@ -2932,7 +2932,7 @@
             "open_issues": 0,
             "owner": "Barbaross93",
             "repo": "Nebula",
-            "stars": 551,
+            "stars": 549,
             "topics": [
               "dotfiles"
             ]
@@ -3441,7 +3441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T03:59:59.914Z",
+    "last_updated": "2026-11-18T02:57:57.662Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
