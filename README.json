@@ -86,7 +86,7 @@
             "open_issues": 2,
             "owner": "AllJavi",
             "repo": "tartarus-dotfiles",
-            "stars": 117,
+            "stars": 118,
             "topics": [
               "archlinux",
               "awesome-wm",
@@ -182,7 +182,7 @@
             "open_issues": 6,
             "owner": "namishh",
             "repo": "crystal",
-            "stars": 888,
+            "stars": 889,
             "topics": [
               "awesome",
               "awesomewm",
@@ -436,7 +436,7 @@
             "id": 498829633,
             "language": "Lua",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-08T23:45:12Z",
+            "last_commit": "2026-11-18T03:23:04Z",
             "open_issues": 0,
             "owner": "PassiveLemon",
             "repo": "lemonix",
@@ -652,7 +652,7 @@
             "open_issues": 4,
             "owner": "Stardust-kyun",
             "repo": "calla",
-            "stars": 752,
+            "stars": 751,
             "topics": [
               "awesomewm",
               "calla",
@@ -805,7 +805,7 @@
             "id": 274171959,
             "language": "Shell",
             "license": "GPL-3.0",
-            "last_commit": "2026-10-18T20:42:36Z",
+            "last_commit": "2026-11-18T15:52:53Z",
             "open_issues": 4,
             "owner": "gh0stzk",
             "repo": "dotfiles",
@@ -1073,7 +1073,7 @@
             "open_issues": 0,
             "owner": "sudoharun",
             "repo": "dotfiles",
-            "stars": 254,
+            "stars": 255,
             "topics": []
           },
           "title": "sudoharun",
@@ -1765,11 +1765,11 @@
             "id": 703729709,
             "language": "QML",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-17T23:29:56Z",
+            "last_commit": "2026-11-18T16:32:29Z",
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 702,
+            "stars": 704,
             "topics": [
               "archlinux",
               "dotfiles",
@@ -1947,10 +1947,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-11-15T03:44:29Z",
-            "open_issues": 722,
+            "open_issues": 724,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16663,
+            "stars": 16671,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2205,7 +2205,7 @@
             "open_issues": 10,
             "owner": "qxb3",
             "repo": "conf",
-            "stars": 802,
+            "stars": 803,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2496,7 +2496,7 @@
             "open_issues": 0,
             "owner": "mister-grimm96",
             "repo": "swaystation",
-            "stars": 793,
+            "stars": 792,
             "topics": [
               "archlinux",
               "swaywm",
@@ -3220,7 +3220,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "new-wave",
-            "stars": 168,
+            "stars": 169,
             "topics": [
               "dotfiles",
               "eww",
@@ -3367,7 +3367,7 @@
             "open_issues": 21,
             "owner": "FelixKratz",
             "repo": "dotfiles",
-            "stars": 2028,
+            "stars": 2029,
             "topics": [
               "borders",
               "dotfiles",
@@ -3441,7 +3441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T02:57:57.662Z",
+    "last_updated": "2026-11-19T02:40:03.589Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
