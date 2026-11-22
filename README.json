@@ -18,7 +18,7 @@
             "open_issues": 1,
             "owner": "Silvertree2010",
             "repo": "ApolloShell",
-            "stars": 135,
+            "stars": 137,
             "topics": [
               "appkit",
               "caelestia",
@@ -513,7 +513,7 @@
             "open_issues": 44,
             "owner": "raexera",
             "repo": "yoru",
-            "stars": 3572,
+            "stars": 3571,
             "topics": [
               "aesthetic",
               "arch-linux",
@@ -806,10 +806,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-11-18T15:52:53Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4785,
+            "stars": 4786,
             "topics": [
               "alacritty",
               "archlinux",
@@ -1443,7 +1443,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1746,
+            "stars": 1745,
             "topics": [
               "arch",
               "customization",
@@ -1527,7 +1527,7 @@
             "open_issues": 0,
             "owner": "GabrielTenma",
             "repo": "dotfiles-gnm",
-            "stars": 61,
+            "stars": 60,
             "topics": [
               "dotfiles-linux",
               "gnome",
@@ -1697,7 +1697,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1746,
+            "stars": 1745,
             "topics": [
               "arch",
               "customization",
@@ -1769,7 +1769,7 @@
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 707,
+            "stars": 708,
             "topics": [
               "archlinux",
               "dotfiles",
@@ -1947,10 +1947,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-11-15T03:44:29Z",
-            "open_issues": 724,
+            "open_issues": 725,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16685,
+            "stars": 16694,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2228,7 +2228,7 @@
             "id": 745799966,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-11-20T16:44:47Z",
+            "last_commit": "2026-11-21T16:36:49Z",
             "open_issues": 1,
             "owner": "shub39",
             "repo": "dotfiles",
@@ -3220,7 +3220,7 @@
             "open_issues": 0,
             "owner": "LoneWolf4713",
             "repo": "new-wave",
-            "stars": 169,
+            "stars": 171,
             "topics": [
               "dotfiles",
               "eww",
@@ -3367,7 +3367,7 @@
             "open_issues": 21,
             "owner": "FelixKratz",
             "repo": "dotfiles",
-            "stars": 2031,
+            "stars": 2032,
             "topics": [
               "borders",
               "dotfiles",
@@ -3441,7 +3441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T02:33:03.043Z",
+    "last_updated": "2026-11-22T01:26:01.955Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
