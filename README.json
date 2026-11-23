@@ -232,7 +232,7 @@
             "open_issues": 17,
             "owner": "elenapan",
             "repo": "dotfiles",
-            "stars": 3904,
+            "stars": 3905,
             "topics": []
           },
           "title": "elenapan",
@@ -513,7 +513,7 @@
             "open_issues": 44,
             "owner": "raexera",
             "repo": "yoru",
-            "stars": 3571,
+            "stars": 3570,
             "topics": [
               "aesthetic",
               "arch-linux",
@@ -806,10 +806,10 @@
             "language": "Shell",
             "license": "GPL-3.0",
             "last_commit": "2026-11-18T15:52:53Z",
-            "open_issues": 5,
+            "open_issues": 7,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4786,
+            "stars": 4787,
             "topics": [
               "alacritty",
               "archlinux",
@@ -1769,7 +1769,7 @@
             "open_issues": 1,
             "owner": "AymanLyesri",
             "repo": "ArchEclipse",
-            "stars": 708,
+            "stars": 709,
             "topics": [
               "archlinux",
               "dotfiles",
@@ -1947,10 +1947,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-11-15T03:44:29Z",
-            "open_issues": 725,
+            "open_issues": 731,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16694,
+            "stars": 16701,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2032,7 +2032,7 @@
             "open_issues": 1,
             "owner": "MathisP75",
             "repo": "summer-day-and-night",
-            "stars": 566,
+            "stars": 567,
             "topics": []
           },
           "title": "MathisP75",
@@ -2228,7 +2228,7 @@
             "id": 745799966,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-11-21T16:36:49Z",
+            "last_commit": "2026-11-22T14:27:17Z",
             "open_issues": 1,
             "owner": "shub39",
             "repo": "dotfiles",
@@ -3441,7 +3441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T01:26:01.955Z",
+    "last_updated": "2026-11-23T01:50:18.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
