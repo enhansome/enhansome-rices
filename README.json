@@ -18,7 +18,7 @@
             "open_issues": 0,
             "owner": "Silvertree2010",
             "repo": "ApolloShell",
-            "stars": 138,
+            "stars": 140,
             "topics": [
               "appkit",
               "caelestia",
@@ -182,7 +182,7 @@
             "open_issues": 6,
             "owner": "namishh",
             "repo": "crystal",
-            "stars": 890,
+            "stars": 889,
             "topics": [
               "awesome",
               "awesomewm",
@@ -232,7 +232,7 @@
             "open_issues": 17,
             "owner": "elenapan",
             "repo": "dotfiles",
-            "stars": 3905,
+            "stars": 3903,
             "topics": []
           },
           "title": "elenapan",
@@ -555,7 +555,7 @@
             "open_issues": 12,
             "owner": "saimoomedits",
             "repo": "dotfiles",
-            "stars": 1175,
+            "stars": 1174,
             "topics": [
               "arch-linux",
               "archlinux",
@@ -809,7 +809,7 @@
             "open_issues": 7,
             "owner": "gh0stzk",
             "repo": "dotfiles",
-            "stars": 4792,
+            "stars": 4791,
             "topics": [
               "alacritty",
               "archlinux",
@@ -1229,7 +1229,7 @@
             "open_issues": 0,
             "owner": "SpreadiesInSpace",
             "repo": "cinnamon-dotfiles",
-            "stars": 66,
+            "stars": 67,
             "topics": []
           },
           "title": "SpreadiesInSpace",
@@ -1443,7 +1443,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1749,
+            "stars": 1748,
             "topics": [
               "arch",
               "customization",
@@ -1697,7 +1697,7 @@
             "open_issues": 5,
             "owner": "1amSimp1e",
             "repo": "dots",
-            "stars": 1749,
+            "stars": 1748,
             "topics": [
               "arch",
               "customization",
@@ -1947,10 +1947,10 @@
             "language": "QML",
             "license": "GPL-3.0",
             "last_commit": "2026-11-15T03:44:29Z",
-            "open_issues": 738,
+            "open_issues": 740,
             "owner": "end-4",
             "repo": "dots-hyprland",
-            "stars": 16733,
+            "stars": 16742,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2163,7 +2163,7 @@
             "open_issues": 89,
             "owner": "prasanthrangan",
             "repo": "hyprdots",
-            "stars": 8461,
+            "stars": 8460,
             "topics": [
               "arch",
               "archlinux",
@@ -2205,7 +2205,7 @@
             "open_issues": 10,
             "owner": "qxb3",
             "repo": "conf",
-            "stars": 803,
+            "stars": 801,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -2228,8 +2228,8 @@
             "id": 745799966,
             "language": "QML",
             "license": null,
-            "last_commit": "2026-11-26T03:36:54Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-27T00:54:17Z",
+            "open_issues": 0,
             "owner": "shub39",
             "repo": "dotfiles",
             "stars": 406,
@@ -2257,7 +2257,7 @@
             "open_issues": 0,
             "owner": "Sly-Harvey",
             "repo": "NixOS",
-            "stars": 618,
+            "stars": 619,
             "topics": [
               "dotfiles",
               "flake",
@@ -3136,7 +3136,7 @@
             "open_issues": 1,
             "owner": "eoli3n",
             "repo": "dotfiles",
-            "stars": 577,
+            "stars": 576,
             "topics": [
               "ansible",
               "archlinux",
@@ -3441,7 +3441,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T03:39:27.497Z",
+    "last_updated": "2026-11-27T03:40:30.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome unix user rices!",
@@ -3453,7 +3453,7 @@
       "open_issues": 0,
       "owner": "zemmsoares",
       "repo": "awesome-rices",
-      "stars": 1394,
+      "stars": 1395,
       "topics": [
         "awesome-list",
         "awesomewm",
